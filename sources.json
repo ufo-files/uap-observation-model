@@ -18,6 +18,15 @@
     "terms_url": "https://www.dvidshub.net/about/copyright"
   },
   {
+    "id": "082a109b605e7024dfbc44812795df11cf954ce4b3a3d769b3e5bc151728c2c4",
+    "source_sha256": "082a109b605e7024dfbc44812795df11cf954ce4b3a3d769b3e5bc151728c2c4",
+    "title": "Contributor-supplied video 082a109b605e",
+    "official_url": null,
+    "rights_marking": "Contributor-supplied media; source-media terms remain separate",
+    "attribution": null,
+    "terms_url": null
+  },
+  {
     "id": "5a3507ee8b6ac2c57ef098d2669dd7e638366b0bb71267633c6506c1f33bd61f",
     "source_sha256": "5a3507ee8b6ac2c57ef098d2669dd7e638366b0bb71267633c6506c1f33bd61f",
     "title": "DOW-UAP-PR148, Unresolved UAP Report, East China Sea, 2023",
@@ -90,6 +99,33 @@
     "terms_url": "https://www.dvidshub.net/about/copyright"
   },
   {
+    "id": "1892e3ce4b4627baf5524d45aa23a7be46b4465c12454dd542147a8b9262be30",
+    "source_sha256": "1892e3ce4b4627baf5524d45aa23a7be46b4465c12454dd542147a8b9262be30",
+    "title": "Contributor-supplied video 1892e3ce4b46",
+    "official_url": null,
+    "rights_marking": "Contributor-supplied media; source-media terms remain separate",
+    "attribution": null,
+    "terms_url": null
+  },
+  {
+    "id": "1adc628555e67c6baf44a827d043e5f96e89342fe1e93e11dc4c00ffdf969089",
+    "source_sha256": "1adc628555e67c6baf44a827d043e5f96e89342fe1e93e11dc4c00ffdf969089",
+    "title": "Contributor-supplied video 1adc628555e6",
+    "official_url": null,
+    "rights_marking": "Contributor-supplied media; source-media terms remain separate",
+    "attribution": null,
+    "terms_url": null
+  },
+  {
+    "id": "1d7c0773ce2ae34f9b8d0627ef6df12027b8c09a3db6a03d4085b6ad44fae447",
+    "source_sha256": "1d7c0773ce2ae34f9b8d0627ef6df12027b8c09a3db6a03d4085b6ad44fae447",
+    "title": "Contributor-supplied video 1d7c0773ce2a",
+    "official_url": null,
+    "rights_marking": "Contributor-supplied media; source-media terms remain separate",
+    "attribution": null,
+    "terms_url": null
+  },
+  {
     "id": "e38036bd96383206b10adbac9e7c2f43e42f8950a2d37df8a7cb5a835bccaec5",
     "source_sha256": "e38036bd96383206b10adbac9e7c2f43e42f8950a2d37df8a7cb5a835bccaec5",
     "title": "DOW-UAP-PR108, Unresolved UAP Report, Western United States, 2020",
@@ -124,6 +160,15 @@
     "rights_marking": "See credited DVIDS source terms",
     "attribution": null,
     "terms_url": "https://www.dvidshub.net/about/copyright"
+  },
+  {
+    "id": "20611bab19305e98b92a37bb61b1b2960bd551240c2257e7e357e1281b320544",
+    "source_sha256": "20611bab19305e98b92a37bb61b1b2960bd551240c2257e7e357e1281b320544",
+    "title": "Contributor-supplied video 20611bab1930",
+    "official_url": null,
+    "rights_marking": "Contributor-supplied media; source-media terms remain separate",
+    "attribution": null,
+    "terms_url": null
   },
   {
     "id": "93ad0fe3bd9279c302cd8206c004a01e77b0dbf448b9de18f3b29563e446b2dc",
@@ -171,6 +216,15 @@
     "terms_url": "https://www.dvidshub.net/about/copyright"
   },
   {
+    "id": "273c82d7a16b4beab2b8179e93cf0ae65936e1f9991626d6118dd3a2967d5fed",
+    "source_sha256": "273c82d7a16b4beab2b8179e93cf0ae65936e1f9991626d6118dd3a2967d5fed",
+    "title": "Contributor-supplied video 273c82d7a16b",
+    "official_url": null,
+    "rights_marking": "Contributor-supplied media; source-media terms remain separate",
+    "attribution": null,
+    "terms_url": null
+  },
+  {
     "id": "43d114fa153fa86523832e35bc9731883a67dd6bc9ea1d34c7afd5a83fe5e570",
     "source_sha256": "43d114fa153fa86523832e35bc9731883a67dd6bc9ea1d34c7afd5a83fe5e570",
     "title": "DOW-UAP-PR057a, \"Spherical UAP in clouds\"",
@@ -189,6 +243,24 @@
     "terms_url": "https://www.dvidshub.net/about/copyright"
   },
   {
+    "id": "2b3f4a81f350f325981a4657ed8d7a7aa36ca2f63eeb9bc869e214b632a10136",
+    "source_sha256": "2b3f4a81f350f325981a4657ed8d7a7aa36ca2f63eeb9bc869e214b632a10136",
+    "title": "Contributor-supplied video 2b3f4a81f350",
+    "official_url": null,
+    "rights_marking": "Contributor-supplied media; source-media terms remain separate",
+    "attribution": null,
+    "terms_url": null
+  },
+  {
+    "id": "2dfb501bbbabf840dee260fb74844a8973f7d41ea51c0c1487f2962b7c9332f4",
+    "source_sha256": "2dfb501bbbabf840dee260fb74844a8973f7d41ea51c0c1487f2962b7c9332f4",
+    "title": "Contributor-supplied video 2dfb501bbbab",
+    "official_url": null,
+    "rights_marking": "Contributor-supplied media; source-media terms remain separate",
+    "attribution": null,
+    "terms_url": null
+  },
+  {
     "id": "af62b4e40a2eb0fd39f98093be2a6ae50271a011e7d5caca2119b26aaabc1212",
     "source_sha256": "af62b4e40a2eb0fd39f98093be2a6ae50271a011e7d5caca2119b26aaabc1212",
     "title": "Unresolved UAP Report, Iraq, May 2022",
@@ -205,6 +277,15 @@
     "rights_marking": "See credited DVIDS source terms",
     "attribution": null,
     "terms_url": "https://www.dvidshub.net/about/copyright"
+  },
+  {
+    "id": "2f417479b2cdb81f0c338ecc80dd6baf4ca5130df3701e975027801f3909e8c8",
+    "source_sha256": "2f417479b2cdb81f0c338ecc80dd6baf4ca5130df3701e975027801f3909e8c8",
+    "title": "Contributor-supplied video 2f417479b2cd",
+    "official_url": null,
+    "rights_marking": "Contributor-supplied media; source-media terms remain separate",
+    "attribution": null,
+    "terms_url": null
   },
   {
     "id": "22768155ccc4beec135c49559ae7cf4a2092c944422fdffb0eeab815058d0a81",
@@ -234,6 +315,24 @@
     "terms_url": null
   },
   {
+    "id": "32fb9c9852dfe56bde03081c13021bb3d3508f1af1bff717362f8b5fb44fcce8",
+    "source_sha256": "32fb9c9852dfe56bde03081c13021bb3d3508f1af1bff717362f8b5fb44fcce8",
+    "title": "Contributor-supplied video 32fb9c9852df",
+    "official_url": null,
+    "rights_marking": "Contributor-supplied media; source-media terms remain separate",
+    "attribution": null,
+    "terms_url": null
+  },
+  {
+    "id": "3478f9418ab845f52f054ecf4d70fa28705925f0f240a5a7f37b0bff539c1370",
+    "source_sha256": "3478f9418ab845f52f054ecf4d70fa28705925f0f240a5a7f37b0bff539c1370",
+    "title": "Contributor-supplied video 3478f9418ab8",
+    "official_url": null,
+    "rights_marking": "Contributor-supplied media; source-media terms remain separate",
+    "attribution": null,
+    "terms_url": null
+  },
+  {
     "id": "de1005b30f8c1f70f813240404c052d5ae3fc4930ac736109ea28272e84f6010",
     "source_sha256": "de1005b30f8c1f70f813240404c052d5ae3fc4930ac736109ea28272e84f6010",
     "title": "DOW-UAP-PR067, \"Multiple Spherical UAP USO near Sub. [CALLSIGN] 2022/03/25 in and out of water\"",
@@ -241,6 +340,15 @@
     "rights_marking": "See credited DVIDS source terms",
     "attribution": null,
     "terms_url": "https://www.dvidshub.net/about/copyright"
+  },
+  {
+    "id": "35c4006cdad3e9bad4f5be2675359779bf21c070011b566d4789cdd2894336c4",
+    "source_sha256": "35c4006cdad3e9bad4f5be2675359779bf21c070011b566d4789cdd2894336c4",
+    "title": "Contributor-supplied video 35c4006cdad3",
+    "official_url": null,
+    "rights_marking": "Contributor-supplied media; source-media terms remain separate",
+    "attribution": null,
+    "terms_url": null
   },
   {
     "id": "ea6b86de5ec070a789e515456fb7ed2ef0bfbe536b30025117ef47cefa59c503",
@@ -297,6 +405,15 @@
     "terms_url": null
   },
   {
+    "id": "3f8bad108530d0ffd9fbf7e77e76ba9ae5153936cc39ca99cb7f66158ed67616",
+    "source_sha256": "3f8bad108530d0ffd9fbf7e77e76ba9ae5153936cc39ca99cb7f66158ed67616",
+    "title": "Contributor-supplied video 3f8bad108530",
+    "official_url": null,
+    "rights_marking": "Contributor-supplied media; source-media terms remain separate",
+    "attribution": null,
+    "terms_url": null
+  },
+  {
     "id": "a938fcd34589c1197320ae9e95975ec4a80774987f39a82ca924bb74f1ebd65c",
     "source_sha256": "a938fcd34589c1197320ae9e95975ec4a80774987f39a82ca924bb74f1ebd65c",
     "title": "DOW-UAP-PR077, \"2 November 2020 [CALLSIGN] [CALLSIGN] Observes and tracks UAP 1 of 2\"",
@@ -324,6 +441,15 @@
     "terms_url": "https://www.dvidshub.net/about/copyright"
   },
   {
+    "id": "46caa1ca63058e39dbb44960b92235988f4119708fc50affd437724c4a54f12b",
+    "source_sha256": "46caa1ca63058e39dbb44960b92235988f4119708fc50affd437724c4a54f12b",
+    "title": "Contributor-supplied video 46caa1ca6305",
+    "official_url": null,
+    "rights_marking": "Contributor-supplied media; source-media terms remain separate",
+    "attribution": null,
+    "terms_url": null
+  },
+  {
     "id": "a6a295a4965d8a339754d2465996d8ca24d7c7cc3fd8628227824340deba075c",
     "source_sha256": "a6a295a4965d8a339754d2465996d8ca24d7c7cc3fd8628227824340deba075c",
     "title": "DOW-UAP-PR135, Unresolved UAP Report, Middle East, 2025",
@@ -331,6 +457,15 @@
     "rights_marking": "See credited DVIDS source terms",
     "attribution": null,
     "terms_url": "https://www.dvidshub.net/about/copyright"
+  },
+  {
+    "id": "4a15b516337b5cdd06f9d1674ea7c5319073ea02ce1cd44e17bba271be73f395",
+    "source_sha256": "4a15b516337b5cdd06f9d1674ea7c5319073ea02ce1cd44e17bba271be73f395",
+    "title": "Contributor-supplied video 4a15b516337b",
+    "official_url": null,
+    "rights_marking": "Contributor-supplied media; source-media terms remain separate",
+    "attribution": null,
+    "terms_url": null
   },
   {
     "id": "13926b0348583dd3ae22572fc91ea0a540a3ec560e6409f66f5a8b0a34b2e545",
@@ -376,6 +511,15 @@
     "rights_marking": "See credited DVIDS source terms",
     "attribution": null,
     "terms_url": "https://www.dvidshub.net/about/copyright"
+  },
+  {
+    "id": "4d8724cefa3affa323bfcce218fa45a00d2672e930cd575ddc0b1fdf9f6b077f",
+    "source_sha256": "4d8724cefa3affa323bfcce218fa45a00d2672e930cd575ddc0b1fdf9f6b077f",
+    "title": "Contributor-supplied video 4d8724cefa3a",
+    "official_url": null,
+    "rights_marking": "Contributor-supplied media; source-media terms remain separate",
+    "attribution": null,
+    "terms_url": null
   },
   {
     "id": "72729a7280ccbd7b436b2508bcd6e620b94932e14ec59a86cfb3c29a3674b5d7",
@@ -432,6 +576,15 @@
     "terms_url": "https://www.dvidshub.net/about/copyright"
   },
   {
+    "id": "5b42fd9befe4c4fafc99961e6b0ef58be77ea3defce29b1a32a1c80d62f4d490",
+    "source_sha256": "5b42fd9befe4c4fafc99961e6b0ef58be77ea3defce29b1a32a1c80d62f4d490",
+    "title": "Contributor-supplied video 5b42fd9befe4",
+    "official_url": null,
+    "rights_marking": "Contributor-supplied media; source-media terms remain separate",
+    "attribution": null,
+    "terms_url": null
+  },
+  {
     "id": "03d1334ea2369d2295cfd6f8db9be859ea386dc5fd8caef333074d0e3cc046bf",
     "source_sha256": "03d1334ea2369d2295cfd6f8db9be859ea386dc5fd8caef333074d0e3cc046bf",
     "title": "DOW-UAP-PR054, \"Spherical UAP Erratic movement [CALLSIGN] (Mission) 2022\"",
@@ -459,6 +612,24 @@
     "terms_url": "https://www.dvidshub.net/about/copyright"
   },
   {
+    "id": "618f8f80ff5372b0741ffca5675bcfa8d09e835e32f404477464da432567a2b4",
+    "source_sha256": "618f8f80ff5372b0741ffca5675bcfa8d09e835e32f404477464da432567a2b4",
+    "title": "Contributor-supplied video 618f8f80ff53",
+    "official_url": null,
+    "rights_marking": "Contributor-supplied media; source-media terms remain separate",
+    "attribution": null,
+    "terms_url": null
+  },
+  {
+    "id": "650ad754a06803aac8e3def24f599a5d857211d10baff0c0c60594fdb4358d8f",
+    "source_sha256": "650ad754a06803aac8e3def24f599a5d857211d10baff0c0c60594fdb4358d8f",
+    "title": "Contributor-supplied video 650ad754a068",
+    "official_url": null,
+    "rights_marking": "Contributor-supplied media; source-media terms remain separate",
+    "attribution": null,
+    "terms_url": null
+  },
+  {
     "id": "8375a4c727c8e1fe69070ea87567a104dfa21cf2a690510c6e4d291bfd383f47",
     "source_sha256": "8375a4c727c8e1fe69070ea87567a104dfa21cf2a690510c6e4d291bfd383f47",
     "title": "DOW-UAP-PR050, \"4 UAP Formation Iran 26 Aug 2022 over water [CALLSIGN]\"",
@@ -466,6 +637,15 @@
     "rights_marking": "See credited DVIDS source terms",
     "attribution": null,
     "terms_url": "https://www.dvidshub.net/about/copyright"
+  },
+  {
+    "id": "66aaf2f880060c63c96d04fc44ca25d4c0ea7e611cb661dbf762a64027d1bf5a",
+    "source_sha256": "66aaf2f880060c63c96d04fc44ca25d4c0ea7e611cb661dbf762a64027d1bf5a",
+    "title": "Contributor-supplied video 66aaf2f88006",
+    "official_url": null,
+    "rights_marking": "Contributor-supplied media; source-media terms remain separate",
+    "attribution": null,
+    "terms_url": null
   },
   {
     "id": "750a2cdd3e7221457c2e779644b7fd1e9641e5e36290fa389addfeb8f75064b8",
@@ -493,6 +673,15 @@
     "rights_marking": "See credited DVIDS source terms",
     "attribution": null,
     "terms_url": "https://www.dvidshub.net/about/copyright"
+  },
+  {
+    "id": "6b66f3f25ff0f9ad6ed7fb3d14b9828950a1c3d96436e0a2998c14eaedc12ddf",
+    "source_sha256": "6b66f3f25ff0f9ad6ed7fb3d14b9828950a1c3d96436e0a2998c14eaedc12ddf",
+    "title": "Contributor-supplied video 6b66f3f25ff0",
+    "official_url": null,
+    "rights_marking": "Contributor-supplied media; source-media terms remain separate",
+    "attribution": null,
+    "terms_url": null
   },
   {
     "id": "623fbacc1da0a9d139e5270c9181e1594706a0c5c0aa9b313715d259604fde9a",
@@ -558,6 +747,15 @@
     "terms_url": "https://www.dvidshub.net/about/copyright"
   },
   {
+    "id": "728e8d40b2294de72ccc899216a51f9a89ae6f37a4de6139023cf30dd4f18b06",
+    "source_sha256": "728e8d40b2294de72ccc899216a51f9a89ae6f37a4de6139023cf30dd4f18b06",
+    "title": "Contributor-supplied video 728e8d40b229",
+    "official_url": null,
+    "rights_marking": "Contributor-supplied media; source-media terms remain separate",
+    "attribution": null,
+    "terms_url": null
+  },
+  {
     "id": "73bb039c51b4ba648561b130d903aa682188547e6cdd65ad023d7efa1222b489",
     "source_sha256": "73bb039c51b4ba648561b130d903aa682188547e6cdd65ad023d7efa1222b489",
     "title": "Contributor-supplied video 73bb039c51b4",
@@ -594,6 +792,15 @@
     "terms_url": "https://www.dvidshub.net/about/copyright"
   },
   {
+    "id": "7c1ae7e1b2ee2e406b9a24e3bc5bc3a2a6a2dff6f483ef48ea26cb96b2738180",
+    "source_sha256": "7c1ae7e1b2ee2e406b9a24e3bc5bc3a2a6a2dff6f483ef48ea26cb96b2738180",
+    "title": "Contributor-supplied video 7c1ae7e1b2ee",
+    "official_url": null,
+    "rights_marking": "Contributor-supplied media; source-media terms remain separate",
+    "attribution": null,
+    "terms_url": null
+  },
+  {
     "id": "f264cf95fcf0abcd5d366be7bc6a3222402f3d9c8cd1b07cb4afc77b6499296b",
     "source_sha256": "f264cf95fcf0abcd5d366be7bc6a3222402f3d9c8cd1b07cb4afc77b6499296b",
     "title": "DOW-UAP-PR082, \"16 OCT 2020 [CALLSIGN] views UAP\"",
@@ -619,6 +826,15 @@
     "rights_marking": "See credited DVIDS source terms",
     "attribution": null,
     "terms_url": "https://www.dvidshub.net/about/copyright"
+  },
+  {
+    "id": "818c9fc866540084a414e38e043eca6d8fb17c8011fa84079cbe84fe2f8d5696",
+    "source_sha256": "818c9fc866540084a414e38e043eca6d8fb17c8011fa84079cbe84fe2f8d5696",
+    "title": "Contributor-supplied video 818c9fc86654",
+    "official_url": null,
+    "rights_marking": "Contributor-supplied media; source-media terms remain separate",
+    "attribution": null,
+    "terms_url": null
   },
   {
     "id": "c3ebfca1e13edbd586790ff2f02612c633a375e07e0edc7424a925bcb6079bb3",
@@ -657,6 +873,15 @@
     "terms_url": "https://www.dvidshub.net/about/copyright"
   },
   {
+    "id": "87bfee99d3163283fd38e07aab39533f64a32a5e17719e58c7945fbbedd2138f",
+    "source_sha256": "87bfee99d3163283fd38e07aab39533f64a32a5e17719e58c7945fbbedd2138f",
+    "title": "Contributor-supplied video 87bfee99d316",
+    "official_url": null,
+    "rights_marking": "Contributor-supplied media; source-media terms remain separate",
+    "attribution": null,
+    "terms_url": null
+  },
+  {
     "id": "d176220dbf5da3b6da2621b250a02e27e020795d56917095916a492572636eac",
     "source_sha256": "d176220dbf5da3b6da2621b250a02e27e020795d56917095916a492572636eac",
     "title": "DOW-UAP-PR124, Unresolved UAP Report, Pacific Ocean, 2019",
@@ -693,6 +918,15 @@
     "terms_url": "https://www.dvidshub.net/about/copyright"
   },
   {
+    "id": "8d1f1c2caf735140322d1b87a4a94a8e16f5514cc356496c36fc95e902ce3a2f",
+    "source_sha256": "8d1f1c2caf735140322d1b87a4a94a8e16f5514cc356496c36fc95e902ce3a2f",
+    "title": "Contributor-supplied video 8d1f1c2caf73",
+    "official_url": null,
+    "rights_marking": "Contributor-supplied media; source-media terms remain separate",
+    "attribution": null,
+    "terms_url": null
+  },
+  {
     "id": "7cf3d44b94ddb8c2cb0ac292445a3bf581cdf5db4a1be163db608dbca303fb3d",
     "source_sha256": "7cf3d44b94ddb8c2cb0ac292445a3bf581cdf5db4a1be163db608dbca303fb3d",
     "title": "DOW-UAP-PR125, Unresolved UAP Report, Pacific Ocean, 2019",
@@ -711,6 +945,15 @@
     "terms_url": "https://www.dvidshub.net/about/copyright"
   },
   {
+    "id": "940fac2742948b4c050c2a14e59226a1a2f1de5c352c66610be3fa6203e4aece",
+    "source_sha256": "940fac2742948b4c050c2a14e59226a1a2f1de5c352c66610be3fa6203e4aece",
+    "title": "Contributor-supplied video 940fac274294",
+    "official_url": null,
+    "rights_marking": "Contributor-supplied media; source-media terms remain separate",
+    "attribution": null,
+    "terms_url": null
+  },
+  {
     "id": "c1cf73db92aef319e97887579705108e710250376e14ae3a392e0dd4c78b4eeb",
     "source_sha256": "c1cf73db92aef319e97887579705108e710250376e14ae3a392e0dd4c78b4eeb",
     "title": "DOW-UAP-PR122, Unresolved UAP Report, Gulf of Oman, 2021",
@@ -720,6 +963,24 @@
     "terms_url": "https://www.dvidshub.net/about/copyright"
   },
   {
+    "id": "9bf7178f9c405c0efaae94bb24160cbc51b58d5d3fb07dc1fcbd52c58e4d0550",
+    "source_sha256": "9bf7178f9c405c0efaae94bb24160cbc51b58d5d3fb07dc1fcbd52c58e4d0550",
+    "title": "Contributor-supplied video 9bf7178f9c40",
+    "official_url": null,
+    "rights_marking": "Contributor-supplied media; source-media terms remain separate",
+    "attribution": null,
+    "terms_url": null
+  },
+  {
+    "id": "9db75d14acc7e9ee29f686609e8dba9ebb7d7e2db6a151dbf7f388b9cf019bbc",
+    "source_sha256": "9db75d14acc7e9ee29f686609e8dba9ebb7d7e2db6a151dbf7f388b9cf019bbc",
+    "title": "Contributor-supplied video 9db75d14acc7",
+    "official_url": null,
+    "rights_marking": "Contributor-supplied media; source-media terms remain separate",
+    "attribution": null,
+    "terms_url": null
+  },
+  {
     "id": "6cdd8e86b9e887e0675d66a8e1e42e078751adcc764eb4b50f63ded10f7cacf5",
     "source_sha256": "6cdd8e86b9e887e0675d66a8e1e42e078751adcc764eb4b50f63ded10f7cacf5",
     "title": "DOW-UAP-PR084, \"17 Sept 2020 [CALLSIGN] observes UAP\"",
@@ -727,6 +988,15 @@
     "rights_marking": "See credited DVIDS source terms",
     "attribution": null,
     "terms_url": "https://www.dvidshub.net/about/copyright"
+  },
+  {
+    "id": "a1d2d19ea747e2ff66c9487be14372246d015f4a7b6b564bae1e23cc3c6b5547",
+    "source_sha256": "a1d2d19ea747e2ff66c9487be14372246d015f4a7b6b564bae1e23cc3c6b5547",
+    "title": "Contributor-supplied video a1d2d19ea747",
+    "official_url": null,
+    "rights_marking": "Contributor-supplied media; source-media terms remain separate",
+    "attribution": null,
+    "terms_url": null
   },
   {
     "id": "a38432ae56298abadf50de06103a6fbd591ea539e124ab1db25a4a511468cfb6",
@@ -801,6 +1071,24 @@
     "terms_url": "https://www.dvidshub.net/about/copyright"
   },
   {
+    "id": "ad9152ce4fb2677eab5ab430e4a6ba7f1e3e6abec0e60822e5c8c69264aaadd1",
+    "source_sha256": "ad9152ce4fb2677eab5ab430e4a6ba7f1e3e6abec0e60822e5c8c69264aaadd1",
+    "title": "Contributor-supplied video ad9152ce4fb2",
+    "official_url": null,
+    "rights_marking": "Contributor-supplied media; source-media terms remain separate",
+    "attribution": null,
+    "terms_url": null
+  },
+  {
+    "id": "ae7b67d468ac10879ff362e71d879eb90b0b4788f05a6edf4b80807f82c77cbe",
+    "source_sha256": "ae7b67d468ac10879ff362e71d879eb90b0b4788f05a6edf4b80807f82c77cbe",
+    "title": "Contributor-supplied video ae7b67d468ac",
+    "official_url": null,
+    "rights_marking": "Contributor-supplied media; source-media terms remain separate",
+    "attribution": null,
+    "terms_url": null
+  },
+  {
     "id": "e9dacf0d1dc8c57056f7bf8dae95dfd71dac00535a51ec0c79190ea64ef5c748",
     "source_sha256": "e9dacf0d1dc8c57056f7bf8dae95dfd71dac00535a51ec0c79190ea64ef5c748",
     "title": "DOW-UAP-PR086, \"UAP from Dec 2019 (East Coast)\"",
@@ -846,6 +1134,15 @@
     "terms_url": "https://www.dvidshub.net/about/copyright"
   },
   {
+    "id": "b3282e7903c222fe6bd7c2af1e30bad3462935b7d5049221505e6d07ae516e43",
+    "source_sha256": "b3282e7903c222fe6bd7c2af1e30bad3462935b7d5049221505e6d07ae516e43",
+    "title": "Contributor-supplied video b3282e7903c2",
+    "official_url": null,
+    "rights_marking": "Contributor-supplied media; source-media terms remain separate",
+    "attribution": null,
+    "terms_url": null
+  },
+  {
     "id": "304af82e5cbfa53942191bf772ccfb71a864a4048e3bb3be9e00bab5478158dd",
     "source_sha256": "304af82e5cbfa53942191bf772ccfb71a864a4048e3bb3be9e00bab5478158dd",
     "title": "DOW-UAP-PR065, \"USCG C-144 Tyndall UAP 2 TIC TAC IR hot 24 April 2024\"",
@@ -862,6 +1159,24 @@
     "rights_marking": "See credited DVIDS source terms",
     "attribution": null,
     "terms_url": "https://www.dvidshub.net/about/copyright"
+  },
+  {
+    "id": "b74e8eb160c3b73477fd1818f82c4e0807561166b9fc6876694adb972567b41c",
+    "source_sha256": "b74e8eb160c3b73477fd1818f82c4e0807561166b9fc6876694adb972567b41c",
+    "title": "Contributor-supplied video b74e8eb160c3",
+    "official_url": null,
+    "rights_marking": "Contributor-supplied media; source-media terms remain separate",
+    "attribution": null,
+    "terms_url": null
+  },
+  {
+    "id": "b7e45ed0f45ba4e84407b7d4ff833805c5e7184da752888389929ce1b8df3aa6",
+    "source_sha256": "b7e45ed0f45ba4e84407b7d4ff833805c5e7184da752888389929ce1b8df3aa6",
+    "title": "Contributor-supplied video b7e45ed0f45b",
+    "official_url": null,
+    "rights_marking": "Contributor-supplied media; source-media terms remain separate",
+    "attribution": null,
+    "terms_url": null
   },
   {
     "id": "108b15eae1212913a63b30eedf797d39b4565baf1353b45b81ac3ebe20631a79",
@@ -916,6 +1231,15 @@
     "rights_marking": "See credited DVIDS source terms",
     "attribution": null,
     "terms_url": "https://www.dvidshub.net/about/copyright"
+  },
+  {
+    "id": "c106d4936f316cf57e1b86b442940d994503fc64c441dc355841c7939ba1ad06",
+    "source_sha256": "c106d4936f316cf57e1b86b442940d994503fc64c441dc355841c7939ba1ad06",
+    "title": "Contributor-supplied video c106d4936f31",
+    "official_url": null,
+    "rights_marking": "Contributor-supplied media; source-media terms remain separate",
+    "attribution": null,
+    "terms_url": null
   },
   {
     "id": "bd3f5269c3f123b90db76c9496f8ddbb145184c66b0c11cd3cfd9e54f5b683b6",
@@ -999,6 +1323,15 @@
     "terms_url": "https://www.dvidshub.net/about/copyright"
   },
   {
+    "id": "d117104dab799033b3a54cc7ae142bfa454bbe2581ad5dee855885b6e1f7c6a7",
+    "source_sha256": "d117104dab799033b3a54cc7ae142bfa454bbe2581ad5dee855885b6e1f7c6a7",
+    "title": "Contributor-supplied video d117104dab79",
+    "official_url": null,
+    "rights_marking": "Contributor-supplied media; source-media terms remain separate",
+    "attribution": null,
+    "terms_url": null
+  },
+  {
     "id": "d869a5367f4c69ed166a540c65a2d4ed6a528e033a8d64496518f2e6ddf7e7b1",
     "source_sha256": "d869a5367f4c69ed166a540c65a2d4ed6a528e033a8d64496518f2e6ddf7e7b1",
     "title": "DOW-UAP-PR096, \"HH11 03 July 2018 UAPs\"",
@@ -1015,6 +1348,15 @@
     "rights_marking": "See credited DVIDS source terms",
     "attribution": null,
     "terms_url": "https://www.dvidshub.net/about/copyright"
+  },
+  {
+    "id": "d4921a5ab2b2f2e201c16eaec8ab3cd80e886fcc781f96ff5f69a25f96928711",
+    "source_sha256": "d4921a5ab2b2f2e201c16eaec8ab3cd80e886fcc781f96ff5f69a25f96928711",
+    "title": "Contributor-supplied video d4921a5ab2b2",
+    "official_url": null,
+    "rights_marking": "Contributor-supplied media; source-media terms remain separate",
+    "attribution": null,
+    "terms_url": null
   },
   {
     "id": "7e81fd782a5b98af5cb941b6e5cce865f15324dea41b8c4cf4577f3d02c3fd66",
@@ -1044,6 +1386,24 @@
     "terms_url": "https://www.dvidshub.net/about/copyright"
   },
   {
+    "id": "d67906131f503b60c29d657996e182a4cc6878692e977dd15dbdbb75391a9802",
+    "source_sha256": "d67906131f503b60c29d657996e182a4cc6878692e977dd15dbdbb75391a9802",
+    "title": "Contributor-supplied video d67906131f50",
+    "official_url": null,
+    "rights_marking": "Contributor-supplied media; source-media terms remain separate",
+    "attribution": null,
+    "terms_url": null
+  },
+  {
+    "id": "d6f3d627d4065533f88b54c72c025d9addad9e6071395dc55dec3b95fe37b657",
+    "source_sha256": "d6f3d627d4065533f88b54c72c025d9addad9e6071395dc55dec3b95fe37b657",
+    "title": "Contributor-supplied video d6f3d627d406",
+    "official_url": null,
+    "rights_marking": "Contributor-supplied media; source-media terms remain separate",
+    "attribution": null,
+    "terms_url": null
+  },
+  {
     "id": "ffcbb1344963cc192347f6324ea2ce2bfa9656b230f8fa5ea4d3b13bd6d1504e",
     "source_sha256": "ffcbb1344963cc192347f6324ea2ce2bfa9656b230f8fa5ea4d3b13bd6d1504e",
     "title": "Unresolved UAP Report, Department of the Army 2026",
@@ -1060,6 +1420,33 @@
     "rights_marking": "See credited DVIDS source terms",
     "attribution": null,
     "terms_url": "https://www.dvidshub.net/about/copyright"
+  },
+  {
+    "id": "da5283a4bee907aae47b42fb4ca43c9608b03b0e455188d193e4134fab8a54fc",
+    "source_sha256": "da5283a4bee907aae47b42fb4ca43c9608b03b0e455188d193e4134fab8a54fc",
+    "title": "Contributor-supplied video da5283a4bee9",
+    "official_url": null,
+    "rights_marking": "Contributor-supplied media; source-media terms remain separate",
+    "attribution": null,
+    "terms_url": null
+  },
+  {
+    "id": "dbbd29d5844da180946281927ad6a0df6ba6636f2aa31f78b6794af8d08878bb",
+    "source_sha256": "dbbd29d5844da180946281927ad6a0df6ba6636f2aa31f78b6794af8d08878bb",
+    "title": "Contributor-supplied video dbbd29d5844d",
+    "official_url": null,
+    "rights_marking": "Contributor-supplied media; source-media terms remain separate",
+    "attribution": null,
+    "terms_url": null
+  },
+  {
+    "id": "dbe3459046481158e9ed45a409595cf64577bf3dbe0e5705331a878d2ab88739",
+    "source_sha256": "dbe3459046481158e9ed45a409595cf64577bf3dbe0e5705331a878d2ab88739",
+    "title": "Contributor-supplied video dbe345904648",
+    "official_url": null,
+    "rights_marking": "Contributor-supplied media; source-media terms remain separate",
+    "attribution": null,
+    "terms_url": null
   },
   {
     "id": "a1c331ec02bdfb8958683d1f34a97a83090a67024cf9dce3b5e4a8c33f8f65a0",
@@ -1116,6 +1503,15 @@
     "terms_url": "https://www.dvidshub.net/about/copyright"
   },
   {
+    "id": "e6c4c9f88a85a9efccae696699ee9478301abd4aba56a696155a600bf225e604",
+    "source_sha256": "e6c4c9f88a85a9efccae696699ee9478301abd4aba56a696155a600bf225e604",
+    "title": "Contributor-supplied video e6c4c9f88a85",
+    "official_url": null,
+    "rights_marking": "Contributor-supplied media; source-media terms remain separate",
+    "attribution": null,
+    "terms_url": null
+  },
+  {
     "id": "e6da20bce5563203fda2d2cd9e1e0917109bd0874175aa1d1392662ea642075d",
     "source_sha256": "e6da20bce5563203fda2d2cd9e1e0917109bd0874175aa1d1392662ea642075d",
     "title": "Contributor-supplied video e6da20bce556",
@@ -1141,6 +1537,24 @@
     "rights_marking": "See credited DVIDS source terms",
     "attribution": null,
     "terms_url": "https://www.dvidshub.net/about/copyright"
+  },
+  {
+    "id": "e8b90f5812234227006f02061a59f70c9dc81b2d303f94c2db21f462adbe0255",
+    "source_sha256": "e8b90f5812234227006f02061a59f70c9dc81b2d303f94c2db21f462adbe0255",
+    "title": "Contributor-supplied video e8b90f581223",
+    "official_url": null,
+    "rights_marking": "Contributor-supplied media; source-media terms remain separate",
+    "attribution": null,
+    "terms_url": null
+  },
+  {
+    "id": "ed2722963365aa77c588019afd3f27aaa037ec133462630d539fad4d748d2555",
+    "source_sha256": "ed2722963365aa77c588019afd3f27aaa037ec133462630d539fad4d748d2555",
+    "title": "Contributor-supplied video ed2722963365",
+    "official_url": null,
+    "rights_marking": "Contributor-supplied media; source-media terms remain separate",
+    "attribution": null,
+    "terms_url": null
   },
   {
     "id": "fa297d9788cbaab0adca007eb78bcfdf2e8ecd9d9f98c813aa492593e47b1623",
@@ -1188,6 +1602,15 @@
     "terms_url": "https://www.dvidshub.net/about/copyright"
   },
   {
+    "id": "f1da1e9376c24b0dde38400192f724bd7900b1012e5832f3c0aa54a3aeff591e",
+    "source_sha256": "f1da1e9376c24b0dde38400192f724bd7900b1012e5832f3c0aa54a3aeff591e",
+    "title": "Contributor-supplied video f1da1e9376c2",
+    "official_url": null,
+    "rights_marking": "Contributor-supplied media; source-media terms remain separate",
+    "attribution": null,
+    "terms_url": null
+  },
+  {
     "id": "dcbdda58cad58f91118dfe399b734361a8e5e35e68090fb0fc654658cc5f51dd",
     "source_sha256": "dcbdda58cad58f91118dfe399b734361a8e5e35e68090fb0fc654658cc5f51dd",
     "title": "DOW-UAP-PR066, \"USCG C-144 Tyndall UAP 1 TIC TAC IR hot 24 April 2024\"",
@@ -1209,6 +1632,33 @@
     "id": "f52cb2d7dcccd6b8344d7dddae820d08a78350d0afead112f870b95987e946f9",
     "source_sha256": "f52cb2d7dcccd6b8344d7dddae820d08a78350d0afead112f870b95987e946f9",
     "title": "Contributor-supplied video f52cb2d7dccc",
+    "official_url": null,
+    "rights_marking": "Contributor-supplied media; source-media terms remain separate",
+    "attribution": null,
+    "terms_url": null
+  },
+  {
+    "id": "f5abeb1cef067900864f6d92e5d61466a121becab17f7cedafd38e31cd604893",
+    "source_sha256": "f5abeb1cef067900864f6d92e5d61466a121becab17f7cedafd38e31cd604893",
+    "title": "Contributor-supplied video f5abeb1cef06",
+    "official_url": null,
+    "rights_marking": "Contributor-supplied media; source-media terms remain separate",
+    "attribution": null,
+    "terms_url": null
+  },
+  {
+    "id": "f5f0588afb5af653dde4cc83efd1804ca484bb169ad15690286cab3db245d5c2",
+    "source_sha256": "f5f0588afb5af653dde4cc83efd1804ca484bb169ad15690286cab3db245d5c2",
+    "title": "Contributor-supplied video f5f0588afb5a",
+    "official_url": null,
+    "rights_marking": "Contributor-supplied media; source-media terms remain separate",
+    "attribution": null,
+    "terms_url": null
+  },
+  {
+    "id": "f62df4d6054b52c85908e04b075ab97fe9b6773644a13321568dcb9a60bdf600",
+    "source_sha256": "f62df4d6054b52c85908e04b075ab97fe9b6773644a13321568dcb9a60bdf600",
+    "title": "Contributor-supplied video f62df4d6054b",
     "official_url": null,
     "rights_marking": "Contributor-supplied media; source-media terms remain separate",
     "attribution": null,
@@ -1249,5 +1699,14 @@
     "rights_marking": "See credited DVIDS source terms",
     "attribution": null,
     "terms_url": "https://www.dvidshub.net/about/copyright"
+  },
+  {
+    "id": "fee51eccaf93c1c6559372fbe076913fe79137bec2864d56c224959a155b8b4a",
+    "source_sha256": "fee51eccaf93c1c6559372fbe076913fe79137bec2864d56c224959a155b8b4a",
+    "title": "Contributor-supplied video fee51eccaf93",
+    "official_url": null,
+    "rights_marking": "Contributor-supplied media; source-media terms remain separate",
+    "attribution": null,
+    "terms_url": null
   }
 ]
