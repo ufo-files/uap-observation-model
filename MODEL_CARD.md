@@ -1,4 +1,4 @@
-# Model card: UAP Appearance Model
+# Model card: UAP Observation Model
 
 ## Snapshot and method
 

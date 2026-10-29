@@ -1,6 +1,6 @@
 # SPDX-License-Identifier: Apache-2.0
 # Copyright 2026 ufo-files contributors
-"""Portable inference for the UAP appearance model. No station services required."""
+"""Portable inference for the UAP Observation Model. No station services required."""
 import argparse, hashlib, json, sys
 from pathlib import Path
 import cv2

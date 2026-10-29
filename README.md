@@ -1,4 +1,4 @@
-# UAP Appearance Model
+# UAP Observation Model
 
 An experimental, reusable appearance model built from manually reviewed video targets. The project supports source videos beyond PURSUE; the initial preview uses public PURSUE footage as its seed dataset. This release includes **440 labeled crops from 67 source videos**, source credits, annotations, and a portable Python/OpenCV runner.
 
