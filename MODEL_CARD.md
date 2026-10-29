@@ -2,13 +2,13 @@
 
 ## Snapshot and method
 
-Version `model-69b3c18e81444005927469b62b14e17d`, model ID `69b3c18e81444005927469b62b14e17d`. Prepared 2026-10-29T03:08:00.130298+00:00. 881 manually labeled native crops, 876 usable templates, 132 source videos. Labels: `{"anomalous": 881}`.
+Version `model-a3835f4d0a4f4e31922acda07d9f17c7`, model ID `a3835f4d0a4f4e31922acda07d9f17c7`. Prepared 2026-10-29T04:04:12.641033+00:00. 979 manually labeled native crops, 973 usable templates, 137 source videos. Labels: `{"anomalous": 979}`.
 
 The saved artifact is a bank of native grayscale appearance templates plus label metadata. OpenCV normalized cross-correlation searches scales 0.65, 0.8, 1.0, 1.25, and 1.6; overlap suppression uses 0.35 intersection-over-smaller-box area. Default matching threshold is 0.97. Uniform templates with standard deviation below 2 are skipped. At most eight candidate peaks per template and scale are considered. The runner preserves this station inference algorithm.
 
 ## Data and provenance
 
-Only completed, non-omitted reviews of credited credited source videos were eligible. Sources are listed in `sources.json`; crop time positions, labels, and normalized source bounds are in `annotations.json`. Native exemplars are copied without smoothing or enlargement. No full source videos, RF logs, local network addresses, or credentials are included. Only saved model snapshots are exported; full source videos and station logs are excluded. Dataset fingerprint: `bbd1a10d38c951fa256b44ba5aa57903f7cc82d97925cc82ce512029ead642c8`.
+Only completed, non-omitted reviews of credited credited source videos were eligible. Sources are listed in `sources.json`; crop time positions, labels, and normalized source bounds are in `annotations.json`. Native exemplars are copied without smoothing or enlargement. No full source videos, RF logs, local network addresses, or credentials are included. Only saved model snapshots are exported; full source videos and station logs are excluded. Dataset fingerprint: `7260cb65c32ba33973562cd265dd50a9c748a0131deea1cc0d15b735efe9692e`.
 
 ## Evaluation
 

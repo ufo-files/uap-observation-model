@@ -225,6 +225,15 @@
     "terms_url": "https://www.dvidshub.net/about/copyright"
   },
   {
+    "id": "3228150f8d5fd01ffee1d6d074c316a87e23b8ccbe8b7484f4b23c188e5dc553",
+    "source_sha256": "3228150f8d5fd01ffee1d6d074c316a87e23b8ccbe8b7484f4b23c188e5dc553",
+    "title": "Contributor-supplied video 3228150f8d5f",
+    "official_url": null,
+    "rights_marking": "Contributor-supplied media; source-media terms remain separate",
+    "attribution": null,
+    "terms_url": null
+  },
+  {
     "id": "de1005b30f8c1f70f813240404c052d5ae3fc4930ac736109ea28272e84f6010",
     "source_sha256": "de1005b30f8c1f70f813240404c052d5ae3fc4930ac736109ea28272e84f6010",
     "title": "DOW-UAP-PR067, \"Multiple Spherical UAP USO near Sub. [CALLSIGN] 2022/03/25 in and out of water\"",
@@ -277,6 +286,15 @@
     "rights_marking": "See credited DVIDS source terms",
     "attribution": null,
     "terms_url": "https://www.dvidshub.net/about/copyright"
+  },
+  {
+    "id": "3edde7744616cb8e8858ee3ca0794ab7850b2237fda214ed89d1b99729bfe6ec",
+    "source_sha256": "3edde7744616cb8e8858ee3ca0794ab7850b2237fda214ed89d1b99729bfe6ec",
+    "title": "Contributor-supplied video 3edde7744616",
+    "official_url": null,
+    "rights_marking": "Contributor-supplied media; source-media terms remain separate",
+    "attribution": null,
+    "terms_url": null
   },
   {
     "id": "a938fcd34589c1197320ae9e95975ec4a80774987f39a82ca924bb74f1ebd65c",
@@ -367,6 +385,15 @@
     "rights_marking": "See credited DVIDS source terms",
     "attribution": null,
     "terms_url": "https://www.dvidshub.net/about/copyright"
+  },
+  {
+    "id": "52aae5bf8dd79bbd0fcc100bbe2b1b80bd9dc93337b2f5957c8c54c94f1d3b6a",
+    "source_sha256": "52aae5bf8dd79bbd0fcc100bbe2b1b80bd9dc93337b2f5957c8c54c94f1d3b6a",
+    "title": "Contributor-supplied video 52aae5bf8dd7",
+    "official_url": null,
+    "rights_marking": "Contributor-supplied media; source-media terms remain separate",
+    "attribution": null,
+    "terms_url": null
   },
   {
     "id": "f97c19f0ba2ba284c2a86cf2e6c20c0b3908f213d2d1e2b2e3c58f4b57807e34",
@@ -529,6 +556,15 @@
     "rights_marking": "See credited DVIDS source terms",
     "attribution": null,
     "terms_url": "https://www.dvidshub.net/about/copyright"
+  },
+  {
+    "id": "73bb039c51b4ba648561b130d903aa682188547e6cdd65ad023d7efa1222b489",
+    "source_sha256": "73bb039c51b4ba648561b130d903aa682188547e6cdd65ad023d7efa1222b489",
+    "title": "Contributor-supplied video 73bb039c51b4",
+    "official_url": null,
+    "rights_marking": "Contributor-supplied media; source-media terms remain separate",
+    "attribution": null,
+    "terms_url": null
   },
   {
     "id": "2483b429c576cff4e38a0568df7b1a8b54a782ff59e52c504f1e24eeb8f9627a",
@@ -1150,6 +1186,15 @@
     "rights_marking": "See credited DVIDS source terms",
     "attribution": null,
     "terms_url": "https://www.dvidshub.net/about/copyright"
+  },
+  {
+    "id": "f52cb2d7dcccd6b8344d7dddae820d08a78350d0afead112f870b95987e946f9",
+    "source_sha256": "f52cb2d7dcccd6b8344d7dddae820d08a78350d0afead112f870b95987e946f9",
+    "title": "Contributor-supplied video f52cb2d7dccc",
+    "official_url": null,
+    "rights_marking": "Contributor-supplied media; source-media terms remain separate",
+    "attribution": null,
+    "terms_url": null
   },
   {
     "id": "7a9da5c7ffb2aefb581535d28a5d14a204f4a0f28a36aea537119b2159d5d224",
