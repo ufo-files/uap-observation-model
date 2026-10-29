@@ -11101,6 +11101,244 @@
     "usable_for_matching": true
   },
   {
+    "example": "templates/bda7ce6928e642dae72e562283d3c51a53a1a233af79afe1676147e977943a23.png",
+    "label": "airplane",
+    "source": "a371f004c87c781414d00603530ec94eadb256958f451f92561f3cc6fad0a04a",
+    "time_seconds": 0.0,
+    "bounds_normalized": {
+      "x": 0.2653118571278009,
+      "y": 0.4058897238510248,
+      "w": 0.023247301943556342,
+      "h": 0.04135031558837948
+    },
+    "native_pixels": {
+      "width": 46,
+      "height": 46
+    },
+    "usable_for_matching": true
+  },
+  {
+    "example": "templates/a5576f2cccbbcf5d25217f339a13018d483229d16f2e5b75d95df78d3aa932e7.png",
+    "label": "airplane",
+    "source": "a371f004c87c781414d00603530ec94eadb256958f451f92561f3cc6fad0a04a",
+    "time_seconds": 2.152,
+    "bounds_normalized": {
+      "x": 0.28116668091795444,
+      "y": 0.47615842634138045,
+      "w": 0.021810694927613783,
+      "h": 0.02987161264264787
+    },
+    "native_pixels": {
+      "width": 43,
+      "height": 33
+    },
+    "usable_for_matching": true
+  },
+  {
+    "example": "templates/d4db1c22abb2e3080430859e0d71e227357d6d5339296a77e39c79192ae798cf.png",
+    "label": "insect",
+    "source": "a371f004c87c781414d00603530ec94eadb256958f451f92561f3cc6fad0a04a",
+    "time_seconds": 2.436,
+    "bounds_normalized": {
+      "x": 0.03660227155231899,
+      "y": 0.7834056194091467,
+      "w": 0.014653002711605578,
+      "h": 0.030356851253090844
+    },
+    "native_pixels": {
+      "width": 29,
+      "height": 33
+    },
+    "usable_for_matching": true
+  },
+  {
+    "example": "templates/e03b2b8c0fe41e814efafd2b4e36d9827acf27ac8bf2a8a16938d1803e7acb9d.png",
+    "label": "airplane",
+    "source": "a371f004c87c781414d00603530ec94eadb256958f451f92561f3cc6fad0a04a",
+    "time_seconds": 2.436,
+    "bounds_normalized": {
+      "x": 0.2837588336149975,
+      "y": 0.48269816130105714,
+      "w": 0.018283689684650273,
+      "h": 0.028654710997797372
+    },
+    "native_pixels": {
+      "width": 36,
+      "height": 32
+    },
+    "usable_for_matching": true
+  },
+  {
+    "example": "templates/9bc3b6f1d36322bb2300ca32b57fd833df4367140b70d1e49e21c6b0b6475174.png",
+    "label": "bird",
+    "source": "a371f004c87c781414d00603530ec94eadb256958f451f92561f3cc6fad0a04a",
+    "time_seconds": 10.861,
+    "bounds_normalized": {
+      "x": 0.19636260176162265,
+      "y": 0.7649166911623132,
+      "w": 0.015530949367720148,
+      "h": 0.021707200216121714
+    },
+    "native_pixels": {
+      "width": 30,
+      "height": 24
+    },
+    "usable_for_matching": true
+  },
+  {
+    "example": "templates/117d24fdc0c2390317f02c59117ce2b32f2dd629b8d4b33decb378157100d7bd.png",
+    "label": "airplane",
+    "source": "a371f004c87c781414d00603530ec94eadb256958f451f92561f3cc6fad0a04a",
+    "time_seconds": 10.861,
+    "bounds_normalized": {
+      "x": 0.3286454061237195,
+      "y": 0.7017939029569634,
+      "w": 0.022203399189212047,
+      "h": 0.026605112478150783
+    },
+    "native_pixels": {
+      "width": 44,
+      "height": 30
+    },
+    "usable_for_matching": true
+  },
+  {
+    "example": "templates/999bcbc9c31888bc165ee698e50d8d23fcd9bd674cae04e80e843126899da52b.png",
+    "label": "bird",
+    "source": "a371f004c87c781414d00603530ec94eadb256958f451f92561f3cc6fad0a04a",
+    "time_seconds": 10.845,
+    "bounds_normalized": {
+      "x": 0.20279168713905357,
+      "y": 0.7642430549235292,
+      "w": 0.014917235520655464,
+      "h": 0.021781819071290287
+    },
+    "native_pixels": {
+      "width": 30,
+      "height": 24
+    },
+    "usable_for_matching": true
+  },
+  {
+    "example": "templates/3a4823942c7e315b0899a7aa3ae7ee72424bfc6ed16990c4cdf6f465197414fe.png",
+    "label": "airplane",
+    "source": "a371f004c87c781414d00603530ec94eadb256958f451f92561f3cc6fad0a04a",
+    "time_seconds": 10.845,
+    "bounds_normalized": {
+      "x": 0.33138035110168085,
+      "y": 0.7017338206615655,
+      "w": 0.017992284351142807,
+      "h": 0.02671339661067651
+    },
+    "native_pixels": {
+      "width": 35,
+      "height": 30
+    },
+    "usable_for_matching": true
+  },
+  {
+    "example": "templates/01eddbe730697603ffabaa709d7d04d9caf847c2fb0c102e0927518c73e6280c.png",
+    "label": "airplane",
+    "source": "a371f004c87c781414d00603530ec94eadb256958f451f92561f3cc6fad0a04a",
+    "time_seconds": 16.933,
+    "bounds_normalized": {
+      "x": 0.3582780044792039,
+      "y": 0.8395022785396565,
+      "w": 0.021629179466941706,
+      "h": 0.021982139953609425
+    },
+    "native_pixels": {
+      "width": 43,
+      "height": 25
+    },
+    "usable_for_matching": true
+  },
+  {
+    "example": "templates/b24f8bd4417b12e0ef2bfe2e1f7533e1e61f7d7cdacfec182684f6626efb48bf.png",
+    "label": "insect",
+    "source": "a371f004c87c781414d00603530ec94eadb256958f451f92561f3cc6fad0a04a",
+    "time_seconds": 19.487,
+    "bounds_normalized": {
+      "x": 0.4181097921754926,
+      "y": 0.7825114577896749,
+      "w": 0.015586331050811031,
+      "h": 0.026960985931002712
+    },
+    "native_pixels": {
+      "width": 31,
+      "height": 30
+    },
+    "usable_for_matching": true
+  },
+  {
+    "example": "templates/ade6c3b73214e6808c2679ddc64beaf9758221219e63e3add104bb434aef226b.png",
+    "label": "bird",
+    "source": "a371f004c87c781414d00603530ec94eadb256958f451f92561f3cc6fad0a04a",
+    "time_seconds": 9.744,
+    "bounds_normalized": {
+      "x": 0.47590945267583573,
+      "y": 0.8799748327997104,
+      "w": 0.017092798145267485,
+      "h": 0.02734646641250338
+    },
+    "native_pixels": {
+      "width": 34,
+      "height": 30
+    },
+    "usable_for_matching": true
+  },
+  {
+    "example": "templates/b74edc6521ada35113d3685ef7ebc5fd04744ee537474f15d7254615ef7ad5d7.png",
+    "label": "airplane",
+    "source": "a371f004c87c781414d00603530ec94eadb256958f451f92561f3cc6fad0a04a",
+    "time_seconds": 9.744,
+    "bounds_normalized": {
+      "x": 0.32438554746684045,
+      "y": 0.6740905316061946,
+      "w": 0.020189633891006142,
+      "h": 0.027319391971354134
+    },
+    "native_pixels": {
+      "width": 40,
+      "height": 30
+    },
+    "usable_for_matching": true
+  },
+  {
+    "example": "templates/94c3abda643eb2889a8967d93dcc52df957b9db5896e5f85a55fa9934d22c64a.png",
+    "label": "bird",
+    "source": "a371f004c87c781414d00603530ec94eadb256958f451f92561f3cc6fad0a04a",
+    "time_seconds": 9.793,
+    "bounds_normalized": {
+      "x": 0.46301951091560767,
+      "y": 0.8738375447455319,
+      "w": 0.01792413472877724,
+      "h": 0.02654498131220595
+    },
+    "native_pixels": {
+      "width": 36,
+      "height": 30
+    },
+    "usable_for_matching": true
+  },
+  {
+    "example": "templates/b39a5de6c4ed5395bf64520f03865b8628daaf2666c61a2c071335f68c58ffea.png",
+    "label": "airplane",
+    "source": "a371f004c87c781414d00603530ec94eadb256958f451f92561f3cc6fad0a04a",
+    "time_seconds": 9.793,
+    "bounds_normalized": {
+      "x": 0.3259854449418021,
+      "y": 0.6752817558718539,
+      "w": 0.018327652159521146,
+      "h": 0.02989026373187076
+    },
+    "native_pixels": {
+      "width": 37,
+      "height": 33
+    },
+    "usable_for_matching": true
+  },
+  {
     "example": "templates/4794c22647bd04a112cec465b7262f148ef5b0c79d6d722f0127d3a56f5c6e7f.png",
     "label": "anomalous",
     "source": "28a51dccfb2beca57dae6fa0b2f47956198d2cf4271149fa95b562a35e549f5a",
@@ -15381,6 +15619,210 @@
     "native_pixels": {
       "width": 53,
       "height": 79
+    },
+    "usable_for_matching": true
+  },
+  {
+    "example": "templates/611a34fea0fd2b8495aa43d329e365838eeb2f3ce46b1b3306e51bb8eb219efa.png",
+    "label": "insect",
+    "source": "e6da20bce5563203fda2d2cd9e1e0917109bd0874175aa1d1392662ea642075d",
+    "time_seconds": 7.808,
+    "bounds_normalized": {
+      "x": 0.324051023268515,
+      "y": 0.20185351279545252,
+      "w": 0.018832278093897037,
+      "h": 0.02051461494570858
+    },
+    "native_pixels": {
+      "width": 37,
+      "height": 23
+    },
+    "usable_for_matching": true
+  },
+  {
+    "example": "templates/82d6d82293f2f891ddebd86cd0a61c03bb733764529e0b9f8e2918904e1789cb.png",
+    "label": "insect",
+    "source": "e6da20bce5563203fda2d2cd9e1e0917109bd0874175aa1d1392662ea642075d",
+    "time_seconds": 23.641,
+    "bounds_normalized": {
+      "x": 0.24224100762049974,
+      "y": 0.1785774475717395,
+      "w": 0.015431786467483583,
+      "h": 0.02855356539722803
+    },
+    "native_pixels": {
+      "width": 30,
+      "height": 32
+    },
+    "usable_for_matching": true
+  },
+  {
+    "example": "templates/06d40427e1173d26c32209c3f220582cf247bfd09844a5b336adb7b73e5c6e9a.png",
+    "label": "insect",
+    "source": "e6da20bce5563203fda2d2cd9e1e0917109bd0874175aa1d1392662ea642075d",
+    "time_seconds": 36.004,
+    "bounds_normalized": {
+      "x": 0.4283136882085731,
+      "y": 0.5018006701238477,
+      "w": 0.014275905938155975,
+      "h": 0.021642876402452993
+    },
+    "native_pixels": {
+      "width": 28,
+      "height": 25
+    },
+    "usable_for_matching": true
+  },
+  {
+    "example": "templates/5f0c19f5a0f7b314f1b12dd92e4a9edebaed3396ff402f85cfc51bd88956ec62.png",
+    "label": "bird",
+    "source": "e6da20bce5563203fda2d2cd9e1e0917109bd0874175aa1d1392662ea642075d",
+    "time_seconds": 71.738,
+    "bounds_normalized": {
+      "x": 0.8362478216214694,
+      "y": 0.8674197105344595,
+      "w": 0.03323279388593947,
+      "h": 0.05509839838579922
+    },
+    "native_pixels": {
+      "width": 65,
+      "height": 61
+    },
+    "usable_for_matching": true
+  },
+  {
+    "example": "templates/b3e7569b48c0b390db574a7f7226df5a8c498ca9328c16ee3be780e321b28aa5.png",
+    "label": "bird",
+    "source": "e6da20bce5563203fda2d2cd9e1e0917109bd0874175aa1d1392662ea642075d",
+    "time_seconds": 71.722,
+    "bounds_normalized": {
+      "x": 0.8836148534715966,
+      "y": 0.8906073198746884,
+      "w": 0.02983702967676516,
+      "h": 0.05359234858271933
+    },
+    "native_pixels": {
+      "width": 58,
+      "height": 59
+    },
+    "usable_for_matching": true
+  },
+  {
+    "example": "templates/043e382c8913de34539c6ecb827933163a765af1a655a331c747e0064c2bf879.png",
+    "label": "bird",
+    "source": "e6da20bce5563203fda2d2cd9e1e0917109bd0874175aa1d1392662ea642075d",
+    "time_seconds": 71.705,
+    "bounds_normalized": {
+      "x": 0.9272354467400079,
+      "y": 0.9219260895913498,
+      "w": 0.037110925128678196,
+      "h": 0.04484134048601307
+    },
+    "native_pixels": {
+      "width": 72,
+      "height": 50
+    },
+    "usable_for_matching": true
+  },
+  {
+    "example": "templates/07f865647f8c1e7f39e6766a3f7cf77fa3a91ec769d6587a29e499edaff57022.png",
+    "label": "bird",
+    "source": "e6da20bce5563203fda2d2cd9e1e0917109bd0874175aa1d1392662ea642075d",
+    "time_seconds": 71.689,
+    "bounds_normalized": {
+      "x": 0.9701029286617585,
+      "y": 0.9539159478501796,
+      "w": 0.029897071338241488,
+      "h": 0.046084052149820365
+    },
+    "native_pixels": {
+      "width": 58,
+      "height": 50
+    },
+    "usable_for_matching": true
+  },
+  {
+    "example": "templates/bf8d460095fa54a36525e55a1094afe14403b1487c68714a570376b9837435d6.png",
+    "label": "bird",
+    "source": "e6da20bce5563203fda2d2cd9e1e0917109bd0874175aa1d1392662ea642075d",
+    "time_seconds": 72.088,
+    "bounds_normalized": {
+      "x": 0.010591296031935055,
+      "y": 0.2575468107613597,
+      "w": 0.036064889084166274,
+      "h": 0.051126565669059376
+    },
+    "native_pixels": {
+      "width": 70,
+      "height": 56
+    },
+    "usable_for_matching": true
+  },
+  {
+    "example": "templates/642c0d414c9bb3fcaa85aeeb2d3d24fe7ecfd0043d606f9a8cf5b3f01c0db992.png",
+    "label": "bird",
+    "source": "e6da20bce5563203fda2d2cd9e1e0917109bd0874175aa1d1392662ea642075d",
+    "time_seconds": 72.039,
+    "bounds_normalized": {
+      "x": 0.12382487033258953,
+      "y": 0.3183384679013921,
+      "w": 0.0293923167741547,
+      "h": 0.03846913335654234
+    },
+    "native_pixels": {
+      "width": 58,
+      "height": 43
+    },
+    "usable_for_matching": true
+  },
+  {
+    "example": "templates/b17fac4964369087f925a717b8be4a97fea5b8938fef07a4c51eba678897bac8.png",
+    "label": "bird",
+    "source": "e6da20bce5563203fda2d2cd9e1e0917109bd0874175aa1d1392662ea642075d",
+    "time_seconds": 71.974,
+    "bounds_normalized": {
+      "x": 0.27465307618649304,
+      "y": 0.4095953214185435,
+      "w": 0.029752844475860074,
+      "h": 0.03681121963167783
+    },
+    "native_pixels": {
+      "width": 58,
+      "height": 41
+    },
+    "usable_for_matching": true
+  },
+  {
+    "example": "templates/2604c6f671392af2e767c647d41c80017f51a9d446a70c6ec2682bf96c9ec578.png",
+    "label": "bird",
+    "source": "e6da20bce5563203fda2d2cd9e1e0917109bd0874175aa1d1392662ea642075d",
+    "time_seconds": 71.805,
+    "bounds_normalized": {
+      "x": 0.6676977477993963,
+      "y": 0.7240428095801865,
+      "w": 0.031303209829139034,
+      "h": 0.0545476581783747
+    },
+    "native_pixels": {
+      "width": 62,
+      "height": 60
+    },
+    "usable_for_matching": true
+  },
+  {
+    "example": "templates/a6772608e4f8c6b95b80e1c79235a54622b10f56e7dc2f6322fb54452e1fcdee.png",
+    "label": "bird",
+    "source": "e6da20bce5563203fda2d2cd9e1e0917109bd0874175aa1d1392662ea642075d",
+    "time_seconds": 71.791,
+    "bounds_normalized": {
+      "x": 0.7103586148303582,
+      "y": 0.7597364524166694,
+      "w": 0.03417675485818128,
+      "h": 0.04716553499799425
+    },
+    "native_pixels": {
+      "width": 67,
+      "height": 52
     },
     "usable_for_matching": true
   },

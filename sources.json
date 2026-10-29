@@ -738,6 +738,15 @@
     "terms_url": "https://www.dvidshub.net/about/copyright"
   },
   {
+    "id": "a371f004c87c781414d00603530ec94eadb256958f451f92561f3cc6fad0a04a",
+    "source_sha256": "a371f004c87c781414d00603530ec94eadb256958f451f92561f3cc6fad0a04a",
+    "title": "Contributor-supplied video a371f004c87c",
+    "official_url": null,
+    "rights_marking": "Contributor-supplied media; source-media terms remain separate",
+    "attribution": null,
+    "terms_url": null
+  },
+  {
     "id": "28a51dccfb2beca57dae6fa0b2f47956198d2cf4271149fa95b562a35e549f5a",
     "source_sha256": "28a51dccfb2beca57dae6fa0b2f47956198d2cf4271149fa95b562a35e549f5a",
     "title": "LLE-UAP-PR003, Unresolved UAP Report, Colorado, October 2023",
@@ -1105,6 +1114,15 @@
     "rights_marking": "See credited DVIDS source terms",
     "attribution": null,
     "terms_url": "https://www.dvidshub.net/about/copyright"
+  },
+  {
+    "id": "e6da20bce5563203fda2d2cd9e1e0917109bd0874175aa1d1392662ea642075d",
+    "source_sha256": "e6da20bce5563203fda2d2cd9e1e0917109bd0874175aa1d1392662ea642075d",
+    "title": "Contributor-supplied video e6da20bce556",
+    "official_url": null,
+    "rights_marking": "Contributor-supplied media; source-media terms remain separate",
+    "attribution": null,
+    "terms_url": null
   },
   {
     "id": "39948c8102f6bdeba4baeff7239ca83a810eb7d5ee686934234965a49f8571a7",

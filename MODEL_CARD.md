@@ -2,13 +2,13 @@
 
 ## Snapshot and method
 
-Version `model-a3835f4d0a4f4e31922acda07d9f17c7`, model ID `a3835f4d0a4f4e31922acda07d9f17c7`. Prepared 2026-10-29T04:04:12.641033+00:00. 979 manually labeled native crops, 973 usable templates, 137 source videos. Labels: `{"anomalous": 979}`.
+Version `model-4b70776d88dc49769ae6f6c5057f19e2`, model ID `4b70776d88dc49769ae6f6c5057f19e2`. Prepared 2026-10-29T17:41:59.321619+00:00. 1005 manually labeled native crops, 999 usable templates, 139 source videos. Labels: `{"airplane": 8, "anomalous": 979, "bird": 13, "insect": 5}`.
 
-The saved artifact is a bank of native grayscale appearance templates plus label metadata. OpenCV normalized cross-correlation searches scales 0.65, 0.8, 1.0, 1.25, and 1.6; overlap suppression uses 0.35 intersection-over-smaller-box area. Default matching threshold is 0.97. Uniform templates with standard deviation below 2 are skipped. At most eight candidate peaks per template and scale are considered. The runner preserves this station inference algorithm.
+The saved artifact is a bank of native grayscale appearance templates plus label metadata. OpenCV normalized cross-correlation searches scales 0.65, 0.8, 1.0, 1.25, and 1.6; overlap suppression uses 0.35 intersection-over-smaller-box area. Default matching threshold is 0.97. Uniform templates with standard deviation below 2 are skipped. Native positive matches also require agreement of background-subtracted fine structure: Gaussian sigma 1.2, correlation at least 0.55. This rejects smooth cloud gradients that can have a high raw correlation. Cloud examples may still compete as background negatives. At most eight candidate peaks per template and scale are considered. The runner preserves this station inference algorithm.
 
 ## Data and provenance
 
-Only completed, non-omitted reviews of credited credited source videos were eligible. Sources are listed in `sources.json`; crop time positions, labels, and normalized source bounds are in `annotations.json`. Native exemplars are copied without smoothing or enlargement. No full source videos, RF logs, local network addresses, or credentials are included. Only saved model snapshots are exported; full source videos and station logs are excluded. Dataset fingerprint: `7260cb65c32ba33973562cd265dd50a9c748a0131deea1cc0d15b735efe9692e`.
+Only completed, non-omitted reviews of credited credited source videos were eligible. Sources are listed in `sources.json`; crop time positions, labels, and normalized source bounds are in `annotations.json`. Native exemplars are copied without smoothing or enlargement. No full source videos, RF logs, local network addresses, or credentials are included. Only saved model snapshots are exported; full source videos and station logs are excluded. Dataset fingerprint: `8497097ab41eedf12e4db9e258aab6be98fa590d390b148e44fc6dc40ee75061`.
 
 ## Evaluation
 
@@ -25,5 +25,3 @@ Use `python -m unittest -v test_inference` after installing requirements. `SHA25
 ## Attribution
 
 Apache 2.0 applies to the project's original code, annotations, and compilation. Source media retain their separate status and terms described by official source pages. See LICENSE, NOTICE, and sources.json. Third-party software is installed separately and retains its own licenses.
-
-Native detections require matching high-frequency object detail (correlation at least 0.55). Templates dominated by a smooth linear brightness gradient are rejected. This reduces smooth-cloud false matches; it is not an independent accuracy evaluation and may miss diffuse targets. Raw appearance correlation is not a probability.

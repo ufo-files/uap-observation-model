@@ -1,9 +1,8 @@
 {
-  "source_model_id": "a3835f4d0a4f4e31922acda07d9f17c7",
-  "software_tests": "Portable inference and synthetic cloud-gradient regression tests passed",
-  "python": "3.13.5",
+  "source_model_id": "4b70776d88dc49769ae6f6c5057f19e2",
+  "software_tests": "Portable inference tests passed before upload",
+  "python": "3.13.15",
   "opencv": "5.0.0",
   "numpy": "2.5.4",
-  "independent_accuracy_evaluation": null,
-  "inference_revision": 2
+  "independent_accuracy_evaluation": null
 }

@@ -1,10 +1,13 @@
 {
   "schema_version": 1,
-  "id": "a3835f4d0a4f4e31922acda07d9f17c7",
-  "release": "model-a3835f4d0a4f4e31922acda07d9f17c7",
+  "id": "4b70776d88dc49769ae6f6c5057f19e2",
+  "release": "model-4b70776d88dc49769ae6f6c5057f19e2",
   "kind": "multiscale normalized appearance matching",
   "classes": [
-    "anomalous"
+    "airplane",
+    "anomalous",
+    "bird",
+    "insect"
   ],
   "examples": [
     {
@@ -3273,6 +3276,76 @@
       "sha256": "98448409c9e0a064d359a257af0612da2476d8df65dc662b03cb95ffa5466520"
     },
     {
+      "image": "templates/bda7ce6928e642dae72e562283d3c51a53a1a233af79afe1676147e977943a23.png",
+      "label": "airplane",
+      "sha256": "bda7ce6928e642dae72e562283d3c51a53a1a233af79afe1676147e977943a23"
+    },
+    {
+      "image": "templates/a5576f2cccbbcf5d25217f339a13018d483229d16f2e5b75d95df78d3aa932e7.png",
+      "label": "airplane",
+      "sha256": "a5576f2cccbbcf5d25217f339a13018d483229d16f2e5b75d95df78d3aa932e7"
+    },
+    {
+      "image": "templates/d4db1c22abb2e3080430859e0d71e227357d6d5339296a77e39c79192ae798cf.png",
+      "label": "insect",
+      "sha256": "d4db1c22abb2e3080430859e0d71e227357d6d5339296a77e39c79192ae798cf"
+    },
+    {
+      "image": "templates/e03b2b8c0fe41e814efafd2b4e36d9827acf27ac8bf2a8a16938d1803e7acb9d.png",
+      "label": "airplane",
+      "sha256": "e03b2b8c0fe41e814efafd2b4e36d9827acf27ac8bf2a8a16938d1803e7acb9d"
+    },
+    {
+      "image": "templates/9bc3b6f1d36322bb2300ca32b57fd833df4367140b70d1e49e21c6b0b6475174.png",
+      "label": "bird",
+      "sha256": "9bc3b6f1d36322bb2300ca32b57fd833df4367140b70d1e49e21c6b0b6475174"
+    },
+    {
+      "image": "templates/117d24fdc0c2390317f02c59117ce2b32f2dd629b8d4b33decb378157100d7bd.png",
+      "label": "airplane",
+      "sha256": "117d24fdc0c2390317f02c59117ce2b32f2dd629b8d4b33decb378157100d7bd"
+    },
+    {
+      "image": "templates/999bcbc9c31888bc165ee698e50d8d23fcd9bd674cae04e80e843126899da52b.png",
+      "label": "bird",
+      "sha256": "999bcbc9c31888bc165ee698e50d8d23fcd9bd674cae04e80e843126899da52b"
+    },
+    {
+      "image": "templates/3a4823942c7e315b0899a7aa3ae7ee72424bfc6ed16990c4cdf6f465197414fe.png",
+      "label": "airplane",
+      "sha256": "3a4823942c7e315b0899a7aa3ae7ee72424bfc6ed16990c4cdf6f465197414fe"
+    },
+    {
+      "image": "templates/01eddbe730697603ffabaa709d7d04d9caf847c2fb0c102e0927518c73e6280c.png",
+      "label": "airplane",
+      "sha256": "01eddbe730697603ffabaa709d7d04d9caf847c2fb0c102e0927518c73e6280c"
+    },
+    {
+      "image": "templates/b24f8bd4417b12e0ef2bfe2e1f7533e1e61f7d7cdacfec182684f6626efb48bf.png",
+      "label": "insect",
+      "sha256": "b24f8bd4417b12e0ef2bfe2e1f7533e1e61f7d7cdacfec182684f6626efb48bf"
+    },
+    {
+      "image": "templates/ade6c3b73214e6808c2679ddc64beaf9758221219e63e3add104bb434aef226b.png",
+      "label": "bird",
+      "sha256": "ade6c3b73214e6808c2679ddc64beaf9758221219e63e3add104bb434aef226b"
+    },
+    {
+      "image": "templates/b74edc6521ada35113d3685ef7ebc5fd04744ee537474f15d7254615ef7ad5d7.png",
+      "label": "airplane",
+      "sha256": "b74edc6521ada35113d3685ef7ebc5fd04744ee537474f15d7254615ef7ad5d7"
+    },
+    {
+      "image": "templates/94c3abda643eb2889a8967d93dcc52df957b9db5896e5f85a55fa9934d22c64a.png",
+      "label": "bird",
+      "sha256": "94c3abda643eb2889a8967d93dcc52df957b9db5896e5f85a55fa9934d22c64a"
+    },
+    {
+      "image": "templates/b39a5de6c4ed5395bf64520f03865b8628daaf2666c61a2c071335f68c58ffea.png",
+      "label": "airplane",
+      "sha256": "b39a5de6c4ed5395bf64520f03865b8628daaf2666c61a2c071335f68c58ffea"
+    },
+    {
       "image": "templates/4794c22647bd04a112cec465b7262f148ef5b0c79d6d722f0127d3a56f5c6e7f.png",
       "label": "anomalous",
       "sha256": "4794c22647bd04a112cec465b7262f148ef5b0c79d6d722f0127d3a56f5c6e7f"
@@ -4533,6 +4606,66 @@
       "sha256": "7df3bf0d664c567373631d8cf6d9a5e0969272d507719bdd35b1fa61925134dd"
     },
     {
+      "image": "templates/611a34fea0fd2b8495aa43d329e365838eeb2f3ce46b1b3306e51bb8eb219efa.png",
+      "label": "insect",
+      "sha256": "611a34fea0fd2b8495aa43d329e365838eeb2f3ce46b1b3306e51bb8eb219efa"
+    },
+    {
+      "image": "templates/82d6d82293f2f891ddebd86cd0a61c03bb733764529e0b9f8e2918904e1789cb.png",
+      "label": "insect",
+      "sha256": "82d6d82293f2f891ddebd86cd0a61c03bb733764529e0b9f8e2918904e1789cb"
+    },
+    {
+      "image": "templates/06d40427e1173d26c32209c3f220582cf247bfd09844a5b336adb7b73e5c6e9a.png",
+      "label": "insect",
+      "sha256": "06d40427e1173d26c32209c3f220582cf247bfd09844a5b336adb7b73e5c6e9a"
+    },
+    {
+      "image": "templates/5f0c19f5a0f7b314f1b12dd92e4a9edebaed3396ff402f85cfc51bd88956ec62.png",
+      "label": "bird",
+      "sha256": "5f0c19f5a0f7b314f1b12dd92e4a9edebaed3396ff402f85cfc51bd88956ec62"
+    },
+    {
+      "image": "templates/b3e7569b48c0b390db574a7f7226df5a8c498ca9328c16ee3be780e321b28aa5.png",
+      "label": "bird",
+      "sha256": "b3e7569b48c0b390db574a7f7226df5a8c498ca9328c16ee3be780e321b28aa5"
+    },
+    {
+      "image": "templates/043e382c8913de34539c6ecb827933163a765af1a655a331c747e0064c2bf879.png",
+      "label": "bird",
+      "sha256": "043e382c8913de34539c6ecb827933163a765af1a655a331c747e0064c2bf879"
+    },
+    {
+      "image": "templates/07f865647f8c1e7f39e6766a3f7cf77fa3a91ec769d6587a29e499edaff57022.png",
+      "label": "bird",
+      "sha256": "07f865647f8c1e7f39e6766a3f7cf77fa3a91ec769d6587a29e499edaff57022"
+    },
+    {
+      "image": "templates/bf8d460095fa54a36525e55a1094afe14403b1487c68714a570376b9837435d6.png",
+      "label": "bird",
+      "sha256": "bf8d460095fa54a36525e55a1094afe14403b1487c68714a570376b9837435d6"
+    },
+    {
+      "image": "templates/642c0d414c9bb3fcaa85aeeb2d3d24fe7ecfd0043d606f9a8cf5b3f01c0db992.png",
+      "label": "bird",
+      "sha256": "642c0d414c9bb3fcaa85aeeb2d3d24fe7ecfd0043d606f9a8cf5b3f01c0db992"
+    },
+    {
+      "image": "templates/b17fac4964369087f925a717b8be4a97fea5b8938fef07a4c51eba678897bac8.png",
+      "label": "bird",
+      "sha256": "b17fac4964369087f925a717b8be4a97fea5b8938fef07a4c51eba678897bac8"
+    },
+    {
+      "image": "templates/2604c6f671392af2e767c647d41c80017f51a9d446a70c6ec2682bf96c9ec578.png",
+      "label": "bird",
+      "sha256": "2604c6f671392af2e767c647d41c80017f51a9d446a70c6ec2682bf96c9ec578"
+    },
+    {
+      "image": "templates/a6772608e4f8c6b95b80e1c79235a54622b10f56e7dc2f6322fb54452e1fcdee.png",
+      "label": "bird",
+      "sha256": "a6772608e4f8c6b95b80e1c79235a54622b10f56e7dc2f6322fb54452e1fcdee"
+    },
+    {
       "image": "templates/c069bd1e71eff8888e4b735f45687dda10f8d0f0d8072c8a0ba013cd9e7960bc.png",
       "label": "anomalous",
       "sha256": "c069bd1e71eff8888e4b735f45687dda10f8d0f0d8072c8a0ba013cd9e7960bc"
@@ -4903,7 +5036,7 @@
       "sha256": "29c9cf113083c002c0a9e4b6ce89368653fa6074a704ecda80e1280c0a29fc0c"
     }
   ],
-  "dataset_sha256": "7260cb65c32ba33973562cd265dd50a9c748a0131deea1cc0d15b735efe9692e",
+  "dataset_sha256": "8497097ab41eedf12e4db9e258aab6be98fa590d390b148e44fc6dc40ee75061",
   "license": "Apache-2.0 for original code, annotations, and compilation; source media terms are separate",
   "parameters": {
     "scales": [
@@ -4919,5 +5052,5 @@
     "native_detail_gaussian_sigma": 1.2,
     "inference_revision": 2
   },
-  "created_utc": "2026-10-29T04:04:12.641033+00:00"
+  "created_utc": "2026-10-29T17:41:59.321619+00:00"
 }
