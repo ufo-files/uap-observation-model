@@ -4,9 +4,10 @@
 import argparse, hashlib, json, sys
 from pathlib import Path
 import cv2
+import numpy as np
 cv2.setNumThreads(1)
 
-def detect(image,templates,threshold,labels):
+def detect(image,templates,threshold,labels,verify_detail=True):
     gray=cv2.cvtColor(image,cv2.COLOR_BGR2GRAY);h,w=gray.shape;matches=[]
     # Native pixels are used for both the saved examples and full-frame inference.
     for label,template in templates:
@@ -17,11 +18,35 @@ def detect(image,templates,threshold,labels):
             target=cv2.resize(template,(sw,sh),interpolation=cv2.INTER_AREA if scale<1 else cv2.INTER_CUBIC)
             if target.std()<2:continue
             scores=cv2.matchTemplate(gray,target,cv2.TM_CCOEFF_NORMED)
+            # Raw NCC can be almost perfect for two unrelated smooth gradients.
+            # Verify fine spatial structure independently before calling it an object.
+            target_detail=None
+            if verify_detail and label!='cloud':
+                target_float=target.astype(np.float32)
+                # A linear sky gradient has no localized subject; blur boundaries
+                # and 8-bit quantization must not manufacture apparent detail.
+                xx=np.arange(sw,dtype=np.float32)-(sw-1)/2
+                yy=np.arange(sh,dtype=np.float32)-(sh-1)/2
+                ax=float(np.sum(target_float*xx[None,:]))/max(1,float(sh*np.sum(xx*xx)))
+                ay=float(np.sum(target_float*yy[:,None]))/max(1,float(sw*np.sum(yy*yy)))
+                structure=target_float-target_float.mean()-ax*xx[None,:]-ay*yy[:,None]
+                if structure.std()<.5:continue
+                target_detail=target_float-cv2.GaussianBlur(target_float,(0,0),1.2)
+                if target_detail.std()<.2:continue
             # Nonmaximum suppression allows multiple objects from a learned class.
             for _ in range(8):
                 _,score,_,location=cv2.minMaxLoc(scores)
                 if score<threshold:break
-                x,y=location;matches.append(dict(label=label,score=float(score),box=[x,y,sw,sh]))
+                x,y=location
+                detail_score=None
+                if target_detail is not None:
+                    patch=gray[y:y+sh,x:x+sw].astype(np.float32)
+                    detail=patch-cv2.GaussianBlur(patch,(0,0),1.2)
+                    if detail.std()>=.2:detail_score=float(cv2.matchTemplate(detail,target_detail,cv2.TM_CCOEFF_NORMED)[0,0])
+                if target_detail is None or (detail_score is not None and np.isfinite(detail_score) and detail_score>=.55):
+                    match=dict(label=label,score=float(score),box=[x,y,sw,sh])
+                    if detail_score is not None:match['detail_score']=detail_score
+                    matches.append(match)
                 scores[max(0,y-sh//2):min(scores.shape[0],y+sh//2+1),max(0,x-sw//2):min(scores.shape[1],x+sw//2+1)]=-1
     result=[]
     for m in sorted(matches,key=lambda v:-v['score']):

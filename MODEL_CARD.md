@@ -25,3 +25,5 @@ Use `python -m unittest -v test_inference` after installing requirements. `SHA25
 ## Attribution
 
 Apache 2.0 applies to the project's original code, annotations, and compilation. Source media retain their separate status and terms described by official source pages. See LICENSE, NOTICE, and sources.json. Third-party software is installed separately and retains its own licenses.
+
+Native detections require matching high-frequency object detail (correlation at least 0.55). Templates dominated by a smooth linear brightness gradient are rejected. This reduces smooth-cloud false matches; it is not an independent accuracy evaluation and may miss diffuse targets. Raw appearance correlation is not a probability.

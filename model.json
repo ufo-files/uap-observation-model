@@ -4914,7 +4914,10 @@
       1.6
     ],
     "overlap_suppression": 0.35,
-    "default_threshold": 0.97
+    "default_threshold": 0.97,
+    "native_detail_threshold": 0.55,
+    "native_detail_gaussian_sigma": 1.2,
+    "inference_revision": 2
   },
   "created_utc": "2026-10-29T04:04:12.641033+00:00"
 }
