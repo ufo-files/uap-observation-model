@@ -1,0 +1,605 @@
+[
+  {
+    "id": "dow-uap-pr106-unresolved-uap-report-eastern-united-states-2020",
+    "title": "DOW-UAP-PR106, Unresolved UAP Report, Eastern United States, 2020",
+    "official_url": "https://www.dvidshub.net/video/1014104/dow-uap-pr106-unresolved-uap-report-eastern-united-states-2020",
+    "source_sha256": "19371ac547bf3fea3c8715d772df74a41786c3fb9835e8c4bebad4d7595e3243",
+    "date_released": "2026-07-10",
+    "rights_marking": "PUBLIC DOMAIN on source DVIDS page",
+    "terms_url": "https://www.dvidshub.net/about/copyright"
+  },
+  {
+    "id": "dow-uap-pr114-unresolved-uap-report-atlantic-ocean-2016",
+    "title": "DOW-UAP-PR114, Unresolved UAP Report, Atlantic Ocean, 2016",
+    "official_url": "https://www.dvidshub.net/video/1014121/dow-uap-pr114-unresolved-uap-report-atlantic-ocean-2016",
+    "source_sha256": "0ae775d055e90d98ca70b22466cd5a0bea9c948a550b0de5f456eda77063b22b",
+    "date_released": "2026-07-10",
+    "rights_marking": "PUBLIC DOMAIN on source DVIDS page",
+    "terms_url": "https://www.dvidshub.net/about/copyright"
+  },
+  {
+    "id": "dow-uap-pr107-unresolved-uap-report-eastern-united-states-2020",
+    "title": "DOW-UAP-PR107, Unresolved UAP Report, Eastern United States, 2020",
+    "official_url": "https://www.dvidshub.net/video/1014105/dow-uap-pr107-unresolved-uap-report-eastern-united-states-2020",
+    "source_sha256": "8d34ac0c074930b08dad4b366b2ac18dafb8000f34fad05c97032275c8fad4e6",
+    "date_released": "2026-07-10",
+    "rights_marking": "PUBLIC DOMAIN on source DVIDS page",
+    "terms_url": "https://www.dvidshub.net/about/copyright"
+  },
+  {
+    "id": "dow-uap-pr080-20-october-2020-callsign-callsign-observes-uap",
+    "title": "DOW-UAP-PR080, \"20 October 2020 [CALLSIGN] [CALLSIGN] Observes UAP\"",
+    "official_url": "https://www.dvidshub.net/video/1007803/dow-uap-pr080-20-october-2020-callsign-callsign-observes-uap",
+    "source_sha256": "0eb6a6baab38e338471b921bfb2aec8d69914723a0b16d53c52dde19905a176e",
+    "date_released": "2026-05-22",
+    "rights_marking": "PUBLIC DOMAIN on source DVIDS page",
+    "terms_url": "https://www.dvidshub.net/about/copyright"
+  },
+  {
+    "id": "dow-uap-pr059-nag-uap-1-jun-20",
+    "title": "DOW-UAP-PR059, \"NAG UAP 1 Jun 20\"",
+    "official_url": "https://www.dvidshub.net/video/1007727/dow-uap-pr059-nag-uap-1-jun-20",
+    "source_sha256": "40c353f9b1328daddf176b169efed00d05e095915aee7d806ff248241fae2e9a",
+    "date_released": "2026-05-22",
+    "rights_marking": "PUBLIC DOMAIN on source DVIDS page",
+    "terms_url": "https://www.dvidshub.net/about/copyright"
+  },
+  {
+    "id": "dow-uap-pr061-spherical-uap-callsign-2021-04-12-vid-0",
+    "title": "DOW-UAP-PR061, \"Spherical UAP [CALLSIGN] 2021/04/12 vid 0\"",
+    "official_url": "https://www.dvidshub.net/video/1007735/dow-uap-pr061-spherical-uap-callsign-2021-04-12-vid-0",
+    "source_sha256": "990f7bcec5ef23952c758bd7d59086ff547ee85680c64b5973dd4e7cb3bf45f7",
+    "date_released": "2026-05-22",
+    "rights_marking": "PUBLIC DOMAIN on source DVIDS page",
+    "terms_url": "https://www.dvidshub.net/about/copyright"
+  },
+  {
+    "id": "dow-uap-pr070-iir-1-655-s0301-23-eglin-afb-aircrew-observed-unidentified-aerial-",
+    "title": "DOW-UAP-PR070, \"IIR 1 655 S0301 23/Eglin AFB Aircrew Observed Unidentified Aerial Phenomena (UAP) on 13 Feb 23\"",
+    "official_url": "https://www.dvidshub.net/video/1007783/dow-uap-pr070-iir-1-655-s0301-23-eglin-afb-aircrew-observed-unidentified-aerial-phenomena-uap-13-feb-23",
+    "source_sha256": "80c8e1fc5ac44395d54468b5ef86b5cd9723ea568e9a9d6e5cf95e7265be6457",
+    "date_released": "2026-05-22",
+    "rights_marking": "PUBLIC DOMAIN on source DVIDS page",
+    "terms_url": "https://www.dvidshub.net/about/copyright"
+  },
+  {
+    "id": "dow-uap-pr108-unresolved-uap-report-western-united-states-2020",
+    "title": "DOW-UAP-PR108, Unresolved UAP Report, Western United States, 2020",
+    "official_url": "https://www.dvidshub.net/video/1014106/dow-uap-pr108-unresolved-uap-report-western-united-states-2020",
+    "source_sha256": "e38036bd96383206b10adbac9e7c2f43e42f8950a2d37df8a7cb5a835bccaec5",
+    "date_released": "2026-07-10",
+    "rights_marking": "PUBLIC DOMAIN on source DVIDS page",
+    "terms_url": "https://www.dvidshub.net/about/copyright"
+  },
+  {
+    "id": "dow-uap-pr109-unresolved-uap-report-eastern-united-states-2015",
+    "title": "DOW-UAP-PR109, Unresolved UAP Report, Eastern United States, 2015",
+    "official_url": "https://www.dvidshub.net/video/1014108/dow-uap-pr109-unresolved-uap-report-eastern-united-states-2015",
+    "source_sha256": "93ad0fe3bd9279c302cd8206c004a01e77b0dbf448b9de18f3b29563e446b2dc",
+    "date_released": "2026-07-10",
+    "rights_marking": "PUBLIC DOMAIN on source DVIDS page",
+    "terms_url": "https://www.dvidshub.net/about/copyright"
+  },
+  {
+    "id": "dow-uap-pr101-unresolved-uap-report-south-china-sea-2024",
+    "title": "DOW-UAP-PR101, Unresolved UAP Report, South China Sea, 2024",
+    "official_url": "https://www.dvidshub.net/video/1014097/dow-uap-pr101-unresolved-uap-report-south-china-sea-2024",
+    "source_sha256": "37cb4187263359c0d8d8c006f16033766fabc6e32819fe8d28941247eb93f8b4",
+    "date_released": "2026-07-10",
+    "rights_marking": "PUBLIC DOMAIN on source DVIDS page",
+    "terms_url": "https://www.dvidshub.net/about/copyright"
+  },
+  {
+    "id": "dow-uap-pr056-spherical-uap-pulsing-over-water-callsign",
+    "title": "DOW-UAP-PR056, \"Spherical UAP pulsing over water [CALLSIGN]\"",
+    "official_url": "https://www.dvidshub.net/video/1007718/dow-uap-pr056-spherical-uap-pulsing-over-water-callsign",
+    "source_sha256": "8b06511eb8e2e97536f00cc919a3a0e446c0b51f7d0b08c9e18e2dbdb6eb6bf0",
+    "date_released": "2026-05-22",
+    "rights_marking": "PUBLIC DOMAIN on source DVIDS page",
+    "terms_url": "https://www.dvidshub.net/about/copyright"
+  },
+  {
+    "id": "dow-uap-pr057a-spherical-uap-in-clouds",
+    "title": "DOW-UAP-PR057a, \"Spherical UAP in clouds\"",
+    "official_url": "https://www.dvidshub.net/video/1007720/dow-uap-pr057a-spherical-uap-clouds",
+    "source_sha256": "43d114fa153fa86523832e35bc9731883a67dd6bc9ea1d34c7afd5a83fe5e570",
+    "date_released": "2026-05-22",
+    "rights_marking": "PUBLIC DOMAIN on source DVIDS page",
+    "terms_url": "https://www.dvidshub.net/about/copyright"
+  },
+  {
+    "id": "dow-uap-pr079-29-october-2020-callsign-mission-observes-3-fast-moving-uap-s",
+    "title": "DOW-UAP-PR079, \"29 October 2020 [CALLSIGN] (Mission) observes 3 fast moving UAP's\"",
+    "official_url": "https://www.dvidshub.net/video/1007816/dow-uap-pr079-29-october-2020-callsign-mission-observes-3-fast-moving-uaps",
+    "source_sha256": "85ea9641ac8efe8205abf4ea337dbdb9312e242e1ac0b46cc1ebc6e515f67894",
+    "date_released": "2026-05-22",
+    "rights_marking": "PUBLIC DOMAIN on source DVIDS page",
+    "terms_url": "https://www.dvidshub.net/about/copyright"
+  },
+  {
+    "id": "dow-uap-pr030-unresolved-uap-report-middle-east-2023",
+    "title": "DOW-UAP-PR030, Unresolved UAP Report, Middle East, 2023",
+    "official_url": "https://www.dvidshub.net/video/1014102/dow-uap-pr030-unresolved-uap-report-middle-east-2023",
+    "source_sha256": "22768155ccc4beec135c49559ae7cf4a2092c944422fdffb0eeab815058d0a81",
+    "date_released": "2026-07-10",
+    "rights_marking": "PUBLIC DOMAIN on source DVIDS page",
+    "terms_url": "https://www.dvidshub.net/about/copyright"
+  },
+  {
+    "id": "dow-uap-pr067-multiple-spherical-uap-uso-near-sub-callsign-2022-03-25-in-and-out",
+    "title": "DOW-UAP-PR067, \"Multiple Spherical UAP USO near Sub. [CALLSIGN] 2022/03/25 in and out of water\"",
+    "official_url": "https://www.dvidshub.net/video/1007779/dow-uap-pr067-multiple-spherical-uap-uso-near-sub-callsign-2022-03-25-and-out-water",
+    "source_sha256": "de1005b30f8c1f70f813240404c052d5ae3fc4930ac736109ea28272e84f6010",
+    "date_released": "2026-05-22",
+    "rights_marking": "PUBLIC DOMAIN on source DVIDS page",
+    "terms_url": "https://www.dvidshub.net/about/copyright"
+  },
+  {
+    "id": "dow-uap-pr090-24-aug-2020-callsign-mission-observes-uap",
+    "title": "DOW-UAP-PR090, \"24 AUG 2020 [CALLSIGN] (Mission) Observes UAP\"",
+    "official_url": "https://www.dvidshub.net/video/1007719/dow-uap-pr090-24-aug-2020-callsign-mission-observes-uap",
+    "source_sha256": "6a17038191ace1294fe414e256fb65bbeedbdad6c517e89d21d05ba48dd94b71",
+    "date_released": "2026-05-22",
+    "rights_marking": "PUBLIC DOMAIN on source DVIDS page",
+    "terms_url": "https://www.dvidshub.net/about/copyright"
+  },
+  {
+    "id": "dow-uap-pr060-spherical-uap-callsign-2021-04-12-obj-2",
+    "title": "DOW-UAP-PR060, \"Spherical UAP [CALLSIGN] 2021/04/12 obj 2\"",
+    "official_url": "https://www.dvidshub.net/video/1007734/dow-uap-pr060-spherical-uap-callsign-2021-04-12-obj-2",
+    "source_sha256": "03dbc4ebcdbdd6e29ec56572a23e6372ac936e9a79467c1ad9db5ad294307300",
+    "date_released": "2026-05-22",
+    "rights_marking": "PUBLIC DOMAIN on source DVIDS page",
+    "terms_url": "https://www.dvidshub.net/about/copyright"
+  },
+  {
+    "id": "dow-uap-pr077-2-november-2020-callsign-callsign-observes-and-tracks-uap-1-of-2",
+    "title": "DOW-UAP-PR077, \"2 November 2020 [CALLSIGN] [CALLSIGN] Observes and tracks UAP 1 of 2\"",
+    "official_url": "https://www.dvidshub.net/video/1007809/dow-uap-pr077-2-november-2020-callsign-callsign-observes-and-tracks-uap-1-2",
+    "source_sha256": "a938fcd34589c1197320ae9e95975ec4a80774987f39a82ca924bb74f1ebd65c",
+    "date_released": "2026-05-22",
+    "rights_marking": "PUBLIC DOMAIN on source DVIDS page",
+    "terms_url": "https://www.dvidshub.net/about/copyright"
+  },
+  {
+    "id": "dow-uap-pr111-unresolved-uap-report-eastern-united-states-2020",
+    "title": "DOW-UAP-PR111, Unresolved UAP Report, Eastern United States, 2020",
+    "official_url": "https://www.dvidshub.net/video/1014114/dow-uap-pr111-unresolved-uap-report-eastern-united-states-2020",
+    "source_sha256": "3f6177a2ad01bdf920222831d368e4878127d068c5a63e77fb0028798c0310d2",
+    "date_released": "2026-07-10",
+    "rights_marking": "PUBLIC DOMAIN on source DVIDS page",
+    "terms_url": "https://www.dvidshub.net/about/copyright"
+  },
+  {
+    "id": "dow-uap-pr100-unresolved-uap-report-yellow-sea-2023",
+    "title": "DOW-UAP-PR100, Unresolved UAP Report, Yellow Sea, 2023",
+    "official_url": "https://www.dvidshub.net/video/1014096/dow-uap-pr100-unresolved-uap-report-yellow-sea-2023",
+    "source_sha256": "1210749cf671a113f953a5955b043c1fb02acc5ebb8a0b3c66b5bd172ef00721",
+    "date_released": "2026-07-10",
+    "rights_marking": "PUBLIC DOMAIN on source DVIDS page",
+    "terms_url": "https://www.dvidshub.net/about/copyright"
+  },
+  {
+    "id": "dow-uap-pr071-usaf-ang-f-16c-callsign-callsign-shoots-down-uap-over-lake-huron-w",
+    "title": "DOW-UAP-PR071, \"USAF ANG F-16C (callsign [CALLSIGN]) Shoots Down UAP over Lake Huron with [Weapon System], 12 Feb 2023\"",
+    "official_url": "https://www.dvidshub.net/video/1007784/dow-uap-pr071-usaf-ang-f-16c-callsign-callsign-shoots-down-uap-over-lake-huron-with-weapon-system-12-feb",
+    "source_sha256": "a803a6933a92da2cb64a7e98ae3e96e31c4aade6455c9ccea463656fee04adce",
+    "date_released": "2026-05-22",
+    "rights_marking": "PUBLIC DOMAIN on source DVIDS page",
+    "terms_url": "https://www.dvidshub.net/about/copyright"
+  },
+  {
+    "id": "dow-uap-pr095-may-05-2020-gulf-of-arabia-callsign-platform-dual-uap",
+    "title": "DOW-UAP-PR095, \"May 05 2020 Gulf of Arabia [CALLSIGN] (Platform) Dual UAP\"",
+    "official_url": "https://www.dvidshub.net/video/1007725/dow-uap-pr095-may-05-2020-gulf-arabia-callsign-platform-dual-uap",
+    "source_sha256": "72729a7280ccbd7b436b2508bcd6e620b94932e14ec59a86cfb3c29a3674b5d7",
+    "date_released": "2026-05-22",
+    "rights_marking": "PUBLIC DOMAIN on source DVIDS page",
+    "terms_url": "https://www.dvidshub.net/about/copyright"
+  },
+  {
+    "id": "dow-uap-pr075-09jun2021-platform-observed-uap-in-the-ecs",
+    "title": "DOW-UAP-PR075, \"09JUN2021 [Platform] observed UAP in the ECS\"",
+    "official_url": "https://www.dvidshub.net/video/1007795/dow-uap-pr075-09jun2021-platform-observed-uap-ecs",
+    "source_sha256": "f97c19f0ba2ba284c2a86cf2e6c20c0b3908f213d2d1e2b2e3c58f4b57807e34",
+    "date_released": "2026-05-22",
+    "rights_marking": "PUBLIC DOMAIN on source DVIDS page",
+    "terms_url": "https://www.dvidshub.net/about/copyright"
+  },
+  {
+    "id": "dow-uap-pr073-iir-1-655-s0053-23-several-unidentified-aerial-phenomenon-encounte",
+    "title": "DOW-UAP-PR073, IIR 1 655 S0053 23/Several Unidentified Aerial Phenomenon Encountered In The Vicinity of Columbus OH\"",
+    "official_url": "https://www.dvidshub.net/video/1007790/dow-uap-pr073-iir-1-655-s0053-23-several-unidentified-aerial-phenomenon-encountered-vicinity-columbus-oh",
+    "source_sha256": "12d171075dbeed20ff787379d0970a15d733eda312982aeade0cd95b901f8e35",
+    "date_released": "2026-05-22",
+    "rights_marking": "PUBLIC DOMAIN on source DVIDS page",
+    "terms_url": "https://www.dvidshub.net/about/copyright"
+  },
+  {
+    "id": "dow-uap-pr105-unresolved-uap-report-east-china-sea-2025",
+    "title": "DOW-UAP-PR105, Unresolved UAP Report, East China Sea, 2025",
+    "official_url": "https://www.dvidshub.net/video/1014103/dow-uap-pr105-unresolved-uap-report-east-china-sea-2025",
+    "source_sha256": "d70f3d3ba21816d03fe183a50e87b9e9e3705e9b6a90c0b6fe17e603e3cf2447",
+    "date_released": "2026-07-10",
+    "rights_marking": "PUBLIC DOMAIN on source DVIDS page",
+    "terms_url": "https://www.dvidshub.net/about/copyright"
+  },
+  {
+    "id": "dow-uap-pr062-spherical-uap-callsign-2021-04-12-vid-1",
+    "title": "DOW-UAP-PR062, \"Spherical UAP [CALLSIGN] 2021/04/12 vid 1\"",
+    "official_url": "https://www.dvidshub.net/video/1007739/dow-uap-pr062-spherical-uap-callsign-2021-04-12-vid-1",
+    "source_sha256": "4e1ecad06fc7d3a0e9fe605061cdc0b447a6b8f0187bafbe174e048edba36c27",
+    "date_released": "2026-05-22",
+    "rights_marking": "PUBLIC DOMAIN on source DVIDS page",
+    "terms_url": "https://www.dvidshub.net/about/copyright"
+  },
+  {
+    "id": "dow-uap-pr054-spherical-uap-erratic-movement-callsign-mission-2022",
+    "title": "DOW-UAP-PR054, \"Spherical UAP Erratic movement [CALLSIGN] (Mission) 2022\"",
+    "official_url": "https://www.dvidshub.net/video/1007711/dow-uap-pr054-spherical-uap-erratic-movement-callsign-mission-2022",
+    "source_sha256": "03d1334ea2369d2295cfd6f8db9be859ea386dc5fd8caef333074d0e3cc046bf",
+    "date_released": "2026-05-22",
+    "rights_marking": "PUBLIC DOMAIN on source DVIDS page",
+    "terms_url": "https://www.dvidshub.net/about/copyright"
+  },
+  {
+    "id": "dow-uap-pr083-7-october-2020-callsign-observes-uap",
+    "title": "DOW-UAP-PR083, \"7 October 2020 [CALLSIGN] observes UAP\"",
+    "official_url": "https://www.dvidshub.net/video/1007808/dow-uap-pr083-7-october-2020-callsign-observes-uap",
+    "source_sha256": "a4b8435bb51036dfee1e3589deace70bc62ddc1b0692aa43ca5c6b022fd2d5c9",
+    "date_released": "2026-05-22",
+    "rights_marking": "PUBLIC DOMAIN on source DVIDS page",
+    "terms_url": "https://www.dvidshub.net/about/copyright"
+  },
+  {
+    "id": "dow-uap-pr050-4-uap-formation-iran-26-aug-2022-over-water-callsign",
+    "title": "DOW-UAP-PR050, \"4 UAP Formation Iran 26 Aug 2022 over water [CALLSIGN]\"",
+    "official_url": "https://www.dvidshub.net/video/1007706/dow-uap-pr050-4-uap-formation-iran-26-aug-2022-over-water-callsign",
+    "source_sha256": "8375a4c727c8e1fe69070ea87567a104dfa21cf2a690510c6e4d291bfd383f47",
+    "date_released": "2026-05-22",
+    "rights_marking": "PUBLIC DOMAIN on source DVIDS page",
+    "terms_url": "https://www.dvidshub.net/about/copyright"
+  },
+  {
+    "id": "dow-uap-pr058-callsign-mission-uap",
+    "title": "DOW-UAP-PR058, \"[CALLSIGN] (Mission) UAP\"",
+    "official_url": "https://www.dvidshub.net/video/1007723/dow-uap-pr058-callsign-mission-uap",
+    "source_sha256": "1d62df9abf14d6fd49ee1f448906d7baeac91e3e1de6b980e8df5ad294dbf358",
+    "date_released": "2026-05-22",
+    "rights_marking": "PUBLIC DOMAIN on source DVIDS page",
+    "terms_url": "https://www.dvidshub.net/about/copyright"
+  },
+  {
+    "id": "dow-uap-pr088-31-aug-callsign-callsign-observes-uap",
+    "title": "DOW-UAP-PR088, \"31 AUG [CALLSIGN] [CALLSIGN] Observes UAP\"",
+    "official_url": "https://www.dvidshub.net/video/1007800/dow-uap-pr088-31-aug-callsign-callsign-observes-uap",
+    "source_sha256": "0962dc9f1071938979c319108e3e259773195dc3c258ffcdb4b4a65e317041c2",
+    "date_released": "2026-05-22",
+    "rights_marking": "PUBLIC DOMAIN on source DVIDS page",
+    "terms_url": "https://www.dvidshub.net/about/copyright"
+  },
+  {
+    "id": "dow-uap-pr104-unresolved-uap-report-yellow-sea-2025",
+    "title": "DOW-UAP-PR104, Unresolved UAP Report, Yellow Sea, 2025",
+    "official_url": "https://www.dvidshub.net/video/1014101/dow-uap-pr104-unresolved-uap-report-yellow-sea-2025",
+    "source_sha256": "6727648ee0f9f94d03fb0887a6ca05349a7b9711b9210e3eac1059cf592c4804",
+    "date_released": "2026-07-10",
+    "rights_marking": "PUBLIC DOMAIN on source DVIDS page",
+    "terms_url": "https://www.dvidshub.net/about/copyright"
+  },
+  {
+    "id": "dow-uap-pr112-unresolved-uap-report-eastern-united-states-2019",
+    "title": "DOW-UAP-PR112, Unresolved UAP Report, Eastern United States, 2019",
+    "official_url": "https://www.dvidshub.net/video/1014128/dow-uap-pr112-unresolved-uap-report-eastern-united-states-2019",
+    "source_sha256": "2b335cabe6d9ed2a7e093e2d25341fd10a6906b213865e13e956f0b5a58aa0d7",
+    "date_released": "2026-07-10",
+    "rights_marking": "PUBLIC DOMAIN on source DVIDS page",
+    "terms_url": "https://www.dvidshub.net/about/copyright"
+  },
+  {
+    "id": "dow-uap-pr082-16-oct-2020-callsign-views-uap",
+    "title": "DOW-UAP-PR082, \"16 OCT 2020 [CALLSIGN] views UAP\"",
+    "official_url": "https://www.dvidshub.net/video/1007807/dow-uap-pr082-16-oct-2020-callsign-views-uap",
+    "source_sha256": "f264cf95fcf0abcd5d366be7bc6a3222402f3d9c8cd1b07cb4afc77b6499296b",
+    "date_released": "2026-05-22",
+    "rights_marking": "PUBLIC DOMAIN on source DVIDS page",
+    "terms_url": "https://www.dvidshub.net/about/copyright"
+  },
+  {
+    "id": "dow-uap-pr092-08-aug-2020-callsign-callsign-uap-observation",
+    "title": "DOW-UAP-PR092, \"08 AUG 2020 [CALLSIGN] [CALLSIGN] UAP observation\"",
+    "official_url": "https://www.dvidshub.net/video/1007715/dow-uap-pr092-08-aug-2020-callsign-callsign-uap-observation",
+    "source_sha256": "c3ebfca1e13edbd586790ff2f02612c633a375e07e0edc7424a925bcb6079bb3",
+    "date_released": "2026-05-22",
+    "rights_marking": "PUBLIC DOMAIN on source DVIDS page",
+    "terms_url": "https://www.dvidshub.net/about/copyright"
+  },
+  {
+    "id": "dow-uap-pr097-hi-res-callsign-observes-uap-on-25sep19-at-2135z",
+    "title": "DOW-UAP-PR097, \"Hi-Res: [CALLSIGN] Observes UAP on 25SEP19 at 2135Z\"",
+    "official_url": "https://www.dvidshub.net/video/1007728/dow-uap-pr097-hi-res-callsign-observes-uap-25sep19-2135z",
+    "source_sha256": "fff3cb23378050f8b2520410367237a6dff3804a60ad6bee491e96f7e6cdc5f9",
+    "date_released": "2026-05-22",
+    "rights_marking": "PUBLIC DOMAIN on source DVIDS page",
+    "terms_url": "https://www.dvidshub.net/about/copyright"
+  },
+  {
+    "id": "dow-uap-pr052-uap-uso-formation-callsign-mission",
+    "title": "DOW-UAP-PR052, \"UAP USO Formation [CALLSIGN] (Mission)\"",
+    "official_url": "https://www.dvidshub.net/video/1007708/dow-uap-pr052-uap-uso-formation-callsign-mission",
+    "source_sha256": "e67b3a3b3d863ef88cc8c4e6b73e9c9bff896506a2962956ed70f508fd8815f5",
+    "date_released": "2026-05-22",
+    "rights_marking": "PUBLIC DOMAIN on source DVIDS page",
+    "terms_url": "https://www.dvidshub.net/about/copyright"
+  },
+  {
+    "id": "dow-uap-pr063-spherical-uap-callsign-2021-04-12-vid-2",
+    "title": "DOW-UAP-PR063, \"Spherical UAP [CALLSIGN] 2021/04/12 vid 2\"",
+    "official_url": "https://www.dvidshub.net/video/1007740/dow-uap-pr063-spherical-uap-callsign-2021-04-12-vid-2",
+    "source_sha256": "f4fa4bb697cadbbd6d645961732708eaf2b8819ea291069ef10ffc5d9386f71a",
+    "date_released": "2026-05-22",
+    "rights_marking": "PUBLIC DOMAIN on source DVIDS page",
+    "terms_url": "https://www.dvidshub.net/about/copyright"
+  },
+  {
+    "id": "dow-uap-pr102-unresolved-uap-report-east-china-sea-2024",
+    "title": "DOW-UAP-PR102, Unresolved UAP Report, East China Sea, 2024",
+    "official_url": "https://www.dvidshub.net/video/1014098/dow-uap-pr102-unresolved-uap-report-east-china-sea-2024",
+    "source_sha256": "a7aa0693e04189910fb7328ac0d26d88e0c62bd7eb61b42588131e7867ed6a47",
+    "date_released": "2026-07-10",
+    "rights_marking": "PUBLIC DOMAIN on source DVIDS page",
+    "terms_url": "https://www.dvidshub.net/about/copyright"
+  },
+  {
+    "id": "dow-uap-pr087-05-september-2020-callsign-uap",
+    "title": "DOW-UAP-PR087, \"05 September 2020 [CALLSIGN] UAP\"",
+    "official_url": "https://www.dvidshub.net/video/1007799/dow-uap-pr087-05-september-2020-callsign-uap",
+    "source_sha256": "34b77df33a8d88b2a77a35799d6a28cca41135255c2efea8123a86b2885cfc2a",
+    "date_released": "2026-05-22",
+    "rights_marking": "PUBLIC DOMAIN on source DVIDS page",
+    "terms_url": "https://www.dvidshub.net/about/copyright"
+  },
+  {
+    "id": "dow-uap-pr084-17-sept-2020-callsign-observes-uap",
+    "title": "DOW-UAP-PR084, \"17 Sept 2020 [CALLSIGN] observes UAP\"",
+    "official_url": "https://www.dvidshub.net/video/1007810/dow-uap-pr084-17-sept-2020-callsign-observes-uap",
+    "source_sha256": "6cdd8e86b9e887e0675d66a8e1e42e078751adcc764eb4b50f63ded10f7cacf5",
+    "date_released": "2026-05-22",
+    "rights_marking": "PUBLIC DOMAIN on source DVIDS page",
+    "terms_url": "https://www.dvidshub.net/about/copyright"
+  },
+  {
+    "id": "dow-uap-pr064-afsoc-kabul-uap-jul-2017",
+    "title": "DOW-UAP-PR064, \"AFSOC Kabul UAP Jul 2017\"",
+    "official_url": "https://www.dvidshub.net/video/1007741/dow-uap-pr064-afsoc-kabul-uap-jul-2017",
+    "source_sha256": "32ff1d5068550bc701a95554dc52f7a1c291d90cc95cca5e91cd43b0b0751bb6",
+    "date_released": "2026-05-22",
+    "rights_marking": "PUBLIC DOMAIN on source DVIDS page",
+    "terms_url": "https://www.dvidshub.net/about/copyright"
+  },
+  {
+    "id": "dow-uap-pr051-syrian-uap-instant-acceleration",
+    "title": "DOW-UAP-PR051, \"Syrian UAP instant acceleration\"",
+    "official_url": "https://www.dvidshub.net/video/1007707/dow-uap-pr051-syrian-uap-instant-acceleration",
+    "source_sha256": "d5c8ea707c836aa23c14750fed97711e8ecbebe230dabb5b8aeab327ca95a49b",
+    "date_released": "2026-05-22",
+    "rights_marking": "PUBLIC DOMAIN on source DVIDS page",
+    "terms_url": "https://www.dvidshub.net/about/copyright"
+  },
+  {
+    "id": "dow-uap-pr086-uap-from-dec-2019-east-coast",
+    "title": "DOW-UAP-PR086, \"UAP from Dec 2019 (East Coast)\"",
+    "official_url": "https://www.dvidshub.net/video/1007797/dow-uap-pr086-uap-dec-2019-east-coast",
+    "source_sha256": "e9dacf0d1dc8c57056f7bf8dae95dfd71dac00535a51ec0c79190ea64ef5c748",
+    "date_released": "2026-05-22",
+    "rights_marking": "PUBLIC DOMAIN on source DVIDS page",
+    "terms_url": "https://www.dvidshub.net/about/copyright"
+  },
+  {
+    "id": "dow-uap-pr074-callsign-mission-hd-20220613",
+    "title": "DOW-UAP-PR074, \"[CALLSIGN] (Mission)HD_20220613\"",
+    "official_url": "https://www.dvidshub.net/video/1007791/dow-uap-pr074-callsign-missionhd-20220613",
+    "source_sha256": "b8590ac4c50ee62a88c6d32e1a1cfe97dff93fb5ba91a9346150501bdcb18044",
+    "date_released": "2026-05-22",
+    "rights_marking": "PUBLIC DOMAIN on source DVIDS page",
+    "terms_url": "https://www.dvidshub.net/about/copyright"
+  },
+  {
+    "id": "dow-uap-pr065-uscg-c-144-tyndall-uap-2-tic-tac-ir-hot-24-april-2024",
+    "title": "DOW-UAP-PR065, \"USCG C-144 Tyndall UAP 2 TIC TAC IR hot 24 April 2024\"",
+    "official_url": "https://www.dvidshub.net/video/1007777/dow-uap-pr065-uscg-c-144-tyndall-uap-2-tic-tac-ir-hot-24-april-2024",
+    "source_sha256": "304af82e5cbfa53942191bf772ccfb71a864a4048e3bb3be9e00bab5478158dd",
+    "date_released": "2026-05-22",
+    "rights_marking": "PUBLIC DOMAIN on source DVIDS page",
+    "terms_url": "https://www.dvidshub.net/about/copyright"
+  },
+  {
+    "id": "dow-uap-pr081-18-oct-2020-callsign-observes-uap",
+    "title": "DOW-UAP-PR081, \"18 Oct 2020 [CALLSIGN] observes UAP\"",
+    "official_url": "https://www.dvidshub.net/video/1007805/dow-uap-pr081-18-oct-2020-callsign-observes-uap",
+    "source_sha256": "d0004ccb98aeea88f9ae3da8af76222b4ee24adf6883d96d347c6412a7d22eac",
+    "date_released": "2026-05-22",
+    "rights_marking": "PUBLIC DOMAIN on source DVIDS page",
+    "terms_url": "https://www.dvidshub.net/about/copyright"
+  },
+  {
+    "id": "dow-uap-pr053-cigar-shaped-or-fast-spherical-uap-clip-15-oct-22",
+    "title": "DOW-UAP-PR053, \"Cigar Shaped or Fast Spherical UAP clip 15 OCT 22\"",
+    "official_url": "https://www.dvidshub.net/video/1007709/dow-uap-pr053-cigar-shaped-fast-spherical-uap-clip-15-oct-22",
+    "source_sha256": "108b15eae1212913a63b30eedf797d39b4565baf1353b45b81ac3ebe20631a79",
+    "date_released": "2026-05-22",
+    "rights_marking": "PUBLIC DOMAIN on source DVIDS page",
+    "terms_url": "https://www.dvidshub.net/about/copyright"
+  },
+  {
+    "id": "dow-uap-pr103-unresolved-uap-report-east-china-sea-2024",
+    "title": "DOW-UAP-PR103, Unresolved UAP Report, East China Sea, 2024",
+    "official_url": "https://www.dvidshub.net/video/1014099/dow-uap-pr103-unresolved-uap-report-east-china-sea-2024",
+    "source_sha256": "8c60f49dbbfecf07512d0c051e8b5171e811c9224bf6bf152f5eceeb6e46779a",
+    "date_released": "2026-07-10",
+    "rights_marking": "PUBLIC DOMAIN on source DVIDS page",
+    "terms_url": "https://www.dvidshub.net/about/copyright"
+  },
+  {
+    "id": "dow-uap-pr078-2-november-2020-callsign-callsign-observes-and-tracks-uap-2-of-2",
+    "title": "DOW-UAP-PR078, \"2 November 2020 [CALLSIGN] [CALLSIGN] Observes and tracks UAP 2 of 2\"",
+    "official_url": "https://www.dvidshub.net/video/1007812/dow-uap-pr078-2-november-2020-callsign-callsign-observes-and-tracks-uap-2-2",
+    "source_sha256": "4ada04dac934af3e451982ffb3f917deff80d3497cedd31a7be1d2d8820ac09f",
+    "date_released": "2026-05-22",
+    "rights_marking": "PUBLIC DOMAIN on source DVIDS page",
+    "terms_url": "https://www.dvidshub.net/about/copyright"
+  },
+  {
+    "id": "dow-uap-pr099-hi-res-callsign-observes-uap-on-25sep19-at-1715z",
+    "title": "DOW-UAP-PR099, \"Hi-Res: [CALLSIGN] Observes UAP on 25SEP19 at 1715Z\"",
+    "official_url": "https://www.dvidshub.net/video/1007738/dow-uap-pr099-hi-res-callsign-observes-uap-25sep19-1715z",
+    "source_sha256": "a37987e6e31e9fcdd799c2e037e4092a3b0d6f8d08d2a16e3335ee78cb884da5",
+    "date_released": "2026-05-22",
+    "rights_marking": "PUBLIC DOMAIN on source DVIDS page",
+    "terms_url": "https://www.dvidshub.net/about/copyright"
+  },
+  {
+    "id": "dow-uap-pr089-31-aug-callsign-callsign-observes-uap-part2",
+    "title": "DOW-UAP-PR089, \"31 AUG [CALLSIGN] [CALLSIGN] Observes UAP part2\"",
+    "official_url": "https://www.dvidshub.net/video/1007712/dow-uap-pr089-31-aug-callsign-callsign-observes-uap-part2",
+    "source_sha256": "bcc885a0448e836827dc46ee2114d0d54bd0cb8047589b3e244428863752f955",
+    "date_released": "2026-05-22",
+    "rights_marking": "PUBLIC DOMAIN on source DVIDS page",
+    "terms_url": "https://www.dvidshub.net/about/copyright"
+  },
+  {
+    "id": "dow-uap-pr096-hh11-03-july-2018-uaps",
+    "title": "DOW-UAP-PR096, \"HH11 03 July 2018 UAPs\"",
+    "official_url": "https://www.dvidshub.net/video/1007726/dow-uap-pr096-hh11-03-july-2018-uaps",
+    "source_sha256": "d869a5367f4c69ed166a540c65a2d4ed6a528e033a8d64496518f2e6ddf7e7b1",
+    "date_released": "2026-05-22",
+    "rights_marking": "PUBLIC DOMAIN on source DVIDS page",
+    "terms_url": "https://www.dvidshub.net/about/copyright"
+  },
+  {
+    "id": "dow-uap-pr069-f-a-18-flir-uap",
+    "title": "DOW-UAP-PR069, \"F/A-18 FLIR UAP\"",
+    "official_url": "https://www.dvidshub.net/video/1007781/dow-uap-pr069-f-18-flir-uap",
+    "source_sha256": "7e81fd782a5b98af5cb941b6e5cce865f15324dea41b8c4cf4577f3d02c3fd66",
+    "date_released": "2026-05-22",
+    "rights_marking": "PUBLIC DOMAIN on source DVIDS page",
+    "terms_url": "https://www.dvidshub.net/about/copyright"
+  },
+  {
+    "id": "dow-uap-pr024-unresolved-uap-report-middle-east-2023",
+    "title": "DOW-UAP-PR024, Unresolved UAP Report, Middle East, 2023",
+    "official_url": "https://www.dvidshub.net/video/1014100/dow-uap-pr024-unresolved-uap-report-middle-east-2023",
+    "source_sha256": "4b07fe1dd556d8595ecc1f602959c22e43deaf7dc992a981772c0cf9697e2b41",
+    "date_released": "2026-07-10",
+    "rights_marking": "PUBLIC DOMAIN on source DVIDS page",
+    "terms_url": "https://www.dvidshub.net/about/copyright"
+  },
+  {
+    "id": "dow-uap-pr094-callsign-mission-hd-2020-02-13",
+    "title": "DOW-UAP-PR094, \"[CALLSIGN] (Mission) - HD 2020-02-13\"",
+    "official_url": "https://www.dvidshub.net/video/1007722/dow-uap-pr094-callsign-mission-hd-2020-02-13",
+    "source_sha256": "a1c331ec02bdfb8958683d1f34a97a83090a67024cf9dce3b5e4a8c33f8f65a0",
+    "date_released": "2026-05-22",
+    "rights_marking": "PUBLIC DOMAIN on source DVIDS page",
+    "terms_url": "https://www.dvidshub.net/about/copyright"
+  },
+  {
+    "id": "dow-uap-pr068-iir-1-666-s0151-23-video-footage-of-unidentified-aerial-phenomenon",
+    "title": "DOW-UAP-PR068, \"IIR 1 666 S0151 23/Video Footage of Unidentified Aerial Phenomenon (UAP) captured by fifth generation aircraft on 20 Jan 23\"",
+    "official_url": "https://www.dvidshub.net/video/1007780/dow-uap-pr068-iir-1-666-s0151-23-video-footage-unidentified-aerial-phenomenon-uap-captured-fifth-generation-aircraft",
+    "source_sha256": "7989ac7466fb7801b3e2d9f340bebd2bfb6ac9e37a51e05d69ed8366a344d43b",
+    "date_released": "2026-05-22",
+    "rights_marking": "PUBLIC DOMAIN on source DVIDS page",
+    "terms_url": "https://www.dvidshub.net/about/copyright"
+  },
+  {
+    "id": "dow-uap-pr098-ufos-in-formation-over-persian-gulf",
+    "title": "DOW-UAP-PR098, \"UFOs in formation over Persian Gulf?\"",
+    "official_url": "https://www.dvidshub.net/video/1007737/dow-uap-pr098-ufos-formation-over-persian-gulf",
+    "source_sha256": "935edc4bce5d4f7477acd33b8b3873293ff8fb13077bafee723944cf2d6f0b36",
+    "date_released": "2026-05-22",
+    "rights_marking": "PUBLIC DOMAIN on source DVIDS page",
+    "terms_url": "https://www.dvidshub.net/about/copyright"
+  },
+  {
+    "id": "dow-uap-pr110-unresolved-uap-report-eastern-united-states-2020",
+    "title": "DOW-UAP-PR110, Unresolved UAP Report, Eastern United States, 2020",
+    "official_url": "https://www.dvidshub.net/video/1014112/dow-uap-pr110-unresolved-uap-report-eastern-united-states-2020",
+    "source_sha256": "b13cb92b1fab499cd35fbc53736771bed362b5df09f0384c6d5b081ed23e4cf4",
+    "date_released": "2026-07-10",
+    "rights_marking": "PUBLIC DOMAIN on source DVIDS page",
+    "terms_url": "https://www.dvidshub.net/about/copyright"
+  },
+  {
+    "id": "dow-uap-pr055-spherical-uap-over-afg-in-and-out-of-clouds-23-nov-2020",
+    "title": "DOW-UAP-PR055, \"Spherical UAP over AFG in and out of clouds 23 Nov 2020\"",
+    "official_url": "https://www.dvidshub.net/video/1007713/dow-uap-pr055-spherical-uap-over-afg-and-out-clouds-23-nov-2020",
+    "source_sha256": "39948c8102f6bdeba4baeff7239ca83a810eb7d5ee686934234965a49f8571a7",
+    "date_released": "2026-05-22",
+    "rights_marking": "PUBLIC DOMAIN on source DVIDS page",
+    "terms_url": "https://www.dvidshub.net/about/copyright"
+  },
+  {
+    "id": "dow-uap-pr115-unresolved-uap-report-gulf-of-america-2019",
+    "title": "DOW-UAP-PR115, Unresolved UAP Report, Gulf of America, 2019",
+    "official_url": "https://www.dvidshub.net/video/1014123/dow-uap-pr115-unresolved-uap-report-gulf-america-2019",
+    "source_sha256": "eb14f691927f444f6085a105b25fd18554d3154d3e98f10c66a6ae708113fd37",
+    "date_released": "2026-07-10",
+    "rights_marking": "PUBLIC DOMAIN on source DVIDS page",
+    "terms_url": "https://www.dvidshub.net/about/copyright"
+  },
+  {
+    "id": "dow-uap-pr076-03-january-2021-callsign-mission-observes-uap",
+    "title": "DOW-UAP-PR076, \"03 January 2021 [CALLSIGN] (Mission) observes UAP\"",
+    "official_url": "https://www.dvidshub.net/video/1007804/dow-uap-pr076-03-january-2021-callsign-mission-observes-uap",
+    "source_sha256": "e265c6b233e4e724dccc24e044ce0e1df86b787cd1bcccd4c22fe9e8d14efaa9",
+    "date_released": "2026-05-22",
+    "rights_marking": "PUBLIC DOMAIN on source DVIDS page",
+    "terms_url": "https://www.dvidshub.net/about/copyright"
+  },
+  {
+    "id": "dow-uap-pr085-16-sept-2020-callsign-callsign-observes-uap",
+    "title": "DOW-UAP-PR085, \"16 Sept 2020 [CALLSIGN] [CALLSIGN] observes UAP\"",
+    "official_url": "https://www.dvidshub.net/video/1007796/dow-uap-pr085-16-sept-2020-callsign-callsign-observes-uap",
+    "source_sha256": "8fdc3bbe10782809e09b57b5afc0e6b767beac2ff35008a0a6426f31cb05822f",
+    "date_released": "2026-05-22",
+    "rights_marking": "PUBLIC DOMAIN on source DVIDS page",
+    "terms_url": "https://www.dvidshub.net/about/copyright"
+  },
+  {
+    "id": "dow-uap-pr066-uscg-c-144-tyndall-uap-1-tic-tac-ir-hot-24-april-2024",
+    "title": "DOW-UAP-PR066, \"USCG C-144 Tyndall UAP 1 TIC TAC IR hot 24 April 2024\"",
+    "official_url": "https://www.dvidshub.net/video/1007778/dow-uap-pr066-uscg-c-144-tyndall-uap-1-tic-tac-ir-hot-24-april-2024",
+    "source_sha256": "dcbdda58cad58f91118dfe399b734361a8e5e35e68090fb0fc654658cc5f51dd",
+    "date_released": "2026-05-22",
+    "rights_marking": "PUBLIC DOMAIN on source DVIDS page",
+    "terms_url": "https://www.dvidshub.net/about/copyright"
+  },
+  {
+    "id": "dow-uap-pr093-may-05-2020-gulf-of-arabia-callsign-platform-dual-uap",
+    "title": "DOW-UAP-PR093, \"May 05 2020 Gulf of Arabia [CALLSIGN] (Platform) Dual UAP\"",
+    "official_url": "https://www.dvidshub.net/video/1007721/dow-uap-pr093-may-05-2020-gulf-arabia-callsign-platform-dual-uap",
+    "source_sha256": "0900834c1513a3f3ee2662e0ead88ae33732a7ff67dca3b823febd734bf26060",
+    "date_released": "2026-05-22",
+    "rights_marking": "PUBLIC DOMAIN on source DVIDS page",
+    "terms_url": "https://www.dvidshub.net/about/copyright"
+  },
+  {
+    "id": "dow-uap-pr091-21-aug-callsign-observes-uap-in-persian-gulf",
+    "title": "DOW-UAP-PR091, \"21 AUG [CALLSIGN] Observes UAP in Persian Gulf\"",
+    "official_url": "https://www.dvidshub.net/video/1007716/dow-uap-pr091-21-aug-callsign-observes-uap-persian-gulf",
+    "source_sha256": "7a9da5c7ffb2aefb581535d28a5d14a204f4a0f28a36aea537119b2159d5d224",
+    "date_released": "2026-05-22",
+    "rights_marking": "PUBLIC DOMAIN on source DVIDS page",
+    "terms_url": "https://www.dvidshub.net/about/copyright"
+  },
+  {
+    "id": "dow-uap-pr072-administrative-revision-iir-1777-j0032-22-kazakhstan-uap-in-the-vi",
+    "title": "DOW-UAP-PR072, \"ADMINISTRATIVE REVISION: IIR 1777 J0032 22 Kazakhstan - UAP in the vicinity of Karaganda International Airport\"",
+    "official_url": "https://www.dvidshub.net/video/1007788/dow-uap-pr072-administrative-revision-iir-1777-j0032-22-kazakhstan-uap-vicinity-karaganda-international-airport",
+    "source_sha256": "5e0e1252d0c7443984d545ae09daceb2a01b27bc005056bed6b8172a87c28e28",
+    "date_released": "2026-05-22",
+    "rights_marking": "PUBLIC DOMAIN on source DVIDS page",
+    "terms_url": "https://www.dvidshub.net/about/copyright"
+  }
+]

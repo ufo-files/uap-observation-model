@@ -1,0 +1,12 @@
+{
+  "model_id": "e87a4acea5d149790eab57742cd8c10b",
+  "examples": 440,
+  "usable_templates": 437,
+  "source_videos": 67,
+  "classes": {
+    "anomalous": 440
+  },
+  "skipped": {},
+  "dataset_sha256": "e87a4acea5d149790eab57742cd8c10bff25781e47fad3e689868ff9b93519dc",
+  "created_utc": "2026-10-29T00:44:26.647532+00:00"
+}
