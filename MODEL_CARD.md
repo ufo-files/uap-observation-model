@@ -2,13 +2,13 @@
 
 ## Snapshot and method
 
-Version `v0.1.0-preview`, model ID `e87a4acea5d149790eab57742cd8c10b`. Prepared 2026-10-29T00:44:26.647532+00:00. 440 manually labeled native crops, 437 usable templates, 67 source videos. Labels: `{"anomalous": 440}`.
+Version `model-69b3c18e81444005927469b62b14e17d`, model ID `69b3c18e81444005927469b62b14e17d`. Prepared 2026-10-29T03:08:00.130298+00:00. 881 manually labeled native crops, 876 usable templates, 132 source videos. Labels: `{"anomalous": 881}`.
 
 The saved artifact is a bank of native grayscale appearance templates plus label metadata. OpenCV normalized cross-correlation searches scales 0.65, 0.8, 1.0, 1.25, and 1.6; overlap suppression uses 0.35 intersection-over-smaller-box area. Default matching threshold is 0.97. Uniform templates with standard deviation below 2 are skipped. At most eight candidate peaks per template and scale are considered. The runner preserves this station inference algorithm.
 
 ## Data and provenance
 
-This initial snapshot contains completed, non-omitted reviews of credited public PURSUE videos. The training application also accepts other video sources; these provenance details describe this fixed snapshot. Sources are listed in `sources.json`; crop time positions, labels, and normalized source bounds are in `annotations.json`. Native exemplars are copied without smoothing or enlargement. No full source videos, private camera recordings, RF logs, local network addresses, or credentials are included. Dataset fingerprint: `e87a4acea5d149790eab57742cd8c10bff25781e47fad3e689868ff9b93519dc`.
+Only completed, non-omitted reviews of credited credited source videos were eligible. Sources are listed in `sources.json`; crop time positions, labels, and normalized source bounds are in `annotations.json`. Native exemplars are copied without smoothing or enlargement. No full source videos, RF logs, local network addresses, or credentials are included. Only saved model snapshots are exported; full source videos and station logs are excluded. Dataset fingerprint: `bbd1a10d38c951fa256b44ba5aa57903f7cc82d97925cc82ce512029ead642c8`.
 
 ## Evaluation
 

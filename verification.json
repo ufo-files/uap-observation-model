@@ -1,10 +1,8 @@
 {
+  "source_model_id": "69b3c18e81444005927469b62b14e17d",
+  "software_tests": "Portable inference tests passed before upload",
   "python": "3.13.5",
   "opencv": "5.0.0",
   "numpy": "2.5.4",
-  "templates_verified": 440,
-  "usable_templates": 437,
-  "source_algorithm_parity": true,
-  "parity_fixture": "first released native template converted to BGR",
   "independent_accuracy_evaluation": null
 }

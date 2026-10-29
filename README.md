@@ -1,6 +1,6 @@
 # UAP Observation Model
 
-An experimental, reusable appearance model built from manually reviewed video targets. The project supports source videos beyond PURSUE; the initial preview uses public PURSUE footage as its seed dataset. This release includes **440 labeled crops from 67 source videos**, source credits, annotations, and a portable Python/OpenCV runner.
+An experimental, reusable appearance model built from manually labeled targets in credited source videos. This release includes **881 labeled crops from 132 source videos**, source credits, annotations, and a portable Python/OpenCV runner.
 
 ## Use it
 
@@ -32,25 +32,19 @@ Each detection has a label, correlation score, and `[x, y, width, height]` box i
 
 This is a template-based appearance model. No neural network weights or gradient-trained detector are claimed. The label `anomalous` records a human review choice. The model predicts a resemblance to those selections; it does not determine an object's identity or cause.
 
-## New training videos and review history
-
-The companion training app accepts arbitrary videos dropped into its `training-data` folder or uploaded through the browser. Completed and omitted reviews are durable and keyed by file-content SHA-256, so renaming or copying an identical file does not make it appear for review again. Different content reusing a filename is a new video. New reviewed examples are included when the next model is saved with Done.
-
-This repository publishes fixed release snapshots. The first snapshot is credited PURSUE footage; other documented sources can contribute to future snapshots. New private inputs are not automatically uploaded to GitHub.
-
 ## Release
 
-- Version: `v0.1.0-preview`
-- Model ID: `e87a4acea5d149790eab57742cd8c10b`
-- Snapshot: `2026-10-29T00:44:26.647532+00:00`
-- Label counts: `{"anomalous": 440}`
-- Usable templates after low-detail filtering: 437
+- Version: `model-69b3c18e81444005927469b62b14e17d`
+- Model ID: `69b3c18e81444005927469b62b14e17d`
+- Snapshot: `2026-10-29T03:08:00.130298+00:00`
+- Label counts: `{"anomalous": 881}`
+- Usable templates after low-detail filtering: 876
 - Independent held-out accuracy: not measured for this release
 
 More templates increase CPU inference time. Start with still images before long videos. Threshold scores are correlations, not calibrated probabilities. This preview does not establish transfer accuracy on other cameras or environments.
 
 ## Sources and license
 
-Original code, annotations, and compilation: **Apache License 2.0**, in [LICENSE](LICENSE). Source image crops retain their source-media status and terms; they are not relicensed as original imagery. [sources.json](sources.json) lists the official DVIDS page and source-video checksum for every contributing video. Included source pages were labeled PUBLIC DOMAIN at preparation time. See [NOTICE](NOTICE) and [DVIDS source terms](https://www.dvidshub.net/about/copyright).
+Original code, annotations, and compilation: **Apache License 2.0**, in [LICENSE](LICENSE). Source image crops retain their source-media status and terms; they are not relicensed as original imagery. [sources.json](sources.json) lists the official DVIDS page and source-video checksum for every contributing video. Source rights markings and attribution are recorded for each source; source media retain those separate terms. See [NOTICE](NOTICE) and [DVIDS source terms](https://www.dvidshub.net/about/copyright).
 
 The appearance of U.S. Department of War (DoW) visual information does not imply or constitute DoW endorsement.

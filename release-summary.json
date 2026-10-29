@@ -1,12 +1,12 @@
 {
-  "model_id": "e87a4acea5d149790eab57742cd8c10b",
-  "examples": 440,
-  "usable_templates": 437,
-  "source_videos": 67,
+  "model_id": "69b3c18e81444005927469b62b14e17d",
+  "examples": 881,
+  "usable_templates": 876,
+  "source_videos": 132,
   "classes": {
-    "anomalous": 440
+    "anomalous": 881
   },
   "skipped": {},
-  "dataset_sha256": "e87a4acea5d149790eab57742cd8c10bff25781e47fad3e689868ff9b93519dc",
-  "created_utc": "2026-10-29T00:44:26.647532+00:00"
+  "dataset_sha256": "bbd1a10d38c951fa256b44ba5aa57903f7cc82d97925cc82ce512029ead642c8",
+  "created_utc": "2026-10-29T03:08:00.130298+00:00"
 }
