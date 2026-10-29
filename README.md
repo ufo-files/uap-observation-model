@@ -1,6 +1,6 @@
-# PURSUE UAP Appearance Model
+# UAP Appearance Model
 
-An experimental, reusable appearance model built from manually labeled targets in public PURSUE videos. This release includes **440 labeled crops from 67 source videos**, source credits, annotations, and a portable Python/OpenCV runner.
+An experimental, reusable appearance model built from manually reviewed video targets. The project supports source videos beyond PURSUE; the initial preview uses public PURSUE footage as its seed dataset. This release includes **440 labeled crops from 67 source videos**, source credits, annotations, and a portable Python/OpenCV runner.
 
 ## Use it
 
@@ -31,6 +31,12 @@ Each detection has a label, correlation score, and `[x, y, width, height]` box i
 `model.json` selects labeled native PNG templates in `templates/`. Inference searches five scales using normalized correlation and suppresses overlapping matches. Known-class examples compete with target examples when present. See [MODEL_CARD.md](MODEL_CARD.md) for coverage and limitations.
 
 This is a template-based appearance model. No neural network weights or gradient-trained detector are claimed. The label `anomalous` records a human review choice. The model predicts a resemblance to those selections; it does not determine an object's identity or cause.
+
+## New training videos and review history
+
+The companion training app accepts arbitrary videos dropped into its `training-data` folder or uploaded through the browser. Completed and omitted reviews are durable and keyed by file-content SHA-256, so renaming or copying an identical file does not make it appear for review again. Different content reusing a filename is a new video. New reviewed examples are included when the next model is saved with Done.
+
+This repository publishes fixed release snapshots. The first snapshot is credited PURSUE footage; other documented sources can contribute to future snapshots. New private inputs are not automatically uploaded to GitHub.
 
 ## Release
 

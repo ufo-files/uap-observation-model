@@ -1,4 +1,4 @@
-# Model card: PURSUE UAP Appearance Model
+# Model card: UAP Appearance Model
 
 ## Snapshot and method
 
@@ -8,7 +8,7 @@ The saved artifact is a bank of native grayscale appearance templates plus label
 
 ## Data and provenance
 
-Only completed, non-omitted reviews of credited public PURSUE videos were eligible. Sources are listed in `sources.json`; crop time positions, labels, and normalized source bounds are in `annotations.json`. Native exemplars are copied without smoothing or enlargement. No full source videos, private camera recordings, RF logs, local network addresses, or credentials are included. Dataset fingerprint: `e87a4acea5d149790eab57742cd8c10bff25781e47fad3e689868ff9b93519dc`.
+This initial snapshot contains completed, non-omitted reviews of credited public PURSUE videos. The training application also accepts other video sources; these provenance details describe this fixed snapshot. Sources are listed in `sources.json`; crop time positions, labels, and normalized source bounds are in `annotations.json`. Native exemplars are copied without smoothing or enlargement. No full source videos, private camera recordings, RF logs, local network addresses, or credentials are included. Dataset fingerprint: `e87a4acea5d149790eab57742cd8c10bff25781e47fad3e689868ff9b93519dc`.
 
 ## Evaluation
 
