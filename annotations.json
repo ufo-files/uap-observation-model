@@ -918,6 +918,40 @@
     "usable_for_matching": true
   },
   {
+    "example": "templates/f90868067f16adb871e30c74f46dbc8106cf5ee1988ceb45608c7526c1d53566.png",
+    "label": "anomalous",
+    "source": "b71471f2cc5d21e4632770cf337c55051a4820d2f4f40ab581f2c192637d74c3",
+    "time_seconds": 31.96,
+    "bounds_normalized": {
+      "x": 0.367801064428074,
+      "y": 0.18651440888304038,
+      "w": 0.47112385514355887,
+      "h": 0.20196643594034897
+    },
+    "native_pixels": {
+      "width": 273,
+      "height": 208
+    },
+    "usable_for_matching": true
+  },
+  {
+    "example": "templates/3ca09d79fe86b49a04133d3d96a83cbb2b172521a8e7b7a423345520f44b6bfa.png",
+    "label": "anomalous",
+    "source": "b71471f2cc5d21e4632770cf337c55051a4820d2f4f40ab581f2c192637d74c3",
+    "time_seconds": 32.04,
+    "bounds_normalized": {
+      "x": 0.36490619218456927,
+      "y": 0.1749834173280522,
+      "w": 0.5137520154550019,
+      "h": 0.21505544456244888
+    },
+    "native_pixels": {
+      "width": 297,
+      "height": 221
+    },
+    "usable_for_matching": true
+  },
+  {
     "example": "templates/d57e9e2785b347fca9ec29a2392e0232ca49c1119358179698a5fb97cf20259d.png",
     "label": "cloud",
     "source": "7b065d0401d10ee2b786f85079b62e0b01b2b500806b0193d4a4d5b219353d4d",
