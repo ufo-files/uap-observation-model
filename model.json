@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "id": "0c4d4482fbe14409a8c24e46139da5a8",
-  "release": "model-0c4d4482fbe14409a8c24e46139da5a8",
+  "id": "7c1cbcb3763b45adb9c406491be0c5f8",
+  "release": "model-7c1cbcb3763b45adb9c406491be0c5f8",
   "kind": "multiscale normalized appearance matching",
   "classes": [
     "airplane",
@@ -149,6 +149,76 @@
       "image": "templates/59547eb8a39d850255a04a910e223bd57d14713df294d18bbfd9d5e950d1f9bd.png",
       "label": "cloud",
       "sha256": "59547eb8a39d850255a04a910e223bd57d14713df294d18bbfd9d5e950d1f9bd"
+    },
+    {
+      "image": "templates/c207a1c9f57020e02f27d422ee7a48d1db956ee06dfb911a97b4a196c30cdc79.png",
+      "label": "anomalous",
+      "sha256": "c207a1c9f57020e02f27d422ee7a48d1db956ee06dfb911a97b4a196c30cdc79"
+    },
+    {
+      "image": "templates/466fccd11042aa2d7e3a27fdc4c54d242262e74fcb8cad8d690de135eadb02c7.png",
+      "label": "anomalous",
+      "sha256": "466fccd11042aa2d7e3a27fdc4c54d242262e74fcb8cad8d690de135eadb02c7"
+    },
+    {
+      "image": "templates/0181743e807b7b794b476c28d04a4081e8bdab91cf8b50b40518f9aa82175f6b.png",
+      "label": "anomalous",
+      "sha256": "0181743e807b7b794b476c28d04a4081e8bdab91cf8b50b40518f9aa82175f6b"
+    },
+    {
+      "image": "templates/d02dc965891a65be91a6c799bbd80580ca6cdee0a7c40dea01edab174f11beb2.png",
+      "label": "anomalous",
+      "sha256": "d02dc965891a65be91a6c799bbd80580ca6cdee0a7c40dea01edab174f11beb2"
+    },
+    {
+      "image": "templates/ab77f61e5e6af8e258ded3a471d92c74b58bb645ad2f324efdcd8e3dbfe0ccef.png",
+      "label": "anomalous",
+      "sha256": "ab77f61e5e6af8e258ded3a471d92c74b58bb645ad2f324efdcd8e3dbfe0ccef"
+    },
+    {
+      "image": "templates/5c57e99bd50aee8d6dae689cb17a218dc8742b2ffcb2daba79bc7a3f549c6d1f.png",
+      "label": "anomalous",
+      "sha256": "5c57e99bd50aee8d6dae689cb17a218dc8742b2ffcb2daba79bc7a3f549c6d1f"
+    },
+    {
+      "image": "templates/ecd74de6119a266c06a80c1283cbc5c07ff0ff83039945027a3afc5bf368c6be.png",
+      "label": "anomalous",
+      "sha256": "ecd74de6119a266c06a80c1283cbc5c07ff0ff83039945027a3afc5bf368c6be"
+    },
+    {
+      "image": "templates/4a71f2ceb19cf4109d6f8fd84235ad5fba0c8c9630369c9b488d7cb9670563fb.png",
+      "label": "anomalous",
+      "sha256": "4a71f2ceb19cf4109d6f8fd84235ad5fba0c8c9630369c9b488d7cb9670563fb"
+    },
+    {
+      "image": "templates/c4bc17f604e4e9ab796c74e5c8b78890c263eadf64f5d04324555d2b0e712dcb.png",
+      "label": "anomalous",
+      "sha256": "c4bc17f604e4e9ab796c74e5c8b78890c263eadf64f5d04324555d2b0e712dcb"
+    },
+    {
+      "image": "templates/995d01329d4aee07b9a2f9cb3a354d41dc7224fab452e9b53159f1213ca2274e.png",
+      "label": "anomalous",
+      "sha256": "995d01329d4aee07b9a2f9cb3a354d41dc7224fab452e9b53159f1213ca2274e"
+    },
+    {
+      "image": "templates/678c158fcb3e353b0edf58e9d71004ee896205261c485e9ea4a3996a7dc59a12.png",
+      "label": "anomalous",
+      "sha256": "678c158fcb3e353b0edf58e9d71004ee896205261c485e9ea4a3996a7dc59a12"
+    },
+    {
+      "image": "templates/b06d25bfad8ce24514e9cd0bff9162246d2bfc831eed6d5084cb19aa2a193a67.png",
+      "label": "anomalous",
+      "sha256": "b06d25bfad8ce24514e9cd0bff9162246d2bfc831eed6d5084cb19aa2a193a67"
+    },
+    {
+      "image": "templates/2d79bd87f6ba6be3e49e5470209a072e5b6591ebd41c031a25fbbd3959afdeaa.png",
+      "label": "anomalous",
+      "sha256": "2d79bd87f6ba6be3e49e5470209a072e5b6591ebd41c031a25fbbd3959afdeaa"
+    },
+    {
+      "image": "templates/27ff77c203d2f5d58a95659697334ce1e9956df3130aa466810479419aba805b.png",
+      "label": "anomalous",
+      "sha256": "27ff77c203d2f5d58a95659697334ce1e9956df3130aa466810479419aba805b"
     },
     {
       "image": "templates/06ea7925096e3be77f178f1438d02b09e5a6bd0c845c16f4d349c1347d8adaf3.png",
@@ -1696,7 +1766,7 @@
       "sha256": "02c06b359f3248c8e7737c9cf0f1a86ebf49002999e1c0746c6fef803bde08ad"
     }
   ],
-  "dataset_sha256": "19db8b21dfa00e0e64293945b4c2df909e3a7b4e33882ddebf2e900c7c8352e0",
+  "dataset_sha256": "19ce460457b047446fd99d0d74db8455db821c9a7f5b3ba699a873dfaa21e3f6",
   "license": "Apache-2.0 for original code, annotations, and compilation; source media terms are separate",
   "parameters": {
     "scales": [
@@ -1712,5 +1782,5 @@
     "native_detail_gaussian_sigma": 1.2,
     "inference_revision": 2
   },
-  "created_utc": "2026-10-30T18:56:31.305712+00:00"
+  "created_utc": "2026-10-30T18:59:06.257443+00:00"
 }
