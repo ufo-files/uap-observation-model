@@ -1,15 +1,15 @@
 {
-  "model_id": "02ea013801bd4ae686359ad44292c277",
-  "examples": 279,
-  "usable_templates": 278,
-  "source_videos": 14,
+  "model_id": "996f38d77b5346809d594445e9cccf53",
+  "examples": 302,
+  "usable_templates": 301,
+  "source_videos": 16,
   "classes": {
-    "cloud": 217,
-    "anomalous": 34,
-    "bird": 27,
+    "cloud": 230,
+    "anomalous": 35,
+    "bird": 36,
     "airplane": 1
   },
   "skipped": {},
-  "dataset_sha256": "d9b115671aaf2bfaf2ac7dbbf9c1b7d5141c41dc716cfb5adff205aeeca3963d",
-  "created_utc": "2026-10-30T17:55:24.606292+00:00"
+  "dataset_sha256": "d231e3dbfcf62ae806cad56c21e969caefb4a3eab17fa65b9db9ee62ca93f348",
+  "created_utc": "2026-10-30T18:04:49.835009+00:00"
 }

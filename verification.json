@@ -1,5 +1,5 @@
 {
-  "source_model_id": "02ea013801bd4ae686359ad44292c277",
+  "source_model_id": "996f38d77b5346809d594445e9cccf53",
   "software_tests": "Portable inference tests passed before upload",
   "python": "3.13.15",
   "opencv": "5.0.0",

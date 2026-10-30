@@ -1020,6 +1020,363 @@
     "usable_for_matching": true
   },
   {
+    "example": "templates/ae349261c41ea867c2df49a0202d0c53246a0fdb23fdbc2bd1adfbeaf30e7701.png",
+    "label": "bird",
+    "source": "906a2d6153a80be47233911b9775747a275e63943f060eca509b48dc0abb58c7",
+    "time_seconds": 10.06,
+    "bounds_normalized": {
+      "x": 0.8957326061320755,
+      "y": 0.4781970649895178,
+      "w": 0.029064711084905603,
+      "h": 0.044261006289308236
+    },
+    "native_pixels": {
+      "width": 57,
+      "height": 49
+    },
+    "usable_for_matching": true
+  },
+  {
+    "example": "templates/0f6081319b7b507d628d0751a4a2237519a4b360741f6795d9b06419d6aa7fdd.png",
+    "label": "bird",
+    "source": "906a2d6153a80be47233911b9775747a275e63943f060eca509b48dc0abb58c7",
+    "time_seconds": 10.179,
+    "bounds_normalized": {
+      "x": 0.7624373525943396,
+      "y": 0.4886006289308176,
+      "w": 0.04470813679245278,
+      "h": 0.04747117400419282
+    },
+    "native_pixels": {
+      "width": 87,
+      "height": 52
+    },
+    "usable_for_matching": true
+  },
+  {
+    "example": "templates/711b716314248ede14645e3ed0fbe94f224135c9c4753f92c519c5beee7437f1.png",
+    "label": "bird",
+    "source": "906a2d6153a80be47233911b9775747a275e63943f060eca509b48dc0abb58c7",
+    "time_seconds": 10.413,
+    "bounds_normalized": {
+      "x": 0.4597987912735849,
+      "y": 0.3960036687631027,
+      "w": 0.04095297759433958,
+      "h": 0.043520702306079684
+    },
+    "native_pixels": {
+      "width": 80,
+      "height": 48
+    },
+    "usable_for_matching": true
+  },
+  {
+    "example": "templates/012f5d3ffbf1b8f257a65702528b6879ee1894518c33cd978e5ce95e20acf2d5.png",
+    "label": "bird",
+    "source": "906a2d6153a80be47233911b9775747a275e63943f060eca509b48dc0abb58c7",
+    "time_seconds": 10.697,
+    "bounds_normalized": {
+      "x": 0.0646705483490566,
+      "y": 0.28776860587002095,
+      "w": 0.04433225235849057,
+      "h": 0.04627882599580713
+    },
+    "native_pixels": {
+      "width": 86,
+      "height": 51
+    },
+    "usable_for_matching": true
+  },
+  {
+    "example": "templates/913ae090e46adba58920df944dc3fd69948d4b3f231881905cdffb63d6b13cc6.png",
+    "label": "bird",
+    "source": "906a2d6153a80be47233911b9775747a275e63943f060eca509b48dc0abb58c7",
+    "time_seconds": 10.264,
+    "bounds_normalized": {
+      "x": 0.6561247051886793,
+      "y": 0.4763692348008386,
+      "w": 0.04742777122641506,
+      "h": 0.06289308176100628
+    },
+    "native_pixels": {
+      "width": 92,
+      "height": 69
+    },
+    "usable_for_matching": true
+  },
+  {
+    "example": "templates/5bdc59412a0f8d28a5aa172696584f9896d6a1b98276ee4a9b8540de1c913e3e.png",
+    "label": "bird",
+    "source": "906a2d6153a80be47233911b9775747a275e63943f060eca509b48dc0abb58c7",
+    "time_seconds": 10.264,
+    "bounds_normalized": {
+      "x": 0.6305461379716981,
+      "y": 0.4575733752620545,
+      "w": 0.04293558372641504,
+      "h": 0.06502227463312366
+    },
+    "native_pixels": {
+      "width": 84,
+      "height": 71
+    },
+    "usable_for_matching": true
+  },
+  {
+    "example": "templates/c3515a08e225d845235946d8d7952b34b9a8f2ea78496d7d8a8b0fce4e7c0da9.png",
+    "label": "bird",
+    "source": "906a2d6153a80be47233911b9775747a275e63943f060eca509b48dc0abb58c7",
+    "time_seconds": 10.277,
+    "bounds_normalized": {
+      "x": 0.6114423643867924,
+      "y": 0.45587657232704404,
+      "w": 0.038251768867924585,
+      "h": 0.06366614255765202
+    },
+    "native_pixels": {
+      "width": 75,
+      "height": 70
+    },
+    "usable_for_matching": true
+  },
+  {
+    "example": "templates/bb41e87093fc2f86931ed38e55c757ef23e1908e3cc276828693b549e96ccb12.png",
+    "label": "cloud",
+    "source": "906a2d6153a80be47233911b9775747a275e63943f060eca509b48dc0abb58c7",
+    "time_seconds": 10.277,
+    "bounds_normalized": {
+      "x": 0.08014077240566038,
+      "y": 0.45148715932914046,
+      "w": 0.05864534198113207,
+      "h": 0.0930424528301887
+    },
+    "native_pixels": {
+      "width": 114,
+      "height": 102
+    },
+    "usable_for_matching": true
+  },
+  {
+    "example": "templates/e4d446cd5d65a4b914d01867fee3ce6eff21a45eb5fd3e057de01a719bf53ebf.png",
+    "label": "cloud",
+    "source": "906a2d6153a80be47233911b9775747a275e63943f060eca509b48dc0abb58c7",
+    "time_seconds": 10.277,
+    "bounds_normalized": {
+      "x": 0.17917158018867924,
+      "y": 0.4588246855345912,
+      "w": 0.05081073113207549,
+      "h": 0.07847222222222217
+    },
+    "native_pixels": {
+      "width": 98,
+      "height": 86
+    },
+    "usable_for_matching": true
+  },
+  {
+    "example": "templates/307f234d122f80de5e896b61e2bb6b96c74ac62823ebe4767b6c5779164a92f7.png",
+    "label": "cloud",
+    "source": "906a2d6153a80be47233911b9775747a275e63943f060eca509b48dc0abb58c7",
+    "time_seconds": 10.277,
+    "bounds_normalized": {
+      "x": 0.7894752358490567,
+      "y": 0.5691365303983229,
+      "w": 0.07884728773584904,
+      "h": 0.08778170859538781
+    },
+    "native_pixels": {
+      "width": 153,
+      "height": 96
+    },
+    "usable_for_matching": true
+  },
+  {
+    "example": "templates/68eaaa7fb06914fb5e4e708e9bcf8a29f75d65fe248effd7be79120d5d880ce3.png",
+    "label": "cloud",
+    "source": "906a2d6153a80be47233911b9775747a275e63943f060eca509b48dc0abb58c7",
+    "time_seconds": 10.277,
+    "bounds_normalized": {
+      "x": 0.6235701650943396,
+      "y": 0.3567544549266247,
+      "w": 0.05176518278301889,
+      "h": 0.059977725366876344
+    },
+    "native_pixels": {
+      "width": 100,
+      "height": 66
+    },
+    "usable_for_matching": true
+  },
+  {
+    "example": "templates/9caccb54f057366fe94609f632b036148e1c7b0baa1fdb35e06d0c46d06c6496.png",
+    "label": "cloud",
+    "source": "906a2d6153a80be47233911b9775747a275e63943f060eca509b48dc0abb58c7",
+    "time_seconds": 10.277,
+    "bounds_normalized": {
+      "x": 0.8452314268867924,
+      "y": 0.3968225890985325,
+      "w": 0.05509286556603776,
+      "h": 0.060410115303983214
+    },
+    "native_pixels": {
+      "width": 107,
+      "height": 66
+    },
+    "usable_for_matching": true
+  },
+  {
+    "example": "templates/6f2253971ad3f414111532e7f702654357176417a6d9c3eb9998a4885a0efe86.png",
+    "label": "cloud",
+    "source": "906a2d6153a80be47233911b9775747a275e63943f060eca509b48dc0abb58c7",
+    "time_seconds": 10.277,
+    "bounds_normalized": {
+      "x": 0.4384949882075472,
+      "y": 0.7630634171907756,
+      "w": 0.07828714622641508,
+      "h": 0.09260351153039836
+    },
+    "native_pixels": {
+      "width": 152,
+      "height": 101
+    },
+    "usable_for_matching": true
+  },
+  {
+    "example": "templates/47e3e84b6bd17df78e952cd049066cb0ab58cc2dc210699f58fc46cd701e2d6b.png",
+    "label": "cloud",
+    "source": "906a2d6153a80be47233911b9775747a275e63943f060eca509b48dc0abb58c7",
+    "time_seconds": 10.277,
+    "bounds_normalized": {
+      "x": 0.6830299233490567,
+      "y": 0.9469536163522012,
+      "w": 0.0430387676886792,
+      "h": 0.042937631027253675
+    },
+    "native_pixels": {
+      "width": 84,
+      "height": 48
+    },
+    "usable_for_matching": true
+  },
+  {
+    "example": "templates/4c7ca3e3141ea2099fa0b867b8a8bb9849756c6ebe8d772da636580fefe30008.png",
+    "label": "anomalous",
+    "source": "9b0c750a607a0159be7df7c027f610c9d41fb07b3a44df6531389943cd4f2c22",
+    "time_seconds": 0.0,
+    "bounds_normalized": {
+      "x": 0.320338295990566,
+      "y": 0.4774895178197065,
+      "w": 0.11656102594339623,
+      "h": 0.1272602201257862
+    },
+    "native_pixels": {
+      "width": 224,
+      "height": 139
+    },
+    "usable_for_matching": true
+  },
+  {
+    "example": "templates/e969e4b2f2e6c11ff9863e850566e8db28c4e33c07f7b3dfe5906f985b99e059.png",
+    "label": "cloud",
+    "source": "9b0c750a607a0159be7df7c027f610c9d41fb07b3a44df6531389943cd4f2c22",
+    "time_seconds": 0.0,
+    "bounds_normalized": {
+      "x": 0.5327977594339622,
+      "y": 0.20998427672955974,
+      "w": 0.08291568396226423,
+      "h": 0.14866352201257862
+    },
+    "native_pixels": {
+      "width": 161,
+      "height": 162
+    },
+    "usable_for_matching": true
+  },
+  {
+    "example": "templates/06922f77452013b32823307504724191f47934bb3076a6502a74241213080c92.png",
+    "label": "cloud",
+    "source": "9b0c750a607a0159be7df7c027f610c9d41fb07b3a44df6531389943cd4f2c22",
+    "time_seconds": 0.0,
+    "bounds_normalized": {
+      "x": 0.7851857311320755,
+      "y": 0.238083071278826,
+      "w": 0.06722803655660381,
+      "h": 0.14811975890985324
+    },
+    "native_pixels": {
+      "width": 130,
+      "height": 161
+    },
+    "usable_for_matching": true
+  },
+  {
+    "example": "templates/b02a4342b4f8dda336c91b2326c4044e637f1c8cf82124e79a438865d9a744f9.png",
+    "label": "cloud",
+    "source": "9b0c750a607a0159be7df7c027f610c9d41fb07b3a44df6531389943cd4f2c22",
+    "time_seconds": 0.0,
+    "bounds_normalized": {
+      "x": 0.06268057193396226,
+      "y": 0.14348139412997904,
+      "w": 0.21940227004716983,
+      "h": 0.33161032494758913
+    },
+    "native_pixels": {
+      "width": 422,
+      "height": 360
+    },
+    "usable_for_matching": true
+  },
+  {
+    "example": "templates/381e1f183ba2cb61c215e52e67b5ac2f6facd4a823123d1f83f219d3643c1222.png",
+    "label": "cloud",
+    "source": "9b0c750a607a0159be7df7c027f610c9d41fb07b3a44df6531389943cd4f2c22",
+    "time_seconds": 0.0,
+    "bounds_normalized": {
+      "x": 0.5415905070754717,
+      "y": 0.544542714884696,
+      "w": 0.02997494103773579,
+      "h": 0.039485062893081846
+    },
+    "native_pixels": {
+      "width": 59,
+      "height": 43
+    },
+    "usable_for_matching": true
+  },
+  {
+    "example": "templates/c5ac42b396e6878e3087718a56964b300a5f345c63808bd3ad78e2b6b9a896f7.png",
+    "label": "cloud",
+    "source": "9b0c750a607a0159be7df7c027f610c9d41fb07b3a44df6531389943cd4f2c22",
+    "time_seconds": 0.0,
+    "bounds_normalized": {
+      "x": 0.8301039209905661,
+      "y": 0.6828812893081762,
+      "w": 0.0129974941037736,
+      "h": 0.022897012578616316
+    },
+    "native_pixels": {
+      "width": 26,
+      "height": 26
+    },
+    "usable_for_matching": true
+  },
+  {
+    "example": "templates/653129929c57c398794cb1199c267b1a0230fac9d8be9461e270c029d2a85d83.png",
+    "label": "cloud",
+    "source": "9b0c750a607a0159be7df7c027f610c9d41fb07b3a44df6531389943cd4f2c22",
+    "time_seconds": 0.0,
+    "bounds_normalized": {
+      "x": 0.6851046580188679,
+      "y": 0.416522536687631,
+      "w": 0.04178581957547178,
+      "h": 0.05978773584905661
+    },
+    "native_pixels": {
+      "width": 81,
+      "height": 66
+    },
+    "usable_for_matching": true
+  },
+  {
     "example": "templates/95ef990b502755e2c31a745bae3ace26fda7bfeaf74bb59a4684ab4d519d2c53.png",
     "label": "cloud",
     "source": "a6bd46b0721618cbb76b80f3719b1706998778cd65f9ca36b2077cd0e13ba7a1",
@@ -3206,6 +3563,18 @@
     "usable_for_matching": true
   },
   {
+    "example": "templates/0f32b522ea698202fded543118b7a36c3a9dd18b9ae193c23cc4598b3ed8ed29.png",
+    "label": "bird",
+    "source": "unspecified",
+    "time_seconds": null,
+    "bounds_normalized": null,
+    "native_pixels": {
+      "width": 64,
+      "height": 64
+    },
+    "usable_for_matching": true
+  },
+  {
     "example": "templates/0ed5577194957bb439234ddd6a50b2ab4c31b7cba380c568017852250d1c1842.png",
     "label": "cloud",
     "source": "unspecified",
@@ -3586,6 +3955,18 @@
     "native_pixels": {
       "width": 155,
       "height": 109
+    },
+    "usable_for_matching": true
+  },
+  {
+    "example": "templates/0ea0acdd6933032e5efe6a7b37305bd0d012307e2ef9a18c6bf0187d483782d5.png",
+    "label": "bird",
+    "source": "unspecified",
+    "time_seconds": null,
+    "bounds_normalized": null,
+    "native_pixels": {
+      "width": 129,
+      "height": 96
     },
     "usable_for_matching": true
   },
