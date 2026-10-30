@@ -34,9 +34,9 @@ This is a template-based appearance model. No neural network weights or gradient
 
 ## Release
 
-- Version: `model-1121dcf5fd034193b7790f8c91a9169d`
-- Model ID: `1121dcf5fd034193b7790f8c91a9169d`
-- Snapshot: `2026-10-29T19:53:40.031057+00:00`
+- Version: `model-16b1376eb75f46c684261f5039899e25`
+- Model ID: `16b1376eb75f46c684261f5039899e25`
+- Snapshot: `2026-10-30T01:20:47.457132+00:00`
 - Label counts: `{"airplane": 8, "anomalous": 979, "bird": 59, "insect": 178}`
 - Usable templates after low-detail filtering: 1218
 - Independent held-out accuracy: not measured for this release

@@ -1,5 +1,5 @@
 {
-  "model_id": "1121dcf5fd034193b7790f8c91a9169d",
+  "model_id": "16b1376eb75f46c684261f5039899e25",
   "examples": 1224,
   "usable_templates": 1218,
   "source_videos": 190,
@@ -11,5 +11,5 @@
   },
   "skipped": {},
   "dataset_sha256": "a71477e1d3100e197173699da4713373e4783fbfbefc2366177221781beff536",
-  "created_utc": "2026-10-29T19:53:40.031057+00:00"
+  "created_utc": "2026-10-30T01:20:47.457132+00:00"
 }

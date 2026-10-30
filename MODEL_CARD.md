@@ -2,7 +2,7 @@
 
 ## Snapshot and method
 
-Version `model-1121dcf5fd034193b7790f8c91a9169d`, model ID `1121dcf5fd034193b7790f8c91a9169d`. Prepared 2026-10-29T19:53:40.031057+00:00. 1224 manually labeled native crops, 1218 usable templates, 190 source videos. Labels: `{"airplane": 8, "anomalous": 979, "bird": 59, "insect": 178}`.
+Version `model-16b1376eb75f46c684261f5039899e25`, model ID `16b1376eb75f46c684261f5039899e25`. Prepared 2026-10-30T01:20:47.457132+00:00. 1224 manually labeled native crops, 1218 usable templates, 190 source videos. Labels: `{"airplane": 8, "anomalous": 979, "bird": 59, "insect": 178}`.
 
 The saved artifact is a bank of native grayscale appearance templates plus label metadata. OpenCV normalized cross-correlation searches scales 0.65, 0.8, 1.0, 1.25, and 1.6; overlap suppression uses 0.35 intersection-over-smaller-box area. Default matching threshold is 0.97. Uniform templates with standard deviation below 2 are skipped. Native positive matches also require agreement of background-subtracted fine structure: Gaussian sigma 1.2, correlation at least 0.55. This rejects smooth cloud gradients that can have a high raw correlation. Cloud examples may still compete as background negatives. At most eight candidate peaks per template and scale are considered. The runner preserves this station inference algorithm.
 
