@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "id": "996f38d77b5346809d594445e9cccf53",
-  "release": "model-996f38d77b5346809d594445e9cccf53",
+  "id": "f6a45756c1b54f3a9ef4cc2e055add85",
+  "release": "model-f6a45756c1b54f3a9ef4cc2e055add85",
   "kind": "multiscale normalized appearance matching",
   "classes": [
     "airplane",
@@ -149,6 +149,36 @@
       "image": "templates/59547eb8a39d850255a04a910e223bd57d14713df294d18bbfd9d5e950d1f9bd.png",
       "label": "cloud",
       "sha256": "59547eb8a39d850255a04a910e223bd57d14713df294d18bbfd9d5e950d1f9bd"
+    },
+    {
+      "image": "templates/06ea7925096e3be77f178f1438d02b09e5a6bd0c845c16f4d349c1347d8adaf3.png",
+      "label": "anomalous",
+      "sha256": "06ea7925096e3be77f178f1438d02b09e5a6bd0c845c16f4d349c1347d8adaf3"
+    },
+    {
+      "image": "templates/7c426aacb0a34ee3dabef5e8343a799848995bbe9b6ccf6ca0cc5b2baaefeb6c.png",
+      "label": "anomalous",
+      "sha256": "7c426aacb0a34ee3dabef5e8343a799848995bbe9b6ccf6ca0cc5b2baaefeb6c"
+    },
+    {
+      "image": "templates/61c43c7e2a455b80be17ee5e3b590b5369c7f5f757391a35c187875959bf5d59.png",
+      "label": "anomalous",
+      "sha256": "61c43c7e2a455b80be17ee5e3b590b5369c7f5f757391a35c187875959bf5d59"
+    },
+    {
+      "image": "templates/b6018f5b3d5836d4e570092a077771f3338fd1cfd99a4e81d3909ac04f79802e.png",
+      "label": "anomalous",
+      "sha256": "b6018f5b3d5836d4e570092a077771f3338fd1cfd99a4e81d3909ac04f79802e"
+    },
+    {
+      "image": "templates/258071292e35951265c20edb956c35c191234905f853ced4fb49c4fcc594e912.png",
+      "label": "anomalous",
+      "sha256": "258071292e35951265c20edb956c35c191234905f853ced4fb49c4fcc594e912"
+    },
+    {
+      "image": "templates/f91895e23dd66d8279a892441e84919c12d1c29c3759b4d8bacd92a7137d6454.png",
+      "label": "anomalous",
+      "sha256": "f91895e23dd66d8279a892441e84919c12d1c29c3759b4d8bacd92a7137d6454"
     },
     {
       "image": "templates/beee58319d313b5854ee3353cdd368f6747c805c80750e178493b2b3d9cfdcff.png",
@@ -736,6 +766,11 @@
       "sha256": "7f1d372359c4caa44646036796380d9fc1e99a932838194dff7a475bb6d4f30e"
     },
     {
+      "image": "templates/a389570c4783c8dae4ed2a0a86e8a5db6d98d99fe39e055806bad676d75ea998.png",
+      "label": "bird",
+      "sha256": "a389570c4783c8dae4ed2a0a86e8a5db6d98d99fe39e055806bad676d75ea998"
+    },
+    {
       "image": "templates/4e4fe535aba24820570fec352b4d06a5b068cd1a496f482678e2da3e0a6ba55b.png",
       "label": "bird",
       "sha256": "4e4fe535aba24820570fec352b4d06a5b068cd1a496f482678e2da3e0a6ba55b"
@@ -846,6 +881,11 @@
       "sha256": "758b09912ba056fb42958c733c4ee9374813907c5d80026760898c8ab6d7351e"
     },
     {
+      "image": "templates/45c09ddc41db59997c3461356972a984c851252a7002e5bf30a214cfe2b705c8.png",
+      "label": "bird",
+      "sha256": "45c09ddc41db59997c3461356972a984c851252a7002e5bf30a214cfe2b705c8"
+    },
+    {
       "image": "templates/a299a81a69f053cc1b0c81e473ec6404888c203e0e16f034af28d24258373c8f.png",
       "label": "cloud",
       "sha256": "a299a81a69f053cc1b0c81e473ec6404888c203e0e16f034af28d24258373c8f"
@@ -884,6 +924,16 @@
       "image": "templates/66e3d08e2aeff6a239789347e42b9346b2af0cc8c2dcbd5bb6f7549f1f0c3130.png",
       "label": "cloud",
       "sha256": "66e3d08e2aeff6a239789347e42b9346b2af0cc8c2dcbd5bb6f7549f1f0c3130"
+    },
+    {
+      "image": "templates/3c668e57c0ee4a76623ff6358f2a1ae9e12af3d29921c427e59b1d6fcd811a9c.png",
+      "label": "bird",
+      "sha256": "3c668e57c0ee4a76623ff6358f2a1ae9e12af3d29921c427e59b1d6fcd811a9c"
+    },
+    {
+      "image": "templates/64ab6ac485043f59e36726510c0cc7dd77305783ca3e7982bc66ad565975e44d.png",
+      "label": "bird",
+      "sha256": "64ab6ac485043f59e36726510c0cc7dd77305783ca3e7982bc66ad565975e44d"
     },
     {
       "image": "templates/b26915dff81a6aafcf1dabaf9fd2072d41daa557e0d6a8ba8be82816b55a6f98.png",
@@ -951,6 +1001,11 @@
       "sha256": "6c5f6181f6d2e68fafde08146d39a6a1cc16a3fc97976ffc8e257b715212ada6"
     },
     {
+      "image": "templates/bb0e8a4506fb118abac33385d838044cb083656a42ad006746b837fab816f724.png",
+      "label": "bird",
+      "sha256": "bb0e8a4506fb118abac33385d838044cb083656a42ad006746b837fab816f724"
+    },
+    {
       "image": "templates/5cb3c139186767443a02b96aabd9a8d018210b6951cb2b957840e7322799b922.png",
       "label": "cloud",
       "sha256": "5cb3c139186767443a02b96aabd9a8d018210b6951cb2b957840e7322799b922"
@@ -1011,6 +1066,11 @@
       "sha256": "0ab00cbc833ee08bbc2d7f2fa66115763c35af9fbe5622120d70a33b7d22bb21"
     },
     {
+      "image": "templates/35fddbea15a768fa3e2587ed2003fa68a95add6799fadaa3e1c8d9e7ca8d9c50.png",
+      "label": "bird",
+      "sha256": "35fddbea15a768fa3e2587ed2003fa68a95add6799fadaa3e1c8d9e7ca8d9c50"
+    },
+    {
       "image": "templates/c3f501fb49fe99f778a03e1b42c740f259dbc6b35f05aad0f2ac7afae3601826.png",
       "label": "cloud",
       "sha256": "c3f501fb49fe99f778a03e1b42c740f259dbc6b35f05aad0f2ac7afae3601826"
@@ -1064,6 +1124,11 @@
       "image": "templates/d1b7db1e8c75ca119e5b2cfdf3ee555d45d5a54ca58f2613877c063d24cce0c1.png",
       "label": "bird",
       "sha256": "d1b7db1e8c75ca119e5b2cfdf3ee555d45d5a54ca58f2613877c063d24cce0c1"
+    },
+    {
+      "image": "templates/54839e47a4f67b553edc6d7ef22ef6366973cb8a2c7671904255b232fda1cc84.png",
+      "label": "cloud",
+      "sha256": "54839e47a4f67b553edc6d7ef22ef6366973cb8a2c7671904255b232fda1cc84"
     },
     {
       "image": "templates/c16422800913e82678176aaa50efe5e3b80f19321af200c72a463b70d257cb68.png",
@@ -1121,6 +1186,11 @@
       "sha256": "85002ec62bca5a7c0346249313cce68101a8447e0fb05909880afaff853a9a80"
     },
     {
+      "image": "templates/4c45b2fa23a2ad00f5852aedda1e109b8c8d8633511e600f5f233566902c2ce5.png",
+      "label": "bird",
+      "sha256": "4c45b2fa23a2ad00f5852aedda1e109b8c8d8633511e600f5f233566902c2ce5"
+    },
+    {
       "image": "templates/f1b2dceee2b840773aef1f978e1b9cf6e71b274b2145e481aa7cf4ee8cf6dbd2.png",
       "label": "cloud",
       "sha256": "f1b2dceee2b840773aef1f978e1b9cf6e71b274b2145e481aa7cf4ee8cf6dbd2"
@@ -1154,6 +1224,11 @@
       "image": "templates/583a3b3d4dd8bb3bd316b185925ac171973f0beecd8a882b932980afe9551219.png",
       "label": "cloud",
       "sha256": "583a3b3d4dd8bb3bd316b185925ac171973f0beecd8a882b932980afe9551219"
+    },
+    {
+      "image": "templates/f73e89c4035c513dc65c77baa51dbaf3a203c4aa7c77a3e82f8f9be80a08830b.png",
+      "label": "bird",
+      "sha256": "f73e89c4035c513dc65c77baa51dbaf3a203c4aa7c77a3e82f8f9be80a08830b"
     },
     {
       "image": "templates/6351f6451b30d4cb6b8c0e438b7579e9c474df3cd16a12824e4ceaad0345c7d6.png",
@@ -1201,6 +1276,16 @@
       "sha256": "8886871289f05c93249c0a048d8b289efb39754d91ac4e1424cceef132cff086"
     },
     {
+      "image": "templates/0dd43eab3394e601022cc55d6e93d79c601f4fb26628e226c8b4f99553eaf7d8.png",
+      "label": "cloud",
+      "sha256": "0dd43eab3394e601022cc55d6e93d79c601f4fb26628e226c8b4f99553eaf7d8"
+    },
+    {
+      "image": "templates/c82482e712863339b48f10def001b58282327b949ce510a90acfcac61bd98a6d.png",
+      "label": "cloud",
+      "sha256": "c82482e712863339b48f10def001b58282327b949ce510a90acfcac61bd98a6d"
+    },
+    {
       "image": "templates/58091d620c6eb285d00f2d80630316691146af387e0484a839b00ede98cd25b8.png",
       "label": "cloud",
       "sha256": "58091d620c6eb285d00f2d80630316691146af387e0484a839b00ede98cd25b8"
@@ -1219,6 +1304,11 @@
       "image": "templates/8c8222713c4c7b00313e43b5870ae4775db91242d21f2ea0456de13eea8fb466.png",
       "label": "cloud",
       "sha256": "8c8222713c4c7b00313e43b5870ae4775db91242d21f2ea0456de13eea8fb466"
+    },
+    {
+      "image": "templates/d098b9d89edf283828838a3da25135880a2cfd3052e0b527ed94d4dc1feca681.png",
+      "label": "cloud",
+      "sha256": "d098b9d89edf283828838a3da25135880a2cfd3052e0b527ed94d4dc1feca681"
     },
     {
       "image": "templates/95152576cc62fa8270a6c304e30d62e0a89ef25ffc316676c345e9b74e7a3b85.png",
@@ -1244,6 +1334,11 @@
       "image": "templates/d1c131f750232cc609e215bb1781cdf7feb3767488069b302a48f141c24610bb.png",
       "label": "cloud",
       "sha256": "d1c131f750232cc609e215bb1781cdf7feb3767488069b302a48f141c24610bb"
+    },
+    {
+      "image": "templates/d868d665b5308bedc694dfdcefe0d88713a3b31baa53940ede39d6c4bb41fa80.png",
+      "label": "bird",
+      "sha256": "d868d665b5308bedc694dfdcefe0d88713a3b31baa53940ede39d6c4bb41fa80"
     },
     {
       "image": "templates/94a2ba21e3e9f95657c0b5dc3b72a0cf2cf56d43cab11074b3aa896495f1902b.png",
@@ -1279,6 +1374,11 @@
       "image": "templates/30ee9ca0ad427d7e20837028762f21d3927bf7383c05c6718baf14250ba05fd3.png",
       "label": "cloud",
       "sha256": "30ee9ca0ad427d7e20837028762f21d3927bf7383c05c6718baf14250ba05fd3"
+    },
+    {
+      "image": "templates/43521009e5084c6c1f71f87e538f1f6a927ffbbab4448cb2971dbc36a34caa03.png",
+      "label": "cloud",
+      "sha256": "43521009e5084c6c1f71f87e538f1f6a927ffbbab4448cb2971dbc36a34caa03"
     },
     {
       "image": "templates/7d15d73d86a1a2369f06c01e5bbaf106418e4a0a37ef9fd3066faaa6d9a3a773.png",
@@ -1341,6 +1441,11 @@
       "sha256": "9903a9b5524a547ed5f3404719b76f01d109eb21185dcb6c7a0ad95b2d65bef5"
     },
     {
+      "image": "templates/095a50cd8c5f988e9f389905bb88d8395206176fb0b84832c853d9a5483541f7.png",
+      "label": "bird",
+      "sha256": "095a50cd8c5f988e9f389905bb88d8395206176fb0b84832c853d9a5483541f7"
+    },
+    {
       "image": "templates/9d99752847f45a7645276b2f2a8df3f6e6303c004fc2de3feceb9e26147a5a20.png",
       "label": "cloud",
       "sha256": "9d99752847f45a7645276b2f2a8df3f6e6303c004fc2de3feceb9e26147a5a20"
@@ -1366,6 +1471,11 @@
       "sha256": "52eedfe0b512f7622271cfb838908d8839832869274d5b395a6130d955c62566"
     },
     {
+      "image": "templates/540510eb5f2514fc3be095d3e071c5858e75288139d357fa4ae9dc23d448b25c.png",
+      "label": "bird",
+      "sha256": "540510eb5f2514fc3be095d3e071c5858e75288139d357fa4ae9dc23d448b25c"
+    },
+    {
       "image": "templates/e9ab457352f64383d58285ad1d37d78841deff15b271b0290ea41c077c578186.png",
       "label": "cloud",
       "sha256": "e9ab457352f64383d58285ad1d37d78841deff15b271b0290ea41c077c578186"
@@ -1376,9 +1486,24 @@
       "sha256": "3e185ef86912bcbc9e778989509dbd64d6c7487002554524b749e20261371948"
     },
     {
+      "image": "templates/390da858ed1492b18e13365a0ea5ff0130f65909b7fa31c92a1aa37a896d4bcd.png",
+      "label": "bird",
+      "sha256": "390da858ed1492b18e13365a0ea5ff0130f65909b7fa31c92a1aa37a896d4bcd"
+    },
+    {
       "image": "templates/319b25fe991e5f95c60399b8711f7e37e92bd7b01e77976779531ff9ff33813e.png",
       "label": "bird",
       "sha256": "319b25fe991e5f95c60399b8711f7e37e92bd7b01e77976779531ff9ff33813e"
+    },
+    {
+      "image": "templates/d6066a350237fe4aa559e03375fae523542f90b2316011b523557ac3ceec6499.png",
+      "label": "bird",
+      "sha256": "d6066a350237fe4aa559e03375fae523542f90b2316011b523557ac3ceec6499"
+    },
+    {
+      "image": "templates/77cd7836bcfc1d4fcc86ff6ac86f0b9c8b7f021cffde1a6606d1e0b01526e4ab.png",
+      "label": "bird",
+      "sha256": "77cd7836bcfc1d4fcc86ff6ac86f0b9c8b7f021cffde1a6606d1e0b01526e4ab"
     },
     {
       "image": "templates/3b6fb761d66f237f1b9fe6e62de20c61c78243deb6fa3edf09573f3f93f617ef.png",
@@ -1389,6 +1514,11 @@
       "image": "templates/62e36f8529e5c87b0f95443bed915020e00b587660ef4a843e5a6f7ce3889a37.png",
       "label": "bird",
       "sha256": "62e36f8529e5c87b0f95443bed915020e00b587660ef4a843e5a6f7ce3889a37"
+    },
+    {
+      "image": "templates/5c2ba641e864d4db5d139e33ef16cbfc668760a13cb39540e7cd6f12d8d8a5b8.png",
+      "label": "bird",
+      "sha256": "5c2ba641e864d4db5d139e33ef16cbfc668760a13cb39540e7cd6f12d8d8a5b8"
     },
     {
       "image": "templates/18755045070c238fdaa554ce47a555c47eacb366760867428fb8c5de41ce1daf.png",
@@ -1521,7 +1651,7 @@
       "sha256": "02c06b359f3248c8e7737c9cf0f1a86ebf49002999e1c0746c6fef803bde08ad"
     }
   ],
-  "dataset_sha256": "d231e3dbfcf62ae806cad56c21e969caefb4a3eab17fa65b9db9ee62ca93f348",
+  "dataset_sha256": "29d99c50973679aaf72aab4a1d9d299968c04657e54afe2c706b6f29c94f9300",
   "license": "Apache-2.0 for original code, annotations, and compilation; source media terms are separate",
   "parameters": {
     "scales": [
@@ -1537,5 +1667,5 @@
     "native_detail_gaussian_sigma": 1.2,
     "inference_revision": 2
   },
-  "created_utc": "2026-10-30T18:04:49.835009+00:00"
+  "created_utc": "2026-10-30T18:48:17.688149+00:00"
 }
