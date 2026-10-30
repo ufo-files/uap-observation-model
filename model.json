@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "id": "7c1cbcb3763b45adb9c406491be0c5f8",
-  "release": "model-7c1cbcb3763b45adb9c406491be0c5f8",
+  "id": "8259a931d1584078870f73aabce3b54f",
+  "release": "model-8259a931d1584078870f73aabce3b54f",
   "kind": "multiscale normalized appearance matching",
   "classes": [
     "airplane",
@@ -789,6 +789,16 @@
       "image": "templates/2634898d6c897e20a4a31642701f291176fcc232cf6790b417b259aa2000429f.png",
       "label": "cloud",
       "sha256": "2634898d6c897e20a4a31642701f291176fcc232cf6790b417b259aa2000429f"
+    },
+    {
+      "image": "templates/d84ccdfbb88534cd4931d5a93ca7cfab9db0e9528956f4a6d73dead25f922db8.png",
+      "label": "anomalous",
+      "sha256": "d84ccdfbb88534cd4931d5a93ca7cfab9db0e9528956f4a6d73dead25f922db8"
+    },
+    {
+      "image": "templates/36ab706f3ff934cd3d87dd0a96ef20c5a7ccd9693743a88b7a49c36cc351e806.png",
+      "label": "anomalous",
+      "sha256": "36ab706f3ff934cd3d87dd0a96ef20c5a7ccd9693743a88b7a49c36cc351e806"
     },
     {
       "image": "templates/629fbb64c598499351eacf153e274c3f5dcfb2cb98239e098013fbfba6165ab8.png",
@@ -1766,7 +1776,7 @@
       "sha256": "02c06b359f3248c8e7737c9cf0f1a86ebf49002999e1c0746c6fef803bde08ad"
     }
   ],
-  "dataset_sha256": "19ce460457b047446fd99d0d74db8455db821c9a7f5b3ba699a873dfaa21e3f6",
+  "dataset_sha256": "146a1ca2e8c01b55daab4fc221b713fd118f35dc50e48d56623fb80e4dd662b9",
   "license": "Apache-2.0 for original code, annotations, and compilation; source media terms are separate",
   "parameters": {
     "scales": [
@@ -1782,5 +1792,5 @@
     "native_detail_gaussian_sigma": 1.2,
     "inference_revision": 2
   },
-  "created_utc": "2026-10-30T18:59:06.257443+00:00"
+  "created_utc": "2026-10-30T19:00:16.277365+00:00"
 }
