@@ -9,6 +9,15 @@
     "terms_url": null
   },
   {
+    "id": "01ef034b4008fd91c744d87dcca2d66c51da92628cc99275eb9b64ca39908a55",
+    "source_sha256": "01ef034b4008fd91c744d87dcca2d66c51da92628cc99275eb9b64ca39908a55",
+    "title": "Contributor-supplied video 01ef034b4008",
+    "official_url": null,
+    "rights_marking": "Contributor-supplied media; source-media terms remain separate",
+    "attribution": null,
+    "terms_url": null
+  },
+  {
     "id": "7935e9dc9d15656e4eb1de12202942c099a9b308daf587bebf5d8e425309eeaa",
     "source_sha256": "7935e9dc9d15656e4eb1de12202942c099a9b308daf587bebf5d8e425309eeaa",
     "title": "Contributor-supplied video 7935e9dc9d15",
@@ -39,6 +48,15 @@
     "id": "ed71e1a2c09cf3714bc5bf6a49b2d2a0b8a7805b6708023fa5307d824c16ed91",
     "source_sha256": "ed71e1a2c09cf3714bc5bf6a49b2d2a0b8a7805b6708023fa5307d824c16ed91",
     "title": "Contributor-supplied video ed71e1a2c09c",
+    "official_url": null,
+    "rights_marking": "Contributor-supplied media; source-media terms remain separate",
+    "attribution": null,
+    "terms_url": null
+  },
+  {
+    "id": "330c28d750a54efc4a208288b885f5433ce6aee3eb01c28e888c17d074ae7679",
+    "source_sha256": "330c28d750a54efc4a208288b885f5433ce6aee3eb01c28e888c17d074ae7679",
+    "title": "Contributor-supplied video 330c28d750a5",
     "official_url": null,
     "rights_marking": "Contributor-supplied media; source-media terms remain separate",
     "attribution": null,
@@ -237,6 +255,15 @@
     "id": "4ef713410d74db3eb451a32bf0c54826e01391accfc24c365aea93ddf0771320",
     "source_sha256": "4ef713410d74db3eb451a32bf0c54826e01391accfc24c365aea93ddf0771320",
     "title": "Contributor-supplied video 4ef713410d74",
+    "official_url": null,
+    "rights_marking": "Contributor-supplied media; source-media terms remain separate",
+    "attribution": null,
+    "terms_url": null
+  },
+  {
+    "id": "ec84fec4d504b57ad2742268a6dc678e2be3c81fc3f3e799dc23f5edf7886bed",
+    "source_sha256": "ec84fec4d504b57ad2742268a6dc678e2be3c81fc3f3e799dc23f5edf7886bed",
+    "title": "Contributor-supplied video ec84fec4d504",
     "official_url": null,
     "rights_marking": "Contributor-supplied media; source-media terms remain separate",
     "attribution": null,
