@@ -1003,6 +1003,74 @@
     "usable_for_matching": true
   },
   {
+    "example": "templates/7318cb334e1f0f51fa35c178a1e70da10c4235ea72213c84ea96adb577aa1c28.png",
+    "label": "anomalous",
+    "source": "661f97af167c8862df92435dd89272001dc67dd34e5d82c218f095f29dbad601",
+    "time_seconds": 0.0,
+    "bounds_normalized": {
+      "x": 0.2871622818725915,
+      "y": 0.1645897803473267,
+      "w": 0.365742246373575,
+      "h": 0.17193670331017014
+    },
+    "native_pixels": {
+      "width": 212,
+      "height": 177
+    },
+    "usable_for_matching": true
+  },
+  {
+    "example": "templates/af83aaec5ed84fc91e1c0d5aac130f5866218a641a39afeafe0a8199d0d8dfcd.png",
+    "label": "anomalous",
+    "source": "661f97af167c8862df92435dd89272001dc67dd34e5d82c218f095f29dbad601",
+    "time_seconds": 4.933333,
+    "bounds_normalized": {
+      "x": 0.2410033029985791,
+      "y": 0.22438394624227131,
+      "w": 0.28157256872653635,
+      "h": 0.14082694786185707
+    },
+    "native_pixels": {
+      "width": 164,
+      "height": 145
+    },
+    "usable_for_matching": true
+  },
+  {
+    "example": "templates/6968ae3c860254af0d6beebf304d9fe42be35489753ec0f87fa1f116dbb2266b.png",
+    "label": "anomalous",
+    "source": "661f97af167c8862df92435dd89272001dc67dd34e5d82c218f095f29dbad601",
+    "time_seconds": 4.933333,
+    "bounds_normalized": {
+      "x": 0.47107658659081153,
+      "y": 0.338579808875605,
+      "w": 0.03997803516491627,
+      "h": 0.019231452453421616
+    },
+    "native_pixels": {
+      "width": 24,
+      "height": 21
+    },
+    "usable_for_matching": true
+  },
+  {
+    "example": "templates/562656965588af5e605868658e49347e4dedf10c45959234afd9879a389111f8.png",
+    "label": "anomalous",
+    "source": "661f97af167c8862df92435dd89272001dc67dd34e5d82c218f095f29dbad601",
+    "time_seconds": 0.533333,
+    "bounds_normalized": {
+      "x": 0.287638638538927,
+      "y": 0.19648392573958698,
+      "w": 0.3558042275306694,
+      "h": 0.14296777344637931
+    },
+    "native_pixels": {
+      "width": 206,
+      "height": 147
+    },
+    "usable_for_matching": true
+  },
+  {
     "example": "templates/06ea7925096e3be77f178f1438d02b09e5a6bd0c845c16f4d349c1347d8adaf3.png",
     "label": "anomalous",
     "source": "4150f58833129f201ecda4da7a14c1e46dd071519e7d543009fcc78aa45310e2",
