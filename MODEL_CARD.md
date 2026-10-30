@@ -2,13 +2,13 @@
 
 ## Snapshot and method
 
-Version `model-61b20b92c703499daa3187b4bcbdfc89`, model ID `61b20b92c703499daa3187b4bcbdfc89`. Prepared 2026-10-30T19:04:14.708353+00:00. 365 manually labeled native crops, 364 usable templates, 23 source videos. Labels: `{"airplane": 1, "anomalous": 78, "bird": 51, "cloud": 235}`.
+Version `model-f454ba582d7e4de6880395eb83828241`, model ID `f454ba582d7e4de6880395eb83828241`. Prepared 2026-10-30T19:05:50.829672+00:00. 379 manually labeled native crops, 378 usable templates, 24 source videos. Labels: `{"airplane": 1, "anomalous": 92, "bird": 51, "cloud": 235}`.
 
 The saved artifact is a bank of native grayscale appearance templates plus label metadata. OpenCV normalized cross-correlation searches scales 0.65, 0.8, 1.0, 1.25, and 1.6; overlap suppression uses 0.35 intersection-over-smaller-box area. Default matching threshold is 0.97. Uniform templates with standard deviation below 2 are skipped. Native positive matches also require agreement of background-subtracted fine structure: Gaussian sigma 1.2, correlation at least 0.55. This rejects smooth cloud gradients that can have a high raw correlation. Cloud examples may still compete as background negatives. At most eight candidate peaks per template and scale are considered. The runner preserves this station inference algorithm.
 
 ## Data and provenance
 
-Only completed, non-omitted reviews of credited credited source videos were eligible. Sources are listed in `sources.json`; crop time positions, labels, and normalized source bounds are in `annotations.json`. Native exemplars are copied without smoothing or enlargement. No full source videos, RF logs, local network addresses, or credentials are included. Only saved model snapshots are exported; full source videos and station logs are excluded. Dataset fingerprint: `1ddce9ae0271ed505c33d97dcfdcf4b93d9aa3f5e684551bde610e10864d60ba`.
+Only completed, non-omitted reviews of credited credited source videos were eligible. Sources are listed in `sources.json`; crop time positions, labels, and normalized source bounds are in `annotations.json`. Native exemplars are copied without smoothing or enlargement. No full source videos, RF logs, local network addresses, or credentials are included. Only saved model snapshots are exported; full source videos and station logs are excluded. Dataset fingerprint: `7567b3f80f53f652d0aa40d8f3ff385fe6b4f375909e08edfae9256f0ef2ec56`.
 
 ## Evaluation
 

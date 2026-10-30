@@ -1,6 +1,6 @@
 # UAP Observation Model
 
-An experimental, reusable appearance model built from manually labeled targets in credited source videos. This release includes **365 labeled crops from 23 source videos**, source credits, annotations, and a portable Python/OpenCV runner.
+An experimental, reusable appearance model built from manually labeled targets in credited source videos. This release includes **379 labeled crops from 24 source videos**, source credits, annotations, and a portable Python/OpenCV runner.
 
 ## Use it
 
@@ -34,11 +34,11 @@ This is a template-based appearance model. No neural network weights or gradient
 
 ## Release
 
-- Version: `model-61b20b92c703499daa3187b4bcbdfc89`
-- Model ID: `61b20b92c703499daa3187b4bcbdfc89`
-- Snapshot: `2026-10-30T19:04:14.708353+00:00`
-- Label counts: `{"airplane": 1, "anomalous": 78, "bird": 51, "cloud": 235}`
-- Usable templates after low-detail filtering: 364
+- Version: `model-f454ba582d7e4de6880395eb83828241`
+- Model ID: `f454ba582d7e4de6880395eb83828241`
+- Snapshot: `2026-10-30T19:05:50.829672+00:00`
+- Label counts: `{"airplane": 1, "anomalous": 92, "bird": 51, "cloud": 235}`
+- Usable templates after low-detail filtering: 378
 - Independent held-out accuracy: not measured for this release
 
 More templates increase CPU inference time. Start with still images before long videos. Threshold scores are correlations, not calibrated probabilities. This preview does not establish transfer accuracy on other cameras or environments.
