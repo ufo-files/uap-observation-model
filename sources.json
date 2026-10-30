@@ -81,6 +81,15 @@
     "terms_url": null
   },
   {
+    "id": "db47c198e0cf0b7837b5809e3f72b68f8737a5b34bb4c46adddc4e151725b6f4",
+    "source_sha256": "db47c198e0cf0b7837b5809e3f72b68f8737a5b34bb4c46adddc4e151725b6f4",
+    "title": "Contributor-supplied video db47c198e0cf",
+    "official_url": null,
+    "rights_marking": "Contributor-supplied media; source-media terms remain separate",
+    "attribution": null,
+    "terms_url": null
+  },
+  {
     "id": "b5a5ebbeec2560aea16cf07fb83dd579314f4c64e48e205021954afbdacc2eb7",
     "source_sha256": "b5a5ebbeec2560aea16cf07fb83dd579314f4c64e48e205021954afbdacc2eb7",
     "title": "Contributor-supplied video b5a5ebbeec25",

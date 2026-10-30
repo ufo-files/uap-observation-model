@@ -1173,6 +1173,74 @@
     "usable_for_matching": true
   },
   {
+    "example": "templates/e46dee839f0385adba6b3756832a4062e17c5c419f7876fa56848627070b5085.png",
+    "label": "anomalous",
+    "source": "db47c198e0cf0b7837b5809e3f72b68f8737a5b34bb4c46adddc4e151725b6f4",
+    "time_seconds": 12.4,
+    "bounds_normalized": {
+      "x": 0.4280431724169382,
+      "y": 0.3731295185647218,
+      "w": 0.048043119712942894,
+      "h": 0.023315749355247273
+    },
+    "native_pixels": {
+      "width": 29,
+      "height": 24
+    },
+    "usable_for_matching": true
+  },
+  {
+    "example": "templates/ac8b2e449d991a3ae858e7dcd8da9018a172529ef8cc25507fb2a3b469aa4007.png",
+    "label": "anomalous",
+    "source": "db47c198e0cf0b7837b5809e3f72b68f8737a5b34bb4c46adddc4e151725b6f4",
+    "time_seconds": 24.833333,
+    "bounds_normalized": {
+      "x": 0.3924397949783556,
+      "y": 0.41136316215914814,
+      "w": 0.06175038092953283,
+      "h": 0.0210823123482769
+    },
+    "native_pixels": {
+      "width": 36,
+      "height": 22
+    },
+    "usable_for_matching": true
+  },
+  {
+    "example": "templates/99cb89fa1426ba701d7dc78b11e7cc8546c5e4c0c8c8ca5b9eb87abd51b3a782.png",
+    "label": "anomalous",
+    "source": "db47c198e0cf0b7837b5809e3f72b68f8737a5b34bb4c46adddc4e151725b6f4",
+    "time_seconds": 35.666667,
+    "bounds_normalized": {
+      "x": 0.25233089875415393,
+      "y": 0.41439256254398266,
+      "w": 0.08990128311429396,
+      "h": 0.03608685692287411
+    },
+    "native_pixels": {
+      "width": 53,
+      "height": 38
+    },
+    "usable_for_matching": true
+  },
+  {
+    "example": "templates/50facc3acc923a8a97e739c6eefd1762f5061b8466ae416dc24185ef018f59a8.png",
+    "label": "anomalous",
+    "source": "db47c198e0cf0b7837b5809e3f72b68f8737a5b34bb4c46adddc4e151725b6f4",
+    "time_seconds": 43.566667,
+    "bounds_normalized": {
+      "x": 0.30763027153739003,
+      "y": 0.41740745152812514,
+      "w": 0.0654216634572799,
+      "h": 0.03379886625658479
+    },
+    "native_pixels": {
+      "width": 38,
+      "height": 36
+    },
+    "usable_for_matching": true
+  },
+  {
     "example": "templates/beee58319d313b5854ee3353cdd368f6747c805c80750e178493b2b3d9cfdcff.png",
     "label": "anomalous",
     "source": "b5a5ebbeec2560aea16cf07fb83dd579314f4c64e48e205021954afbdacc2eb7",
