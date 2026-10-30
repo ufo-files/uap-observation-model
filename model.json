@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "id": "075b6c758f75498db7459bcf9986d73c",
-  "release": "model-075b6c758f75498db7459bcf9986d73c",
+  "id": "0c4d4482fbe14409a8c24e46139da5a8",
+  "release": "model-0c4d4482fbe14409a8c24e46139da5a8",
   "kind": "multiscale normalized appearance matching",
   "classes": [
     "airplane",
@@ -334,6 +334,41 @@
       "image": "templates/f7be4635d995eac39df832235efe9c915d13513da6f6c20628f0a4549196a652.png",
       "label": "cloud",
       "sha256": "f7be4635d995eac39df832235efe9c915d13513da6f6c20628f0a4549196a652"
+    },
+    {
+      "image": "templates/d2680108e104ec6b4ef8595a36c69555a3a7127a612886a4e41459f0be0ea312.png",
+      "label": "anomalous",
+      "sha256": "d2680108e104ec6b4ef8595a36c69555a3a7127a612886a4e41459f0be0ea312"
+    },
+    {
+      "image": "templates/3f8a62f11595b1fbdfde70e2254a6e4fa30996a329ddc613e4cc6f767381510f.png",
+      "label": "anomalous",
+      "sha256": "3f8a62f11595b1fbdfde70e2254a6e4fa30996a329ddc613e4cc6f767381510f"
+    },
+    {
+      "image": "templates/e26f211736b4f0c10e7205270bde2d643f7d0b3fbf03093ebd62d424b8687606.png",
+      "label": "anomalous",
+      "sha256": "e26f211736b4f0c10e7205270bde2d643f7d0b3fbf03093ebd62d424b8687606"
+    },
+    {
+      "image": "templates/2aa46f42e500ada76ee1237bac2548e7e5b8670893374e983076f06b22cfae21.png",
+      "label": "anomalous",
+      "sha256": "2aa46f42e500ada76ee1237bac2548e7e5b8670893374e983076f06b22cfae21"
+    },
+    {
+      "image": "templates/b155c63ca11d70ddfa274e8bcfdc445c2af2560624dc41ee51fd7f8d1d7f90c3.png",
+      "label": "anomalous",
+      "sha256": "b155c63ca11d70ddfa274e8bcfdc445c2af2560624dc41ee51fd7f8d1d7f90c3"
+    },
+    {
+      "image": "templates/dbd86e9c329a92ce54a4376e270365674ac3124f9b224fb717e921ba0fb5427d.png",
+      "label": "anomalous",
+      "sha256": "dbd86e9c329a92ce54a4376e270365674ac3124f9b224fb717e921ba0fb5427d"
+    },
+    {
+      "image": "templates/e12c9ee73a6f19643ddddee1ec1117fe3c1ce4faca6361d0d03248c197fa48a8.png",
+      "label": "anomalous",
+      "sha256": "e12c9ee73a6f19643ddddee1ec1117fe3c1ce4faca6361d0d03248c197fa48a8"
     },
     {
       "image": "templates/441786a66eb63f81f81c0e5b288f0615aad770f1f6e06d81118de13dcf65850b.png",
@@ -1661,7 +1696,7 @@
       "sha256": "02c06b359f3248c8e7737c9cf0f1a86ebf49002999e1c0746c6fef803bde08ad"
     }
   ],
-  "dataset_sha256": "dc7830778934b1f0a8af32aa8c42d139d55a4b1ed77b749135db4176e280e349",
+  "dataset_sha256": "19db8b21dfa00e0e64293945b4c2df909e3a7b4e33882ddebf2e900c7c8352e0",
   "license": "Apache-2.0 for original code, annotations, and compilation; source media terms are separate",
   "parameters": {
     "scales": [
@@ -1677,5 +1712,5 @@
     "native_detail_gaussian_sigma": 1.2,
     "inference_revision": 2
   },
-  "created_utc": "2026-10-30T18:50:58.665020+00:00"
+  "created_utc": "2026-10-30T18:56:31.305712+00:00"
 }
