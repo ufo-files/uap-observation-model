@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "id": "2f5905dd78cd43c9ac0266a87817aac7",
-  "release": "model-2f5905dd78cd43c9ac0266a87817aac7",
+  "id": "fb0d5f87fb894561ae09d86ff9315c8c",
+  "release": "model-fb0d5f87fb894561ae09d86ff9315c8c",
   "kind": "multiscale normalized appearance matching",
   "classes": [
     "airplane",
@@ -454,6 +454,26 @@
       "image": "templates/83f02c695f18dd21e4cf1330f4fa3f2be3c41f83587a6548fe7f2573df0136b8.png",
       "label": "anomalous",
       "sha256": "83f02c695f18dd21e4cf1330f4fa3f2be3c41f83587a6548fe7f2573df0136b8"
+    },
+    {
+      "image": "templates/d92adfb4712d707435bf254173a345dc843fe3b0a3e34e7df18a1bade3d586e4.png",
+      "label": "anomalous",
+      "sha256": "d92adfb4712d707435bf254173a345dc843fe3b0a3e34e7df18a1bade3d586e4"
+    },
+    {
+      "image": "templates/3accdd8b78430e8ab5c81de5b3294284080545a1e7294fc50102a4c4bf9f7b3a.png",
+      "label": "anomalous",
+      "sha256": "3accdd8b78430e8ab5c81de5b3294284080545a1e7294fc50102a4c4bf9f7b3a"
+    },
+    {
+      "image": "templates/27fe37e861bf467f431dce46e55df6607f714922de559d154109b8cd8c3a385a.png",
+      "label": "anomalous",
+      "sha256": "27fe37e861bf467f431dce46e55df6607f714922de559d154109b8cd8c3a385a"
+    },
+    {
+      "image": "templates/05dc5b6f2d1dbc32dbddccacb21a42303928bfb824c85e801f3634e05cb60b5f.png",
+      "label": "anomalous",
+      "sha256": "05dc5b6f2d1dbc32dbddccacb21a42303928bfb824c85e801f3634e05cb60b5f"
     },
     {
       "image": "templates/f90868067f16adb871e30c74f46dbc8106cf5ee1988ceb45608c7526c1d53566.png",
@@ -2186,7 +2206,7 @@
       "sha256": "02c06b359f3248c8e7737c9cf0f1a86ebf49002999e1c0746c6fef803bde08ad"
     }
   ],
-  "dataset_sha256": "1a2abde9e46eb05f2afe6fc170ca792e6fb8beaaff5c01ca18d5637ae533168c",
+  "dataset_sha256": "268eeb6d3ed806a974d9fda05bdc9fb91b4342424af5c7d9c7760202f831f366",
   "license": "Apache-2.0 for original code, annotations, and compilation; source media terms are separate",
   "parameters": {
     "scales": [
@@ -2202,5 +2222,5 @@
     "native_detail_gaussian_sigma": 1.2,
     "inference_revision": 2
   },
-  "created_utc": "2026-10-30T19:49:05.804487+00:00"
+  "created_utc": "2026-10-30T19:50:35.876876+00:00"
 }

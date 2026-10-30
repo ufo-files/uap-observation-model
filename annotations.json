@@ -1513,6 +1513,74 @@
     "usable_for_matching": true
   },
   {
+    "example": "templates/d92adfb4712d707435bf254173a345dc843fe3b0a3e34e7df18a1bade3d586e4.png",
+    "label": "anomalous",
+    "source": "84d704baa2f7c98774842f77f47a35e093b2cbfe8b4c3d3aa34f7573f927117c",
+    "time_seconds": 8.733333,
+    "bounds_normalized": {
+      "x": 0.5313311874554372,
+      "y": 0.3351477839547357,
+      "w": 0.06268944826647516,
+      "h": 0.039741202444204815
+    },
+    "native_pixels": {
+      "width": 37,
+      "height": 41
+    },
+    "usable_for_matching": true
+  },
+  {
+    "example": "templates/3accdd8b78430e8ab5c81de5b3294284080545a1e7294fc50102a4c4bf9f7b3a.png",
+    "label": "anomalous",
+    "source": "84d704baa2f7c98774842f77f47a35e093b2cbfe8b4c3d3aa34f7573f927117c",
+    "time_seconds": 28.466667,
+    "bounds_normalized": {
+      "x": 0.5317058768172113,
+      "y": 0.35571460294968904,
+      "w": 0.10864338805480211,
+      "h": 0.06306323045604662
+    },
+    "native_pixels": {
+      "width": 63,
+      "height": 65
+    },
+    "usable_for_matching": true
+  },
+  {
+    "example": "templates/27fe37e861bf467f431dce46e55df6607f714922de559d154109b8cd8c3a385a.png",
+    "label": "anomalous",
+    "source": "84d704baa2f7c98774842f77f47a35e093b2cbfe8b4c3d3aa34f7573f927117c",
+    "time_seconds": 47.466667,
+    "bounds_normalized": {
+      "x": 0.3109494251080697,
+      "y": 0.29028039941594386,
+      "w": 0.09933002468321112,
+      "h": 0.06254595780077249
+    },
+    "native_pixels": {
+      "width": 58,
+      "height": 65
+    },
+    "usable_for_matching": true
+  },
+  {
+    "example": "templates/05dc5b6f2d1dbc32dbddccacb21a42303928bfb824c85e801f3634e05cb60b5f.png",
+    "label": "anomalous",
+    "source": "84d704baa2f7c98774842f77f47a35e093b2cbfe8b4c3d3aa34f7573f927117c",
+    "time_seconds": 62.566667,
+    "bounds_normalized": {
+      "x": 0.42188361482910675,
+      "y": 0.34753742288664896,
+      "w": 0.13184565544727944,
+      "h": 0.09661371615489472
+    },
+    "native_pixels": {
+      "width": 76,
+      "height": 100
+    },
+    "usable_for_matching": true
+  },
+  {
     "example": "templates/f90868067f16adb871e30c74f46dbc8106cf5ee1988ceb45608c7526c1d53566.png",
     "label": "anomalous",
     "source": "b71471f2cc5d21e4632770cf337c55051a4820d2f4f40ab581f2c192637d74c3",
