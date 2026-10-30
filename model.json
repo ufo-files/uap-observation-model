@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "id": "075e3dbac1414116905828748649f87f",
-  "release": "model-075e3dbac1414116905828748649f87f",
+  "id": "61b20b92c703499daa3187b4bcbdfc89",
+  "release": "model-61b20b92c703499daa3187b4bcbdfc89",
   "kind": "multiscale normalized appearance matching",
   "classes": [
     "airplane",
@@ -719,6 +719,51 @@
       "image": "templates/00783e26e3e998bfae7ab45c7e9cd3696f8764ac3d708488bb16f461e6d79242.png",
       "label": "cloud",
       "sha256": "00783e26e3e998bfae7ab45c7e9cd3696f8764ac3d708488bb16f461e6d79242"
+    },
+    {
+      "image": "templates/b56aea0b7be18afc7c0d4a212f1fae0794b6c996a9ef44809130f864a47cb507.png",
+      "label": "anomalous",
+      "sha256": "b56aea0b7be18afc7c0d4a212f1fae0794b6c996a9ef44809130f864a47cb507"
+    },
+    {
+      "image": "templates/0afcacb10ab652c7e370e218ae77ec35551261b988fc15cc5ecd9ae3b946e7c9.png",
+      "label": "anomalous",
+      "sha256": "0afcacb10ab652c7e370e218ae77ec35551261b988fc15cc5ecd9ae3b946e7c9"
+    },
+    {
+      "image": "templates/ba940c3a6e00c89ffbf6c938b6c95be413c06c758f1e2a8e64e273961d0374e9.png",
+      "label": "anomalous",
+      "sha256": "ba940c3a6e00c89ffbf6c938b6c95be413c06c758f1e2a8e64e273961d0374e9"
+    },
+    {
+      "image": "templates/be4a3e5adcacefbaa1a1621ee68c71677152a7112741485bd5b04f537f5f3c39.png",
+      "label": "anomalous",
+      "sha256": "be4a3e5adcacefbaa1a1621ee68c71677152a7112741485bd5b04f537f5f3c39"
+    },
+    {
+      "image": "templates/6534c70823a79c81971a932fa066003807ec7683b881bc7ee62a96dff557a808.png",
+      "label": "anomalous",
+      "sha256": "6534c70823a79c81971a932fa066003807ec7683b881bc7ee62a96dff557a808"
+    },
+    {
+      "image": "templates/36aa92f60f4040277b761e70e685669c536353e219eb33410e5d70ff59e52147.png",
+      "label": "anomalous",
+      "sha256": "36aa92f60f4040277b761e70e685669c536353e219eb33410e5d70ff59e52147"
+    },
+    {
+      "image": "templates/f3f51ef0230c4d4c14ef1b92a7de850d1bf314d8e7ad99359eb23f4396da8a96.png",
+      "label": "anomalous",
+      "sha256": "f3f51ef0230c4d4c14ef1b92a7de850d1bf314d8e7ad99359eb23f4396da8a96"
+    },
+    {
+      "image": "templates/919b95eb373d16ea8029e3b0ba6f90bec21bcf83bbd6392f5ae0ff3c40b57e89.png",
+      "label": "anomalous",
+      "sha256": "919b95eb373d16ea8029e3b0ba6f90bec21bcf83bbd6392f5ae0ff3c40b57e89"
+    },
+    {
+      "image": "templates/769e4f4e2cab20fbbc1782b3864f4e0a2947a879d0d71ee79aa30f0b103ee2e5.png",
+      "label": "anomalous",
+      "sha256": "769e4f4e2cab20fbbc1782b3864f4e0a2947a879d0d71ee79aa30f0b103ee2e5"
     },
     {
       "image": "templates/3259b6b5bd2b379a369e5e6bc705774a6d453c00e9df93d1d139808abd615e6b.png",
@@ -1791,7 +1836,7 @@
       "sha256": "02c06b359f3248c8e7737c9cf0f1a86ebf49002999e1c0746c6fef803bde08ad"
     }
   ],
-  "dataset_sha256": "6af74bec08c6070079b43918f4b18daf0215a81c366856f63818e6ff99b903dd",
+  "dataset_sha256": "1ddce9ae0271ed505c33d97dcfdcf4b93d9aa3f5e684551bde610e10864d60ba",
   "license": "Apache-2.0 for original code, annotations, and compilation; source media terms are separate",
   "parameters": {
     "scales": [
@@ -1807,5 +1852,5 @@
     "native_detail_gaussian_sigma": 1.2,
     "inference_revision": 2
   },
-  "created_utc": "2026-10-30T19:01:46.586802+00:00"
+  "created_utc": "2026-10-30T19:04:14.708353+00:00"
 }
