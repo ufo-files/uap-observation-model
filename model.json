@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "id": "c1031e86db2e4243968d4e7283f7b198",
-  "release": "model-c1031e86db2e4243968d4e7283f7b198",
+  "id": "02ea013801bd4ae686359ad44292c277",
+  "release": "model-02ea013801bd4ae686359ad44292c277",
   "kind": "multiscale normalized appearance matching",
   "classes": [
     "airplane",
@@ -541,6 +541,11 @@
       "sha256": "2634898d6c897e20a4a31642701f291176fcc232cf6790b417b259aa2000429f"
     },
     {
+      "image": "templates/629fbb64c598499351eacf153e274c3f5dcfb2cb98239e098013fbfba6165ab8.png",
+      "label": "cloud",
+      "sha256": "629fbb64c598499351eacf153e274c3f5dcfb2cb98239e098013fbfba6165ab8"
+    },
+    {
       "image": "templates/20f9f2f47227a8cfba8cfa1cbe7f610e290679aba4a055be14b5e1ddec9e0c5b.png",
       "label": "cloud",
       "sha256": "20f9f2f47227a8cfba8cfa1cbe7f610e290679aba4a055be14b5e1ddec9e0c5b"
@@ -549,6 +554,11 @@
       "image": "templates/07645765c72ce08240ad84257085c18645b88ff0065fe822e27576f47f4e6ef6.png",
       "label": "cloud",
       "sha256": "07645765c72ce08240ad84257085c18645b88ff0065fe822e27576f47f4e6ef6"
+    },
+    {
+      "image": "templates/5b984faf9505d131550d9daabca49b14ae6c15de420d5330fe351cfbd8c12b66.png",
+      "label": "cloud",
+      "sha256": "5b984faf9505d131550d9daabca49b14ae6c15de420d5330fe351cfbd8c12b66"
     },
     {
       "image": "templates/074c04d976b28d04f73bc679f5797b5f2b3fb7af070c3e098d4a5303a13545fd.png",
@@ -571,6 +581,11 @@
       "sha256": "f2f26ceeae8be85bb43be0b4f61a7d29212605890beb53c5012a893997f17b48"
     },
     {
+      "image": "templates/b5a2b8007628591edc90aaeab8e115d6eb80e6e94006dcdf8a2e4cdc931c0ab8.png",
+      "label": "cloud",
+      "sha256": "b5a2b8007628591edc90aaeab8e115d6eb80e6e94006dcdf8a2e4cdc931c0ab8"
+    },
+    {
       "image": "templates/f7ae9727a3cdff48b7188d5638b8d0f4e69b8dffcc7febdb3cd3af6cc524cd33.png",
       "label": "cloud",
       "sha256": "f7ae9727a3cdff48b7188d5638b8d0f4e69b8dffcc7febdb3cd3af6cc524cd33"
@@ -591,6 +606,11 @@
       "sha256": "05452f2b9bfdbb3b1b9abb3be0dc067d11d98567712c66891b6df390eb0a757d"
     },
     {
+      "image": "templates/46a893e7a2435f3d93aaa418490b760be17020e3e3629f4d8d08897459908862.png",
+      "label": "bird",
+      "sha256": "46a893e7a2435f3d93aaa418490b760be17020e3e3629f4d8d08897459908862"
+    },
+    {
       "image": "templates/53167c0a7072b0f96f6a2d503ec2328cfe45b7f9e4b50ee06922e760b759d512.png",
       "label": "cloud",
       "sha256": "53167c0a7072b0f96f6a2d503ec2328cfe45b7f9e4b50ee06922e760b759d512"
@@ -606,9 +626,74 @@
       "sha256": "ce64595d0ecd7e1351a4402ba12d284d40979ef8d7e593ee588087cfeb86d87e"
     },
     {
+      "image": "templates/7f1d372359c4caa44646036796380d9fc1e99a932838194dff7a475bb6d4f30e.png",
+      "label": "cloud",
+      "sha256": "7f1d372359c4caa44646036796380d9fc1e99a932838194dff7a475bb6d4f30e"
+    },
+    {
+      "image": "templates/4e4fe535aba24820570fec352b4d06a5b068cd1a496f482678e2da3e0a6ba55b.png",
+      "label": "bird",
+      "sha256": "4e4fe535aba24820570fec352b4d06a5b068cd1a496f482678e2da3e0a6ba55b"
+    },
+    {
+      "image": "templates/975d565da5b8218276d601dfc14c0c465cccd5e2b60f726f1e2ee299f7bfb2a6.png",
+      "label": "cloud",
+      "sha256": "975d565da5b8218276d601dfc14c0c465cccd5e2b60f726f1e2ee299f7bfb2a6"
+    },
+    {
+      "image": "templates/6f2be391fb6ce7308064a6743b4db758986a41d53f1fd9d6bb964565ddd50b3d.png",
+      "label": "cloud",
+      "sha256": "6f2be391fb6ce7308064a6743b4db758986a41d53f1fd9d6bb964565ddd50b3d"
+    },
+    {
+      "image": "templates/d91a323031cb63c60787da37ba8ad2562b7d78d26ed0ee95572467cbe8e1b199.png",
+      "label": "cloud",
+      "sha256": "d91a323031cb63c60787da37ba8ad2562b7d78d26ed0ee95572467cbe8e1b199"
+    },
+    {
+      "image": "templates/a8d8a07d547ce4477dd76efcf5e5fc7f127338597a89532a07671e736225b457.png",
+      "label": "cloud",
+      "sha256": "a8d8a07d547ce4477dd76efcf5e5fc7f127338597a89532a07671e736225b457"
+    },
+    {
+      "image": "templates/d8dfe9874efe368156fefa1d188d63bc047242843988dedeccaf10916078e126.png",
+      "label": "cloud",
+      "sha256": "d8dfe9874efe368156fefa1d188d63bc047242843988dedeccaf10916078e126"
+    },
+    {
+      "image": "templates/f6d891dd9fd6d2610c6369951ca97364e82f14809b95a2727acb61a5bd80adea.png",
+      "label": "cloud",
+      "sha256": "f6d891dd9fd6d2610c6369951ca97364e82f14809b95a2727acb61a5bd80adea"
+    },
+    {
+      "image": "templates/e3e0c9de81ad5e2aafe6c906ff2f17a7015f4911a3fbfa23ed3404139229591f.png",
+      "label": "cloud",
+      "sha256": "e3e0c9de81ad5e2aafe6c906ff2f17a7015f4911a3fbfa23ed3404139229591f"
+    },
+    {
       "image": "templates/b3880c75c81319555d3b909b62739d3fe13e4d8c43aa1deda65adc5ec977746b.png",
       "label": "cloud",
       "sha256": "b3880c75c81319555d3b909b62739d3fe13e4d8c43aa1deda65adc5ec977746b"
+    },
+    {
+      "image": "templates/1fb705980b32e3abfd2143a4f0fdea4bf15204252bfea288b0f12a706d9e9b18.png",
+      "label": "cloud",
+      "sha256": "1fb705980b32e3abfd2143a4f0fdea4bf15204252bfea288b0f12a706d9e9b18"
+    },
+    {
+      "image": "templates/cd8b28f3fe150ad79dc2d2c886c61bf0a1279153ac154a824c4b04925cfe75e4.png",
+      "label": "cloud",
+      "sha256": "cd8b28f3fe150ad79dc2d2c886c61bf0a1279153ac154a824c4b04925cfe75e4"
+    },
+    {
+      "image": "templates/bcddb09f46e89a39fc1409e0aa2fbd0e64aba742b6b4b3cbe2e41a4218bb0fa6.png",
+      "label": "cloud",
+      "sha256": "bcddb09f46e89a39fc1409e0aa2fbd0e64aba742b6b4b3cbe2e41a4218bb0fa6"
+    },
+    {
+      "image": "templates/100b3ffa6684673f5d533ac8e62216f6b10b3ab1de6069ee9ea1bc7591f43213.png",
+      "label": "cloud",
+      "sha256": "100b3ffa6684673f5d533ac8e62216f6b10b3ab1de6069ee9ea1bc7591f43213"
     },
     {
       "image": "templates/048a2e234a271332b443bb07929e2efedc246c94bd86e4dd574a3e7dbf247cc8.png",
@@ -626,9 +711,44 @@
       "sha256": "d1b1d0297ce6601b753264d0dfb6fa364f5bdef626a6376f2213af0a93d6c851"
     },
     {
+      "image": "templates/4f705cc4a81f2646a8c9c73129cc43f64fc5b20b2baa3bb553e11b7e6984904c.png",
+      "label": "cloud",
+      "sha256": "4f705cc4a81f2646a8c9c73129cc43f64fc5b20b2baa3bb553e11b7e6984904c"
+    },
+    {
       "image": "templates/800eb75dd96c03dc7f4a18b7e648d107ba78dbd7a51d68196112568a6e49c446.png",
       "label": "cloud",
       "sha256": "800eb75dd96c03dc7f4a18b7e648d107ba78dbd7a51d68196112568a6e49c446"
+    },
+    {
+      "image": "templates/b146ed52dfb2df92ebe6e8e1c15aeb38031efdf3b5b7698ed240aadc7e7a0510.png",
+      "label": "cloud",
+      "sha256": "b146ed52dfb2df92ebe6e8e1c15aeb38031efdf3b5b7698ed240aadc7e7a0510"
+    },
+    {
+      "image": "templates/3c148e0b172c83e7fcc2c83934b4f717e15bb1b81100381495ecd712223a6829.png",
+      "label": "cloud",
+      "sha256": "3c148e0b172c83e7fcc2c83934b4f717e15bb1b81100381495ecd712223a6829"
+    },
+    {
+      "image": "templates/84c25701aaddea543d76d85acd450c15839f257790842e57934a3e9e0a27ce6f.png",
+      "label": "cloud",
+      "sha256": "84c25701aaddea543d76d85acd450c15839f257790842e57934a3e9e0a27ce6f"
+    },
+    {
+      "image": "templates/758b09912ba056fb42958c733c4ee9374813907c5d80026760898c8ab6d7351e.png",
+      "label": "cloud",
+      "sha256": "758b09912ba056fb42958c733c4ee9374813907c5d80026760898c8ab6d7351e"
+    },
+    {
+      "image": "templates/a299a81a69f053cc1b0c81e473ec6404888c203e0e16f034af28d24258373c8f.png",
+      "label": "cloud",
+      "sha256": "a299a81a69f053cc1b0c81e473ec6404888c203e0e16f034af28d24258373c8f"
+    },
+    {
+      "image": "templates/7ea200fc59ebd922004af4547f9c75a69e4ec47d98aa35e097897c00073fa12b.png",
+      "label": "cloud",
+      "sha256": "7ea200fc59ebd922004af4547f9c75a69e4ec47d98aa35e097897c00073fa12b"
     },
     {
       "image": "templates/0b60953767087ab918684887f0b22f364edd74600000fe4e7ba163d4239415d2.png",
@@ -641,14 +761,69 @@
       "sha256": "fa6de72a4a1bcf39b426b0742a28fc0364e6e2afbd9a1e785a5ca320ba536ca9"
     },
     {
+      "image": "templates/461f84740db6ae7dbed154e3b357b1dcc683a32a9d9da6d00685e7a8301b350c.png",
+      "label": "cloud",
+      "sha256": "461f84740db6ae7dbed154e3b357b1dcc683a32a9d9da6d00685e7a8301b350c"
+    },
+    {
+      "image": "templates/067edd96b344706e5217ad0e04bf4eae5554ab334c29c889995878261f7a8e4c.png",
+      "label": "cloud",
+      "sha256": "067edd96b344706e5217ad0e04bf4eae5554ab334c29c889995878261f7a8e4c"
+    },
+    {
+      "image": "templates/23f0f79e291ccc892f023c719f1649b7529050170d3f9d7485a0bf530779edfe.png",
+      "label": "cloud",
+      "sha256": "23f0f79e291ccc892f023c719f1649b7529050170d3f9d7485a0bf530779edfe"
+    },
+    {
+      "image": "templates/66e3d08e2aeff6a239789347e42b9346b2af0cc8c2dcbd5bb6f7549f1f0c3130.png",
+      "label": "cloud",
+      "sha256": "66e3d08e2aeff6a239789347e42b9346b2af0cc8c2dcbd5bb6f7549f1f0c3130"
+    },
+    {
+      "image": "templates/b26915dff81a6aafcf1dabaf9fd2072d41daa557e0d6a8ba8be82816b55a6f98.png",
+      "label": "cloud",
+      "sha256": "b26915dff81a6aafcf1dabaf9fd2072d41daa557e0d6a8ba8be82816b55a6f98"
+    },
+    {
+      "image": "templates/9dda417a07281df8fd3b98952bfcaa805ef03a78f00e39d66dc2a686deaff336.png",
+      "label": "cloud",
+      "sha256": "9dda417a07281df8fd3b98952bfcaa805ef03a78f00e39d66dc2a686deaff336"
+    },
+    {
+      "image": "templates/6be364df452c5e4df4e74a16f1b064532b984dcb4b7458ac511ab1e3b72e3eb1.png",
+      "label": "cloud",
+      "sha256": "6be364df452c5e4df4e74a16f1b064532b984dcb4b7458ac511ab1e3b72e3eb1"
+    },
+    {
+      "image": "templates/bb4d777260f3257b1aebfd064a1e5706e84c63fd9efcc96b541d7752bbceb4dc.png",
+      "label": "cloud",
+      "sha256": "bb4d777260f3257b1aebfd064a1e5706e84c63fd9efcc96b541d7752bbceb4dc"
+    },
+    {
       "image": "templates/6f3eae6f44ecc84ae4a6830736e8fa94168168e37355bc31c64e5491a191fa57.png",
       "label": "cloud",
       "sha256": "6f3eae6f44ecc84ae4a6830736e8fa94168168e37355bc31c64e5491a191fa57"
     },
     {
+      "image": "templates/ed38d183ddac1ff1553c21c9749eb343ed92f36341b7ed86d2aa63a6f46b8825.png",
+      "label": "cloud",
+      "sha256": "ed38d183ddac1ff1553c21c9749eb343ed92f36341b7ed86d2aa63a6f46b8825"
+    },
+    {
       "image": "templates/ac4adfdf33cab6c61b38b4199b60328a8eaa738ae943a6a45023524f83467e62.png",
       "label": "cloud",
       "sha256": "ac4adfdf33cab6c61b38b4199b60328a8eaa738ae943a6a45023524f83467e62"
+    },
+    {
+      "image": "templates/8cfcf04073e4e0e0b13ba50848803963b1b35cf8b3866fc5207a14f506bb49d0.png",
+      "label": "cloud",
+      "sha256": "8cfcf04073e4e0e0b13ba50848803963b1b35cf8b3866fc5207a14f506bb49d0"
+    },
+    {
+      "image": "templates/a3cad9a8a55bf21b1b8a3c94365df9fa0ff6d0eea0cd3032e8c700a135e65362.png",
+      "label": "cloud",
+      "sha256": "a3cad9a8a55bf21b1b8a3c94365df9fa0ff6d0eea0cd3032e8c700a135e65362"
     },
     {
       "image": "templates/3060532d77877e7bf6463cd80377c5d20ee932e89f11138460f826e09111a741.png",
@@ -706,9 +881,19 @@
       "sha256": "f8f6387c14e521eb3741adc8f9e96d39ea93f5c82116c34342fa8f921b5d9fbe"
     },
     {
+      "image": "templates/74f81c53f4f42209a1499ec8baa4fa38561e5b880e5be22b693d4a63cf384aaf.png",
+      "label": "bird",
+      "sha256": "74f81c53f4f42209a1499ec8baa4fa38561e5b880e5be22b693d4a63cf384aaf"
+    },
+    {
       "image": "templates/d9febc7e48bbb7fbd39535361aa9127d77cd946366a5b2dd5773e877a1b117ea.png",
       "label": "cloud",
       "sha256": "d9febc7e48bbb7fbd39535361aa9127d77cd946366a5b2dd5773e877a1b117ea"
+    },
+    {
+      "image": "templates/6e7fe2d98785d565aab65c60808c251157bf1c49216089e32439fc623578f380.png",
+      "label": "bird",
+      "sha256": "6e7fe2d98785d565aab65c60808c251157bf1c49216089e32439fc623578f380"
     },
     {
       "image": "templates/7a7c6914fe05886fa17739d2eaba505f8e0c2d06f00f60b52d0cc11b5eef5241.png",
@@ -736,9 +921,19 @@
       "sha256": "6b0d31032cf7dacb760598ee0c16cb865f1150f34dea05a5fe66bb5bdfbf3396"
     },
     {
+      "image": "templates/dde78a4a29520a0cef7e4381332aec2aa229ecefff65cca453af19321c6d3905.png",
+      "label": "bird",
+      "sha256": "dde78a4a29520a0cef7e4381332aec2aa229ecefff65cca453af19321c6d3905"
+    },
+    {
       "image": "templates/ac4f0b6233ff5d52aaf5d735d23cf557aee2ae9bee6207a645a8a87d1daf4175.png",
       "label": "cloud",
       "sha256": "ac4f0b6233ff5d52aaf5d735d23cf557aee2ae9bee6207a645a8a87d1daf4175"
+    },
+    {
+      "image": "templates/08cf60a704ddbcf84a9b4141c4f3843193080a192c767f93e90305c8fc55ccf0.png",
+      "label": "bird",
+      "sha256": "08cf60a704ddbcf84a9b4141c4f3843193080a192c767f93e90305c8fc55ccf0"
     },
     {
       "image": "templates/bdb6658524e38733d1771244bd38b7f12a7f5bedc5252613c3c6825fc18f1d17.png",
@@ -759,6 +954,11 @@
       "image": "templates/8bcfd13979ab44430609c8fe4b80ae60fe7631384a62973723365aa3644d8b3b.png",
       "label": "cloud",
       "sha256": "8bcfd13979ab44430609c8fe4b80ae60fe7631384a62973723365aa3644d8b3b"
+    },
+    {
+      "image": "templates/d1b7db1e8c75ca119e5b2cfdf3ee555d45d5a54ca58f2613877c063d24cce0c1.png",
+      "label": "bird",
+      "sha256": "d1b7db1e8c75ca119e5b2cfdf3ee555d45d5a54ca58f2613877c063d24cce0c1"
     },
     {
       "image": "templates/c16422800913e82678176aaa50efe5e3b80f19321af200c72a463b70d257cb68.png",
@@ -801,14 +1001,29 @@
       "sha256": "de0df6331011169eec04259f93aa0d552711a885c40dbf93afcc77d8b0c914b6"
     },
     {
+      "image": "templates/672042bf90a8028cf4ae5b9dff53125287f243207b4290ee80a84993edbdfddb.png",
+      "label": "bird",
+      "sha256": "672042bf90a8028cf4ae5b9dff53125287f243207b4290ee80a84993edbdfddb"
+    },
+    {
       "image": "templates/1917139be43b65c15cd3f42220027ec4ccb70241cb4ce259473e09c309645c35.png",
       "label": "cloud",
       "sha256": "1917139be43b65c15cd3f42220027ec4ccb70241cb4ce259473e09c309645c35"
     },
     {
+      "image": "templates/85002ec62bca5a7c0346249313cce68101a8447e0fb05909880afaff853a9a80.png",
+      "label": "bird",
+      "sha256": "85002ec62bca5a7c0346249313cce68101a8447e0fb05909880afaff853a9a80"
+    },
+    {
       "image": "templates/f1b2dceee2b840773aef1f978e1b9cf6e71b274b2145e481aa7cf4ee8cf6dbd2.png",
       "label": "cloud",
       "sha256": "f1b2dceee2b840773aef1f978e1b9cf6e71b274b2145e481aa7cf4ee8cf6dbd2"
+    },
+    {
+      "image": "templates/a10865f399ee539c76e7cec7aaba96850ecace43d145b9bcadf206ef94a35cac.png",
+      "label": "bird",
+      "sha256": "a10865f399ee539c76e7cec7aaba96850ecace43d145b9bcadf206ef94a35cac"
     },
     {
       "image": "templates/0ab2af042fbb6291859e63a8c526e54e6389e6ca7e083c749df336a4d0d38128.png",
@@ -931,9 +1146,19 @@
       "sha256": "e13affde331b639da0727575f52ce46dd7bb101825d1155ff5897f03aeac58de"
     },
     {
+      "image": "templates/6e2d366cfe00fdc7c790632662304602c489a307b2a7044217b69534a708447f.png",
+      "label": "bird",
+      "sha256": "6e2d366cfe00fdc7c790632662304602c489a307b2a7044217b69534a708447f"
+    },
+    {
       "image": "templates/f6abe57812e4a06294dd7941e9b46dd74f8db799b98bbbffbcf9b4a62ba8236c.png",
       "label": "cloud",
       "sha256": "f6abe57812e4a06294dd7941e9b46dd74f8db799b98bbbffbcf9b4a62ba8236c"
+    },
+    {
+      "image": "templates/78f5d3bf420a889dca75ac7c6bbfad88c935c18fa2aaa93a4026296991e96003.png",
+      "label": "bird",
+      "sha256": "78f5d3bf420a889dca75ac7c6bbfad88c935c18fa2aaa93a4026296991e96003"
     },
     {
       "image": "templates/3e1143fb14e972dd58c582619096de373d9a9456ea7ab947c98350efed90f761.png",
@@ -941,9 +1166,19 @@
       "sha256": "3e1143fb14e972dd58c582619096de373d9a9456ea7ab947c98350efed90f761"
     },
     {
+      "image": "templates/30ee9ca0ad427d7e20837028762f21d3927bf7383c05c6718baf14250ba05fd3.png",
+      "label": "cloud",
+      "sha256": "30ee9ca0ad427d7e20837028762f21d3927bf7383c05c6718baf14250ba05fd3"
+    },
+    {
       "image": "templates/7d15d73d86a1a2369f06c01e5bbaf106418e4a0a37ef9fd3066faaa6d9a3a773.png",
       "label": "cloud",
       "sha256": "7d15d73d86a1a2369f06c01e5bbaf106418e4a0a37ef9fd3066faaa6d9a3a773"
+    },
+    {
+      "image": "templates/1284b8abebda48edaf9d208ac5ca32ebb6b5ec604d9d37d387a53e987dbd60b2.png",
+      "label": "bird",
+      "sha256": "1284b8abebda48edaf9d208ac5ca32ebb6b5ec604d9d37d387a53e987dbd60b2"
     },
     {
       "image": "templates/a58c4df0b689586d65780853a0f5761776ce568ebb866be7b1149f320a9d4540.png",
@@ -991,6 +1226,11 @@
       "sha256": "e45174ec81a46e851f27ea676d93e5b79e6ee43dac629b99e02e8f006b99f11d"
     },
     {
+      "image": "templates/9903a9b5524a547ed5f3404719b76f01d109eb21185dcb6c7a0ad95b2d65bef5.png",
+      "label": "bird",
+      "sha256": "9903a9b5524a547ed5f3404719b76f01d109eb21185dcb6c7a0ad95b2d65bef5"
+    },
+    {
       "image": "templates/9d99752847f45a7645276b2f2a8df3f6e6303c004fc2de3feceb9e26147a5a20.png",
       "label": "cloud",
       "sha256": "9d99752847f45a7645276b2f2a8df3f6e6303c004fc2de3feceb9e26147a5a20"
@@ -1021,9 +1261,34 @@
       "sha256": "e9ab457352f64383d58285ad1d37d78841deff15b271b0290ea41c077c578186"
     },
     {
+      "image": "templates/3e185ef86912bcbc9e778989509dbd64d6c7487002554524b749e20261371948.png",
+      "label": "bird",
+      "sha256": "3e185ef86912bcbc9e778989509dbd64d6c7487002554524b749e20261371948"
+    },
+    {
+      "image": "templates/319b25fe991e5f95c60399b8711f7e37e92bd7b01e77976779531ff9ff33813e.png",
+      "label": "bird",
+      "sha256": "319b25fe991e5f95c60399b8711f7e37e92bd7b01e77976779531ff9ff33813e"
+    },
+    {
       "image": "templates/3b6fb761d66f237f1b9fe6e62de20c61c78243deb6fa3edf09573f3f93f617ef.png",
       "label": "cloud",
       "sha256": "3b6fb761d66f237f1b9fe6e62de20c61c78243deb6fa3edf09573f3f93f617ef"
+    },
+    {
+      "image": "templates/62e36f8529e5c87b0f95443bed915020e00b587660ef4a843e5a6f7ce3889a37.png",
+      "label": "bird",
+      "sha256": "62e36f8529e5c87b0f95443bed915020e00b587660ef4a843e5a6f7ce3889a37"
+    },
+    {
+      "image": "templates/18755045070c238fdaa554ce47a555c47eacb366760867428fb8c5de41ce1daf.png",
+      "label": "bird",
+      "sha256": "18755045070c238fdaa554ce47a555c47eacb366760867428fb8c5de41ce1daf"
+    },
+    {
+      "image": "templates/338519fa7c2418228fe01ff550bdafa98acf65971fb2a554ceed55605b9e665e.png",
+      "label": "cloud",
+      "sha256": "338519fa7c2418228fe01ff550bdafa98acf65971fb2a554ceed55605b9e665e"
     },
     {
       "image": "templates/19059ab19235a5c99fe528fea5149f76f8edbdf3dc44e27cda88a4849ff752b7.png",
@@ -1046,9 +1311,24 @@
       "sha256": "c8633e4b9e47d9ccae088f6beed92f19784f1c03156c0e4309ac48ac4dd78603"
     },
     {
+      "image": "templates/f67e29285d1623a5b78a50f02e157528f923e23702a837bd2066725563d408ae.png",
+      "label": "bird",
+      "sha256": "f67e29285d1623a5b78a50f02e157528f923e23702a837bd2066725563d408ae"
+    },
+    {
       "image": "templates/b65db1d9f0039a63d07d8f8e8def600a2cbab1cd7ba71cfabb98b02936bf4508.png",
       "label": "cloud",
       "sha256": "b65db1d9f0039a63d07d8f8e8def600a2cbab1cd7ba71cfabb98b02936bf4508"
+    },
+    {
+      "image": "templates/d178cfcbeadc8880e012ea42a6a57e53b92599b8859c6d7f620eea07de2b777c.png",
+      "label": "bird",
+      "sha256": "d178cfcbeadc8880e012ea42a6a57e53b92599b8859c6d7f620eea07de2b777c"
+    },
+    {
+      "image": "templates/49f783cc2de9bbdb9575bd7d8f3b45f13b5614e7fa65f0cd5bad850b2ed0375a.png",
+      "label": "cloud",
+      "sha256": "49f783cc2de9bbdb9575bd7d8f3b45f13b5614e7fa65f0cd5bad850b2ed0375a"
     },
     {
       "image": "templates/8ad1f95ed0bd071978c00fd707e6d3234502081510963df1b57c55816dcb0e3a.png",
@@ -1059,6 +1339,16 @@
       "image": "templates/e196cff707c37075a7516295f2602811f77bcd35465e8780e70e3623ffe496e6.png",
       "label": "cloud",
       "sha256": "e196cff707c37075a7516295f2602811f77bcd35465e8780e70e3623ffe496e6"
+    },
+    {
+      "image": "templates/02943d86b5b68a53546af3117ac3de2cf84931d53f2a0c5d55d46d91be9b1ddd.png",
+      "label": "bird",
+      "sha256": "02943d86b5b68a53546af3117ac3de2cf84931d53f2a0c5d55d46d91be9b1ddd"
+    },
+    {
+      "image": "templates/cc6943fdefec93fc9cd0fe00639bae6eb264e30cb349c39e7e1ae8434208574b.png",
+      "label": "bird",
+      "sha256": "cc6943fdefec93fc9cd0fe00639bae6eb264e30cb349c39e7e1ae8434208574b"
     },
     {
       "image": "templates/a16efe9a6fc23ca7ce2b94bd39b5bd9d169da087190b394d3fd17c545219ac14.png",
@@ -1074,6 +1364,11 @@
       "image": "templates/88b0080513f0ce53943a70c6dcf63cfd1d945aa127c434ed7698d5a154689f3e.png",
       "label": "cloud",
       "sha256": "88b0080513f0ce53943a70c6dcf63cfd1d945aa127c434ed7698d5a154689f3e"
+    },
+    {
+      "image": "templates/dc4ec732acd3d129d38c14c1dd8262a9eccab6180c6162d3c47cfa0317635af8.png",
+      "label": "bird",
+      "sha256": "dc4ec732acd3d129d38c14c1dd8262a9eccab6180c6162d3c47cfa0317635af8"
     },
     {
       "image": "templates/9ce307879cbfad64cd27a1222d4be6121da7233114db2f9fd80ce068c3f44a03.png",
@@ -1101,12 +1396,17 @@
       "sha256": "fdfb90612828b5a7be91bb2649a918b04ffad7ebf044ff475b61c163ff154977"
     },
     {
+      "image": "templates/7e2a7ac7e3b070ddfcfe04fe19b8ccc63bc721aad6cde290b00b45fe86932823.png",
+      "label": "bird",
+      "sha256": "7e2a7ac7e3b070ddfcfe04fe19b8ccc63bc721aad6cde290b00b45fe86932823"
+    },
+    {
       "image": "templates/02c06b359f3248c8e7737c9cf0f1a86ebf49002999e1c0746c6fef803bde08ad.png",
       "label": "cloud",
       "sha256": "02c06b359f3248c8e7737c9cf0f1a86ebf49002999e1c0746c6fef803bde08ad"
     }
   ],
-  "dataset_sha256": "57c97b07c85d28bca3e95c11913b87eb053a5eae6bf11ab8f506a1301f1055e4",
+  "dataset_sha256": "d9b115671aaf2bfaf2ac7dbbf9c1b7d5141c41dc716cfb5adff205aeeca3963d",
   "license": "Apache-2.0 for original code, annotations, and compilation; source media terms are separate",
   "parameters": {
     "scales": [
@@ -1122,5 +1422,5 @@
     "native_detail_gaussian_sigma": 1.2,
     "inference_revision": 2
   },
-  "created_utc": "2026-10-30T17:06:18.091800+00:00"
+  "created_utc": "2026-10-30T17:55:24.606292+00:00"
 }

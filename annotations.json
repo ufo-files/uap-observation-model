@@ -1802,6 +1802,18 @@
     "usable_for_matching": true
   },
   {
+    "example": "templates/629fbb64c598499351eacf153e274c3f5dcfb2cb98239e098013fbfba6165ab8.png",
+    "label": "cloud",
+    "source": "unspecified",
+    "time_seconds": null,
+    "bounds_normalized": null,
+    "native_pixels": {
+      "width": 64,
+      "height": 64
+    },
+    "usable_for_matching": true
+  },
+  {
     "example": "templates/20f9f2f47227a8cfba8cfa1cbe7f610e290679aba4a055be14b5e1ddec9e0c5b.png",
     "label": "cloud",
     "source": "unspecified",
@@ -1815,6 +1827,18 @@
   },
   {
     "example": "templates/07645765c72ce08240ad84257085c18645b88ff0065fe822e27576f47f4e6ef6.png",
+    "label": "cloud",
+    "source": "unspecified",
+    "time_seconds": null,
+    "bounds_normalized": null,
+    "native_pixels": {
+      "width": 64,
+      "height": 64
+    },
+    "usable_for_matching": true
+  },
+  {
+    "example": "templates/5b984faf9505d131550d9daabca49b14ae6c15de420d5330fe351cfbd8c12b66.png",
     "label": "cloud",
     "source": "unspecified",
     "time_seconds": null,
@@ -1874,6 +1898,18 @@
     "usable_for_matching": true
   },
   {
+    "example": "templates/b5a2b8007628591edc90aaeab8e115d6eb80e6e94006dcdf8a2e4cdc931c0ab8.png",
+    "label": "cloud",
+    "source": "unspecified",
+    "time_seconds": null,
+    "bounds_normalized": null,
+    "native_pixels": {
+      "width": 64,
+      "height": 64
+    },
+    "usable_for_matching": true
+  },
+  {
     "example": "templates/f7ae9727a3cdff48b7188d5638b8d0f4e69b8dffcc7febdb3cd3af6cc524cd33.png",
     "label": "cloud",
     "source": "unspecified",
@@ -1922,6 +1958,18 @@
     "usable_for_matching": true
   },
   {
+    "example": "templates/46a893e7a2435f3d93aaa418490b760be17020e3e3629f4d8d08897459908862.png",
+    "label": "bird",
+    "source": "unspecified",
+    "time_seconds": null,
+    "bounds_normalized": null,
+    "native_pixels": {
+      "width": 23,
+      "height": 34
+    },
+    "usable_for_matching": true
+  },
+  {
     "example": "templates/53167c0a7072b0f96f6a2d503ec2328cfe45b7f9e4b50ee06922e760b759d512.png",
     "label": "cloud",
     "source": "unspecified",
@@ -1958,7 +2006,163 @@
     "usable_for_matching": true
   },
   {
+    "example": "templates/7f1d372359c4caa44646036796380d9fc1e99a932838194dff7a475bb6d4f30e.png",
+    "label": "cloud",
+    "source": "unspecified",
+    "time_seconds": null,
+    "bounds_normalized": null,
+    "native_pixels": {
+      "width": 64,
+      "height": 64
+    },
+    "usable_for_matching": true
+  },
+  {
+    "example": "templates/4e4fe535aba24820570fec352b4d06a5b068cd1a496f482678e2da3e0a6ba55b.png",
+    "label": "bird",
+    "source": "unspecified",
+    "time_seconds": null,
+    "bounds_normalized": null,
+    "native_pixels": {
+      "width": 30,
+      "height": 33
+    },
+    "usable_for_matching": true
+  },
+  {
+    "example": "templates/975d565da5b8218276d601dfc14c0c465cccd5e2b60f726f1e2ee299f7bfb2a6.png",
+    "label": "cloud",
+    "source": "unspecified",
+    "time_seconds": null,
+    "bounds_normalized": null,
+    "native_pixels": {
+      "width": 64,
+      "height": 64
+    },
+    "usable_for_matching": true
+  },
+  {
+    "example": "templates/6f2be391fb6ce7308064a6743b4db758986a41d53f1fd9d6bb964565ddd50b3d.png",
+    "label": "cloud",
+    "source": "unspecified",
+    "time_seconds": null,
+    "bounds_normalized": null,
+    "native_pixels": {
+      "width": 64,
+      "height": 64
+    },
+    "usable_for_matching": true
+  },
+  {
+    "example": "templates/d91a323031cb63c60787da37ba8ad2562b7d78d26ed0ee95572467cbe8e1b199.png",
+    "label": "cloud",
+    "source": "unspecified",
+    "time_seconds": null,
+    "bounds_normalized": null,
+    "native_pixels": {
+      "width": 64,
+      "height": 64
+    },
+    "usable_for_matching": true
+  },
+  {
+    "example": "templates/a8d8a07d547ce4477dd76efcf5e5fc7f127338597a89532a07671e736225b457.png",
+    "label": "cloud",
+    "source": "unspecified",
+    "time_seconds": null,
+    "bounds_normalized": null,
+    "native_pixels": {
+      "width": 64,
+      "height": 64
+    },
+    "usable_for_matching": true
+  },
+  {
+    "example": "templates/d8dfe9874efe368156fefa1d188d63bc047242843988dedeccaf10916078e126.png",
+    "label": "cloud",
+    "source": "unspecified",
+    "time_seconds": null,
+    "bounds_normalized": null,
+    "native_pixels": {
+      "width": 64,
+      "height": 64
+    },
+    "usable_for_matching": true
+  },
+  {
+    "example": "templates/f6d891dd9fd6d2610c6369951ca97364e82f14809b95a2727acb61a5bd80adea.png",
+    "label": "cloud",
+    "source": "unspecified",
+    "time_seconds": null,
+    "bounds_normalized": null,
+    "native_pixels": {
+      "width": 64,
+      "height": 64
+    },
+    "usable_for_matching": true
+  },
+  {
+    "example": "templates/e3e0c9de81ad5e2aafe6c906ff2f17a7015f4911a3fbfa23ed3404139229591f.png",
+    "label": "cloud",
+    "source": "unspecified",
+    "time_seconds": null,
+    "bounds_normalized": null,
+    "native_pixels": {
+      "width": 64,
+      "height": 64
+    },
+    "usable_for_matching": true
+  },
+  {
     "example": "templates/b3880c75c81319555d3b909b62739d3fe13e4d8c43aa1deda65adc5ec977746b.png",
+    "label": "cloud",
+    "source": "unspecified",
+    "time_seconds": null,
+    "bounds_normalized": null,
+    "native_pixels": {
+      "width": 64,
+      "height": 64
+    },
+    "usable_for_matching": true
+  },
+  {
+    "example": "templates/1fb705980b32e3abfd2143a4f0fdea4bf15204252bfea288b0f12a706d9e9b18.png",
+    "label": "cloud",
+    "source": "unspecified",
+    "time_seconds": null,
+    "bounds_normalized": null,
+    "native_pixels": {
+      "width": 64,
+      "height": 64
+    },
+    "usable_for_matching": true
+  },
+  {
+    "example": "templates/cd8b28f3fe150ad79dc2d2c886c61bf0a1279153ac154a824c4b04925cfe75e4.png",
+    "label": "cloud",
+    "source": "unspecified",
+    "time_seconds": null,
+    "bounds_normalized": null,
+    "native_pixels": {
+      "width": 64,
+      "height": 64
+    },
+    "usable_for_matching": true
+  },
+  {
+    "example": "templates/bcddb09f46e89a39fc1409e0aa2fbd0e64aba742b6b4b3cbe2e41a4218bb0fa6.png",
+    "label": "cloud",
+    "source": "unspecified",
+    "time_seconds": null,
+    "bounds_normalized": null,
+    "native_pixels": {
+      "width": 64,
+      "height": 64
+    },
+    "usable_for_matching": true
+  },
+  {
+    "example": "templates/100b3ffa6684673f5d533ac8e62216f6b10b3ab1de6069ee9ea1bc7591f43213.png",
     "label": "cloud",
     "source": "unspecified",
     "time_seconds": null,
@@ -2006,7 +2210,91 @@
     "usable_for_matching": true
   },
   {
+    "example": "templates/4f705cc4a81f2646a8c9c73129cc43f64fc5b20b2baa3bb553e11b7e6984904c.png",
+    "label": "cloud",
+    "source": "unspecified",
+    "time_seconds": null,
+    "bounds_normalized": null,
+    "native_pixels": {
+      "width": 64,
+      "height": 64
+    },
+    "usable_for_matching": true
+  },
+  {
     "example": "templates/800eb75dd96c03dc7f4a18b7e648d107ba78dbd7a51d68196112568a6e49c446.png",
+    "label": "cloud",
+    "source": "unspecified",
+    "time_seconds": null,
+    "bounds_normalized": null,
+    "native_pixels": {
+      "width": 64,
+      "height": 64
+    },
+    "usable_for_matching": true
+  },
+  {
+    "example": "templates/b146ed52dfb2df92ebe6e8e1c15aeb38031efdf3b5b7698ed240aadc7e7a0510.png",
+    "label": "cloud",
+    "source": "unspecified",
+    "time_seconds": null,
+    "bounds_normalized": null,
+    "native_pixels": {
+      "width": 64,
+      "height": 64
+    },
+    "usable_for_matching": true
+  },
+  {
+    "example": "templates/3c148e0b172c83e7fcc2c83934b4f717e15bb1b81100381495ecd712223a6829.png",
+    "label": "cloud",
+    "source": "unspecified",
+    "time_seconds": null,
+    "bounds_normalized": null,
+    "native_pixels": {
+      "width": 64,
+      "height": 64
+    },
+    "usable_for_matching": true
+  },
+  {
+    "example": "templates/84c25701aaddea543d76d85acd450c15839f257790842e57934a3e9e0a27ce6f.png",
+    "label": "cloud",
+    "source": "unspecified",
+    "time_seconds": null,
+    "bounds_normalized": null,
+    "native_pixels": {
+      "width": 64,
+      "height": 64
+    },
+    "usable_for_matching": true
+  },
+  {
+    "example": "templates/758b09912ba056fb42958c733c4ee9374813907c5d80026760898c8ab6d7351e.png",
+    "label": "cloud",
+    "source": "unspecified",
+    "time_seconds": null,
+    "bounds_normalized": null,
+    "native_pixels": {
+      "width": 64,
+      "height": 64
+    },
+    "usable_for_matching": true
+  },
+  {
+    "example": "templates/a299a81a69f053cc1b0c81e473ec6404888c203e0e16f034af28d24258373c8f.png",
+    "label": "cloud",
+    "source": "unspecified",
+    "time_seconds": null,
+    "bounds_normalized": null,
+    "native_pixels": {
+      "width": 64,
+      "height": 64
+    },
+    "usable_for_matching": true
+  },
+  {
+    "example": "templates/7ea200fc59ebd922004af4547f9c75a69e4ec47d98aa35e097897c00073fa12b.png",
     "label": "cloud",
     "source": "unspecified",
     "time_seconds": null,
@@ -2042,6 +2330,102 @@
     "usable_for_matching": true
   },
   {
+    "example": "templates/461f84740db6ae7dbed154e3b357b1dcc683a32a9d9da6d00685e7a8301b350c.png",
+    "label": "cloud",
+    "source": "unspecified",
+    "time_seconds": null,
+    "bounds_normalized": null,
+    "native_pixels": {
+      "width": 64,
+      "height": 64
+    },
+    "usable_for_matching": true
+  },
+  {
+    "example": "templates/067edd96b344706e5217ad0e04bf4eae5554ab334c29c889995878261f7a8e4c.png",
+    "label": "cloud",
+    "source": "unspecified",
+    "time_seconds": null,
+    "bounds_normalized": null,
+    "native_pixels": {
+      "width": 64,
+      "height": 64
+    },
+    "usable_for_matching": true
+  },
+  {
+    "example": "templates/23f0f79e291ccc892f023c719f1649b7529050170d3f9d7485a0bf530779edfe.png",
+    "label": "cloud",
+    "source": "unspecified",
+    "time_seconds": null,
+    "bounds_normalized": null,
+    "native_pixels": {
+      "width": 64,
+      "height": 64
+    },
+    "usable_for_matching": true
+  },
+  {
+    "example": "templates/66e3d08e2aeff6a239789347e42b9346b2af0cc8c2dcbd5bb6f7549f1f0c3130.png",
+    "label": "cloud",
+    "source": "unspecified",
+    "time_seconds": null,
+    "bounds_normalized": null,
+    "native_pixels": {
+      "width": 64,
+      "height": 64
+    },
+    "usable_for_matching": true
+  },
+  {
+    "example": "templates/b26915dff81a6aafcf1dabaf9fd2072d41daa557e0d6a8ba8be82816b55a6f98.png",
+    "label": "cloud",
+    "source": "unspecified",
+    "time_seconds": null,
+    "bounds_normalized": null,
+    "native_pixels": {
+      "width": 64,
+      "height": 64
+    },
+    "usable_for_matching": true
+  },
+  {
+    "example": "templates/9dda417a07281df8fd3b98952bfcaa805ef03a78f00e39d66dc2a686deaff336.png",
+    "label": "cloud",
+    "source": "unspecified",
+    "time_seconds": null,
+    "bounds_normalized": null,
+    "native_pixels": {
+      "width": 64,
+      "height": 64
+    },
+    "usable_for_matching": true
+  },
+  {
+    "example": "templates/6be364df452c5e4df4e74a16f1b064532b984dcb4b7458ac511ab1e3b72e3eb1.png",
+    "label": "cloud",
+    "source": "unspecified",
+    "time_seconds": null,
+    "bounds_normalized": null,
+    "native_pixels": {
+      "width": 64,
+      "height": 64
+    },
+    "usable_for_matching": true
+  },
+  {
+    "example": "templates/bb4d777260f3257b1aebfd064a1e5706e84c63fd9efcc96b541d7752bbceb4dc.png",
+    "label": "cloud",
+    "source": "unspecified",
+    "time_seconds": null,
+    "bounds_normalized": null,
+    "native_pixels": {
+      "width": 64,
+      "height": 64
+    },
+    "usable_for_matching": true
+  },
+  {
     "example": "templates/6f3eae6f44ecc84ae4a6830736e8fa94168168e37355bc31c64e5491a191fa57.png",
     "label": "cloud",
     "source": "unspecified",
@@ -2054,7 +2438,43 @@
     "usable_for_matching": true
   },
   {
+    "example": "templates/ed38d183ddac1ff1553c21c9749eb343ed92f36341b7ed86d2aa63a6f46b8825.png",
+    "label": "cloud",
+    "source": "unspecified",
+    "time_seconds": null,
+    "bounds_normalized": null,
+    "native_pixels": {
+      "width": 64,
+      "height": 64
+    },
+    "usable_for_matching": true
+  },
+  {
     "example": "templates/ac4adfdf33cab6c61b38b4199b60328a8eaa738ae943a6a45023524f83467e62.png",
+    "label": "cloud",
+    "source": "unspecified",
+    "time_seconds": null,
+    "bounds_normalized": null,
+    "native_pixels": {
+      "width": 64,
+      "height": 64
+    },
+    "usable_for_matching": true
+  },
+  {
+    "example": "templates/8cfcf04073e4e0e0b13ba50848803963b1b35cf8b3866fc5207a14f506bb49d0.png",
+    "label": "cloud",
+    "source": "unspecified",
+    "time_seconds": null,
+    "bounds_normalized": null,
+    "native_pixels": {
+      "width": 64,
+      "height": 64
+    },
+    "usable_for_matching": true
+  },
+  {
+    "example": "templates/a3cad9a8a55bf21b1b8a3c94365df9fa0ff6d0eea0cd3032e8c700a135e65362.png",
     "label": "cloud",
     "source": "unspecified",
     "time_seconds": null,
@@ -2198,6 +2618,18 @@
     "usable_for_matching": true
   },
   {
+    "example": "templates/74f81c53f4f42209a1499ec8baa4fa38561e5b880e5be22b693d4a63cf384aaf.png",
+    "label": "bird",
+    "source": "unspecified",
+    "time_seconds": null,
+    "bounds_normalized": null,
+    "native_pixels": {
+      "width": 34,
+      "height": 34
+    },
+    "usable_for_matching": true
+  },
+  {
     "example": "templates/d9febc7e48bbb7fbd39535361aa9127d77cd946366a5b2dd5773e877a1b117ea.png",
     "label": "cloud",
     "source": "unspecified",
@@ -2206,6 +2638,18 @@
     "native_pixels": {
       "width": 64,
       "height": 64
+    },
+    "usable_for_matching": true
+  },
+  {
+    "example": "templates/6e7fe2d98785d565aab65c60808c251157bf1c49216089e32439fc623578f380.png",
+    "label": "bird",
+    "source": "unspecified",
+    "time_seconds": null,
+    "bounds_normalized": null,
+    "native_pixels": {
+      "width": 25,
+      "height": 29
     },
     "usable_for_matching": true
   },
@@ -2270,6 +2714,18 @@
     "usable_for_matching": true
   },
   {
+    "example": "templates/dde78a4a29520a0cef7e4381332aec2aa229ecefff65cca453af19321c6d3905.png",
+    "label": "bird",
+    "source": "unspecified",
+    "time_seconds": null,
+    "bounds_normalized": null,
+    "native_pixels": {
+      "width": 31,
+      "height": 28
+    },
+    "usable_for_matching": true
+  },
+  {
     "example": "templates/ac4f0b6233ff5d52aaf5d735d23cf557aee2ae9bee6207a645a8a87d1daf4175.png",
     "label": "cloud",
     "source": "unspecified",
@@ -2278,6 +2734,18 @@
     "native_pixels": {
       "width": 64,
       "height": 64
+    },
+    "usable_for_matching": true
+  },
+  {
+    "example": "templates/08cf60a704ddbcf84a9b4141c4f3843193080a192c767f93e90305c8fc55ccf0.png",
+    "label": "bird",
+    "source": "unspecified",
+    "time_seconds": null,
+    "bounds_normalized": null,
+    "native_pixels": {
+      "width": 55,
+      "height": 55
     },
     "usable_for_matching": true
   },
@@ -2326,6 +2794,18 @@
     "native_pixels": {
       "width": 64,
       "height": 64
+    },
+    "usable_for_matching": true
+  },
+  {
+    "example": "templates/d1b7db1e8c75ca119e5b2cfdf3ee555d45d5a54ca58f2613877c063d24cce0c1.png",
+    "label": "bird",
+    "source": "unspecified",
+    "time_seconds": null,
+    "bounds_normalized": null,
+    "native_pixels": {
+      "width": 67,
+      "height": 58
     },
     "usable_for_matching": true
   },
@@ -2426,6 +2906,18 @@
     "usable_for_matching": true
   },
   {
+    "example": "templates/672042bf90a8028cf4ae5b9dff53125287f243207b4290ee80a84993edbdfddb.png",
+    "label": "bird",
+    "source": "unspecified",
+    "time_seconds": null,
+    "bounds_normalized": null,
+    "native_pixels": {
+      "width": 140,
+      "height": 90
+    },
+    "usable_for_matching": true
+  },
+  {
     "example": "templates/1917139be43b65c15cd3f42220027ec4ccb70241cb4ce259473e09c309645c35.png",
     "label": "cloud",
     "source": "unspecified",
@@ -2438,8 +2930,32 @@
     "usable_for_matching": true
   },
   {
+    "example": "templates/85002ec62bca5a7c0346249313cce68101a8447e0fb05909880afaff853a9a80.png",
+    "label": "bird",
+    "source": "unspecified",
+    "time_seconds": null,
+    "bounds_normalized": null,
+    "native_pixels": {
+      "width": 64,
+      "height": 64
+    },
+    "usable_for_matching": true
+  },
+  {
     "example": "templates/f1b2dceee2b840773aef1f978e1b9cf6e71b274b2145e481aa7cf4ee8cf6dbd2.png",
     "label": "cloud",
+    "source": "unspecified",
+    "time_seconds": null,
+    "bounds_normalized": null,
+    "native_pixels": {
+      "width": 64,
+      "height": 64
+    },
+    "usable_for_matching": true
+  },
+  {
+    "example": "templates/a10865f399ee539c76e7cec7aaba96850ecace43d145b9bcadf206ef94a35cac.png",
+    "label": "bird",
     "source": "unspecified",
     "time_seconds": null,
     "bounds_normalized": null,
@@ -2738,6 +3254,18 @@
     "usable_for_matching": true
   },
   {
+    "example": "templates/6e2d366cfe00fdc7c790632662304602c489a307b2a7044217b69534a708447f.png",
+    "label": "bird",
+    "source": "unspecified",
+    "time_seconds": null,
+    "bounds_normalized": null,
+    "native_pixels": {
+      "width": 45,
+      "height": 49
+    },
+    "usable_for_matching": true
+  },
+  {
     "example": "templates/f6abe57812e4a06294dd7941e9b46dd74f8db799b98bbbffbcf9b4a62ba8236c.png",
     "label": "cloud",
     "source": "unspecified",
@@ -2746,6 +3274,18 @@
     "native_pixels": {
       "width": 64,
       "height": 64
+    },
+    "usable_for_matching": true
+  },
+  {
+    "example": "templates/78f5d3bf420a889dca75ac7c6bbfad88c935c18fa2aaa93a4026296991e96003.png",
+    "label": "bird",
+    "source": "unspecified",
+    "time_seconds": null,
+    "bounds_normalized": null,
+    "native_pixels": {
+      "width": 27,
+      "height": 32
     },
     "usable_for_matching": true
   },
@@ -2762,6 +3302,18 @@
     "usable_for_matching": true
   },
   {
+    "example": "templates/30ee9ca0ad427d7e20837028762f21d3927bf7383c05c6718baf14250ba05fd3.png",
+    "label": "cloud",
+    "source": "unspecified",
+    "time_seconds": null,
+    "bounds_normalized": null,
+    "native_pixels": {
+      "width": 251,
+      "height": 232
+    },
+    "usable_for_matching": true
+  },
+  {
     "example": "templates/7d15d73d86a1a2369f06c01e5bbaf106418e4a0a37ef9fd3066faaa6d9a3a773.png",
     "label": "cloud",
     "source": "unspecified",
@@ -2770,6 +3322,18 @@
     "native_pixels": {
       "width": 64,
       "height": 64
+    },
+    "usable_for_matching": true
+  },
+  {
+    "example": "templates/1284b8abebda48edaf9d208ac5ca32ebb6b5ec604d9d37d387a53e987dbd60b2.png",
+    "label": "bird",
+    "source": "unspecified",
+    "time_seconds": null,
+    "bounds_normalized": null,
+    "native_pixels": {
+      "width": 40,
+      "height": 35
     },
     "usable_for_matching": true
   },
@@ -2882,6 +3446,18 @@
     "usable_for_matching": true
   },
   {
+    "example": "templates/9903a9b5524a547ed5f3404719b76f01d109eb21185dcb6c7a0ad95b2d65bef5.png",
+    "label": "bird",
+    "source": "unspecified",
+    "time_seconds": null,
+    "bounds_normalized": null,
+    "native_pixels": {
+      "width": 97,
+      "height": 100
+    },
+    "usable_for_matching": true
+  },
+  {
     "example": "templates/9d99752847f45a7645276b2f2a8df3f6e6303c004fc2de3feceb9e26147a5a20.png",
     "label": "cloud",
     "source": "unspecified",
@@ -2954,6 +3530,30 @@
     "usable_for_matching": true
   },
   {
+    "example": "templates/3e185ef86912bcbc9e778989509dbd64d6c7487002554524b749e20261371948.png",
+    "label": "bird",
+    "source": "unspecified",
+    "time_seconds": null,
+    "bounds_normalized": null,
+    "native_pixels": {
+      "width": 129,
+      "height": 58
+    },
+    "usable_for_matching": true
+  },
+  {
+    "example": "templates/319b25fe991e5f95c60399b8711f7e37e92bd7b01e77976779531ff9ff33813e.png",
+    "label": "bird",
+    "source": "unspecified",
+    "time_seconds": null,
+    "bounds_normalized": null,
+    "native_pixels": {
+      "width": 47,
+      "height": 43
+    },
+    "usable_for_matching": true
+  },
+  {
     "example": "templates/3b6fb761d66f237f1b9fe6e62de20c61c78243deb6fa3edf09573f3f93f617ef.png",
     "label": "cloud",
     "source": "unspecified",
@@ -2962,6 +3562,42 @@
     "native_pixels": {
       "width": 64,
       "height": 64
+    },
+    "usable_for_matching": true
+  },
+  {
+    "example": "templates/62e36f8529e5c87b0f95443bed915020e00b587660ef4a843e5a6f7ce3889a37.png",
+    "label": "bird",
+    "source": "unspecified",
+    "time_seconds": null,
+    "bounds_normalized": null,
+    "native_pixels": {
+      "width": 32,
+      "height": 31
+    },
+    "usable_for_matching": true
+  },
+  {
+    "example": "templates/18755045070c238fdaa554ce47a555c47eacb366760867428fb8c5de41ce1daf.png",
+    "label": "bird",
+    "source": "unspecified",
+    "time_seconds": null,
+    "bounds_normalized": null,
+    "native_pixels": {
+      "width": 155,
+      "height": 109
+    },
+    "usable_for_matching": true
+  },
+  {
+    "example": "templates/338519fa7c2418228fe01ff550bdafa98acf65971fb2a554ceed55605b9e665e.png",
+    "label": "cloud",
+    "source": "unspecified",
+    "time_seconds": null,
+    "bounds_normalized": null,
+    "native_pixels": {
+      "width": 71,
+      "height": 74
     },
     "usable_for_matching": true
   },
@@ -3014,6 +3650,18 @@
     "usable_for_matching": true
   },
   {
+    "example": "templates/f67e29285d1623a5b78a50f02e157528f923e23702a837bd2066725563d408ae.png",
+    "label": "bird",
+    "source": "unspecified",
+    "time_seconds": null,
+    "bounds_normalized": null,
+    "native_pixels": {
+      "width": 36,
+      "height": 37
+    },
+    "usable_for_matching": true
+  },
+  {
     "example": "templates/b65db1d9f0039a63d07d8f8e8def600a2cbab1cd7ba71cfabb98b02936bf4508.png",
     "label": "cloud",
     "source": "unspecified",
@@ -3022,6 +3670,30 @@
     "native_pixels": {
       "width": 64,
       "height": 64
+    },
+    "usable_for_matching": true
+  },
+  {
+    "example": "templates/d178cfcbeadc8880e012ea42a6a57e53b92599b8859c6d7f620eea07de2b777c.png",
+    "label": "bird",
+    "source": "unspecified",
+    "time_seconds": null,
+    "bounds_normalized": null,
+    "native_pixels": {
+      "width": 33,
+      "height": 25
+    },
+    "usable_for_matching": true
+  },
+  {
+    "example": "templates/49f783cc2de9bbdb9575bd7d8f3b45f13b5614e7fa65f0cd5bad850b2ed0375a.png",
+    "label": "cloud",
+    "source": "unspecified",
+    "time_seconds": null,
+    "bounds_normalized": null,
+    "native_pixels": {
+      "width": 116,
+      "height": 69
     },
     "usable_for_matching": true
   },
@@ -3046,6 +3718,30 @@
     "native_pixels": {
       "width": 64,
       "height": 64
+    },
+    "usable_for_matching": true
+  },
+  {
+    "example": "templates/02943d86b5b68a53546af3117ac3de2cf84931d53f2a0c5d55d46d91be9b1ddd.png",
+    "label": "bird",
+    "source": "unspecified",
+    "time_seconds": null,
+    "bounds_normalized": null,
+    "native_pixels": {
+      "width": 49,
+      "height": 47
+    },
+    "usable_for_matching": true
+  },
+  {
+    "example": "templates/cc6943fdefec93fc9cd0fe00639bae6eb264e30cb349c39e7e1ae8434208574b.png",
+    "label": "bird",
+    "source": "unspecified",
+    "time_seconds": null,
+    "bounds_normalized": null,
+    "native_pixels": {
+      "width": 46,
+      "height": 50
     },
     "usable_for_matching": true
   },
@@ -3082,6 +3778,18 @@
     "native_pixels": {
       "width": 64,
       "height": 64
+    },
+    "usable_for_matching": true
+  },
+  {
+    "example": "templates/dc4ec732acd3d129d38c14c1dd8262a9eccab6180c6162d3c47cfa0317635af8.png",
+    "label": "bird",
+    "source": "unspecified",
+    "time_seconds": null,
+    "bounds_normalized": null,
+    "native_pixels": {
+      "width": 15,
+      "height": 15
     },
     "usable_for_matching": true
   },
@@ -3136,6 +3844,18 @@
   {
     "example": "templates/fdfb90612828b5a7be91bb2649a918b04ffad7ebf044ff475b61c163ff154977.png",
     "label": "cloud",
+    "source": "unspecified",
+    "time_seconds": null,
+    "bounds_normalized": null,
+    "native_pixels": {
+      "width": 64,
+      "height": 64
+    },
+    "usable_for_matching": true
+  },
+  {
+    "example": "templates/7e2a7ac7e3b070ddfcfe04fe19b8ccc63bc721aad6cde290b00b45fe86932823.png",
+    "label": "bird",
     "source": "unspecified",
     "time_seconds": null,
     "bounds_normalized": null,
