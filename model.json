@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "id": "bae9a0d702e94006828cd502a64afbd4",
-  "release": "model-bae9a0d702e94006828cd502a64afbd4",
+  "id": "9416161de771472fbd9248fdb272052c",
+  "release": "model-9416161de771472fbd9248fdb272052c",
   "kind": "multiscale normalized appearance matching",
   "classes": [
     "airplane",
@@ -244,6 +244,51 @@
       "image": "templates/27ff77c203d2f5d58a95659697334ce1e9956df3130aa466810479419aba805b.png",
       "label": "anomalous",
       "sha256": "27ff77c203d2f5d58a95659697334ce1e9956df3130aa466810479419aba805b"
+    },
+    {
+      "image": "templates/5a999e99c7d861f9aeaec5e58b335a2e6982e962507cd2e3cec2ce3429bcdcbc.png",
+      "label": "anomalous",
+      "sha256": "5a999e99c7d861f9aeaec5e58b335a2e6982e962507cd2e3cec2ce3429bcdcbc"
+    },
+    {
+      "image": "templates/d4f2c978ab51b0370e7d7e1c9c6977471d59653d8f591a731a0193e6924c77f5.png",
+      "label": "anomalous",
+      "sha256": "d4f2c978ab51b0370e7d7e1c9c6977471d59653d8f591a731a0193e6924c77f5"
+    },
+    {
+      "image": "templates/1464cc101170b496b4a8ed8c11db94abd274d150a7ad38f7c6b6143939e569c5.png",
+      "label": "anomalous",
+      "sha256": "1464cc101170b496b4a8ed8c11db94abd274d150a7ad38f7c6b6143939e569c5"
+    },
+    {
+      "image": "templates/710e219a0a0bdccac420ddee2cc35d0c9fe28f8bf8bd04ef5a345eb811ffb479.png",
+      "label": "anomalous",
+      "sha256": "710e219a0a0bdccac420ddee2cc35d0c9fe28f8bf8bd04ef5a345eb811ffb479"
+    },
+    {
+      "image": "templates/07ec52294a753fda4a0fc3e0c095be4edec119e9df776954ac10aa6f49595094.png",
+      "label": "anomalous",
+      "sha256": "07ec52294a753fda4a0fc3e0c095be4edec119e9df776954ac10aa6f49595094"
+    },
+    {
+      "image": "templates/576795b18f9c07cd0212cccf0f1d3dfda4142cf414363c3245741e72e393758f.png",
+      "label": "anomalous",
+      "sha256": "576795b18f9c07cd0212cccf0f1d3dfda4142cf414363c3245741e72e393758f"
+    },
+    {
+      "image": "templates/01c774705e2ae91995cd4296f53261c3d4063e2702d4b47aae46ceba21f5faad.png",
+      "label": "anomalous",
+      "sha256": "01c774705e2ae91995cd4296f53261c3d4063e2702d4b47aae46ceba21f5faad"
+    },
+    {
+      "image": "templates/7df5900ae1d66f94610c2bcad97b9c1d6fecbeaa4a4101935423516c3c60ec74.png",
+      "label": "anomalous",
+      "sha256": "7df5900ae1d66f94610c2bcad97b9c1d6fecbeaa4a4101935423516c3c60ec74"
+    },
+    {
+      "image": "templates/68414dac4e19182aa2a1fbdf0de66db6303048706e30a483bad49664789b2fbe.png",
+      "label": "anomalous",
+      "sha256": "68414dac4e19182aa2a1fbdf0de66db6303048706e30a483bad49664789b2fbe"
     },
     {
       "image": "templates/74dd515033556cabf8eca972f538511be4e2ced57ef01ecb964696bb16b5cb11.png",
@@ -2056,7 +2101,7 @@
       "sha256": "02c06b359f3248c8e7737c9cf0f1a86ebf49002999e1c0746c6fef803bde08ad"
     }
   ],
-  "dataset_sha256": "fc090e08a08f37b33b0c3cb40986c5f9d97d4ecdd2e6bf1bed8d92738eca3d17",
+  "dataset_sha256": "5d62a44ad22e688aa45084cd74da5a00d22b3d85831288864012c233e03ea714",
   "license": "Apache-2.0 for original code, annotations, and compilation; source media terms are separate",
   "parameters": {
     "scales": [
@@ -2072,5 +2117,5 @@
     "native_detail_gaussian_sigma": 1.2,
     "inference_revision": 2
   },
-  "created_utc": "2026-10-30T19:44:02.967918+00:00"
+  "created_utc": "2026-10-30T19:45:25.338857+00:00"
 }
